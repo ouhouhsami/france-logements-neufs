@@ -4,6 +4,11 @@
     "features": [{
             "type": "Feature",
             "properties": {
+                "stroke": "#00AA00",
+                "stroke-width": 2,
+                "stroke-opacity": 1.0,
+                "fill": "#00AA55",
+                "fill-opacity": 1,
                 "ID_GEOFLA": 1,
                 "CODE_DEPT": "01",
                 "NOM_DEPT": "AIN",
@@ -14,10 +19,7 @@
                 "X_CENTROID": 8814,
                 "Y_CENTROID": 65582,
                 "CODE_REG": "82",
-                "NOM_REGION": "RHONE-ALPES",
-                "fill": "red",
-                "stroke-width": "3",
-                "fill-opacity": 0.6
+                "NOM_REGION": "RHONE-ALPES"
             },
             "geometry": {
                 "type": "Polygon",
