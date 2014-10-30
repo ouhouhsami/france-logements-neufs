@@ -14,9 +14,7 @@
                 "X_CENTROID": 8814,
                 "Y_CENTROID": 65582,
                 "CODE_REG": "82",
-                "NOM_REGION": "RHONE-ALPES"
-            },
-            "style": {
+                "NOM_REGION": "RHONE-ALPES",
                 "fill": "red",
                 "stroke-width": "3",
                 "fill-opacity": 0.6
