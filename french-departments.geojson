@@ -4,11 +4,11 @@
     "features": [{
             "type": "Feature",
             "properties": {
-                "stroke": "#00AA00",
-                "stroke-width": 1,
-                "stroke-opacity": 1,
-                "fill": "#00AA55",
-                "fill-opacity": 1,
+                "stroke": "#FFFFFF",
+                "stroke-width": 0,
+                "stroke-opacity": 0,
+                "fill": "#FFFFFF",
+                "fill-opacity": 0,
                 "ID_GEOFLA": 1,
                 "CODE_DEPT": "01",
                 "NOM_DEPT": "AIN",
