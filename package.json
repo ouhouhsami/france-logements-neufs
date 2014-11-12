@@ -1,0 +1,35 @@
+{
+  "name": "france-logements-neufs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ouhouhsami/france-logements-neufs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouhouhsami/france-logements-neufs/issues"
+  },
+  "homepage": "https://github.com/ouhouhsami/france-logements-neufs",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^6.0.0",
+    "colorbrewer": "0.0.2",
+    "d3": "^3.4.13",
+    "flux": "^2.0.1",
+    "gulp": "^3.8.7",
+    "gulp-notify": "^2.0.1",
+    "gulp-util": "^3.0.1",
+    "queue-async": "^1.0.7",
+    "react": "^0.12.0",
+    "reactify": "^0.14.0",
+    "uglify-js": "^2.4.13",
+    "vinyl-source-stream": "^1.0.0",
+    "watchify": "^2.0.0"
+  }
+}

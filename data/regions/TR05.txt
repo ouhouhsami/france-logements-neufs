@@ -1,0 +1,531 @@
+Lieu	N° région, département	Série	Unité	1999	2010
+ALSACE	42	TR05Total	nombre	751123.0	804907.0
+ALSACE	42	TR05Travaillant à domicile	nombre	30457.0	29517.0
+ALSACE	42	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	51691.0	53643.0
+ALSACE	42	TR05Utilisant un seul mode de transport, le deux-roues	nombre	33059.0	43025.0
+ALSACE	42	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	525602.0	593486.0
+ALSACE	42	TR05Utilisant un seul mode de transport, les transports en commun	nombre	56714.0	85236.0
+ALSACE	42	TR05Utilisant  plusieurs modes de transport	nombre	53600.0	ND
+ALSACE	42	TR05Travaillant à domicile et habitant une commune rurale	nombre	11834.0	8531.0
+ALSACE	42	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	7550.0	6861.0
+ALSACE	42	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	5205.0	4176.0
+ALSACE	42	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	153664.0	162812.0
+ALSACE	42	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	9039.0	9069.0
+ALSACE	42	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	9357.0	ND
+ALSACE	42	TR05Travaillant à domicile et habitant une commune urbaine	nombre	18623.0	20986.0
+ALSACE	42	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	44141.0	46781.0
+ALSACE	42	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	27854.0	38849.0
+ALSACE	42	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	371938.0	430674.0
+ALSACE	42	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	47675.0	76167.0
+ALSACE	42	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	44243.0	ND
+ALSACE	42	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	248.0	ND
+ALSACE	42	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	1018.0	ND
+ALSACE	42	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	62385.0	ND
+ALSACE	42	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	4568.0	ND
+ALSACE	42	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	3537.0	ND
+AQUITAINE	72	TR05Total	nombre	1115347.0	1322419.0
+AQUITAINE	72	TR05Travaillant à domicile	nombre	73500.0	59087.0
+AQUITAINE	72	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	67049.0	75959.0
+AQUITAINE	72	TR05Utilisant un seul mode de transport, le deux-roues	nombre	41267.0	59345.0
+AQUITAINE	72	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	831617.0	1046434.0
+AQUITAINE	72	TR05Utilisant un seul mode de transport, les transports en commun	nombre	41961.0	81594.0
+AQUITAINE	72	TR05Utilisant  plusieurs modes de transport	nombre	59953.0	ND
+AQUITAINE	72	TR05Travaillant à domicile et habitant une commune rurale	nombre	42868.0	25770.0
+AQUITAINE	72	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	16908.0	17356.0
+AQUITAINE	72	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	9417.0	9004.0
+AQUITAINE	72	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	256199.0	308909.0
+AQUITAINE	72	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	3124.0	5731.0
+AQUITAINE	72	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	12801.0	ND
+AQUITAINE	72	TR05Travaillant à domicile et habitant une commune urbaine	nombre	30632.0	33317.0
+AQUITAINE	72	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	50141.0	58603.0
+AQUITAINE	72	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	31850.0	50342.0
+AQUITAINE	72	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	575418.0	737525.0
+AQUITAINE	72	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	38837.0	75862.0
+AQUITAINE	72	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	47152.0	ND
+AQUITAINE	72	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	103.0	ND
+AQUITAINE	72	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	56.0	ND
+AQUITAINE	72	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	2122.0	ND
+AQUITAINE	72	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	200.0	ND
+AQUITAINE	72	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	873.0	ND
+AUVERGNE	83	TR05Total	nombre	509903.0	547210.0
+AUVERGNE	83	TR05Travaillant à domicile	nombre	45523.0	31738.0
+AUVERGNE	83	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	48647.0	52163.0
+AUVERGNE	83	TR05Utilisant un seul mode de transport, le deux-roues	nombre	13194.0	14422.0
+AUVERGNE	83	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	359436.0	423446.0
+AUVERGNE	83	TR05Utilisant un seul mode de transport, les transports en commun	nombre	17517.0	25440.0
+AUVERGNE	83	TR05Utilisant  plusieurs modes de transport	nombre	25586.0	ND
+AUVERGNE	83	TR05Travaillant à domicile et habitant une commune rurale	nombre	32133.0	19572.0
+AUVERGNE	83	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	14367.0	16669.0
+AUVERGNE	83	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	3423.0	3793.0
+AUVERGNE	83	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	146186.0	187536.0
+AUVERGNE	83	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	2401.0	3419.0
+AUVERGNE	83	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	7191.0	ND
+AUVERGNE	83	TR05Travaillant à domicile et habitant une commune urbaine	nombre	13390.0	12167.0
+AUVERGNE	83	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	34280.0	35494.0
+AUVERGNE	83	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	9771.0	10628.0
+AUVERGNE	83	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	213250.0	235911.0
+AUVERGNE	83	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	15116.0	22021.0
+AUVERGNE	83	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	18395.0	ND
+AUVERGNE	83	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	32.0	ND
+AUVERGNE	83	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	8.0	ND
+AUVERGNE	83	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	241.0	ND
+AUVERGNE	83	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	43.0	ND
+AUVERGNE	83	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	127.0	ND
+BASSE NORMANDIE	25	TR05Total	nombre	546517.0	594547.0
+BASSE NORMANDIE	25	TR05Travaillant à domicile	nombre	49032.0	33300.0
+BASSE NORMANDIE	25	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	44626.0	45316.0
+BASSE NORMANDIE	25	TR05Utilisant un seul mode de transport, le deux-roues	nombre	19745.0	20450.0
+BASSE NORMANDIE	25	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	393334.0	472383.0
+BASSE NORMANDIE	25	TR05Utilisant un seul mode de transport, les transports en commun	nombre	16105.0	23099.0
+BASSE NORMANDIE	25	TR05Utilisant  plusieurs modes de transport	nombre	23675.0	ND
+BASSE NORMANDIE	25	TR05Travaillant à domicile et habitant une commune rurale	nombre	33781.0	20074.0
+BASSE NORMANDIE	25	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	12807.0	12975.0
+BASSE NORMANDIE	25	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	7669.0	7095.0
+BASSE NORMANDIE	25	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	196406.0	240396.0
+BASSE NORMANDIE	25	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	2909.0	4270.0
+BASSE NORMANDIE	25	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	7723.0	ND
+BASSE NORMANDIE	25	TR05Travaillant à domicile et habitant une commune urbaine	nombre	15251.0	13225.0
+BASSE NORMANDIE	25	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	31819.0	32341.0
+BASSE NORMANDIE	25	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	12076.0	13355.0
+BASSE NORMANDIE	25	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	196928.0	231986.0
+BASSE NORMANDIE	25	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	13196.0	18829.0
+BASSE NORMANDIE	25	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	15952.0	ND
+BASSE NORMANDIE	25	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	48.0	ND
+BASSE NORMANDIE	25	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	18.0	ND
+BASSE NORMANDIE	25	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	427.0	ND
+BASSE NORMANDIE	25	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	54.0	ND
+BASSE NORMANDIE	25	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	176.0	ND
+BOURGOGNE	26	TR05Total	nombre	624723.0	666639.0
+BOURGOGNE	26	TR05Travaillant à domicile	nombre	44899.0	35275.0
+BOURGOGNE	26	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	55377.0	55893.0
+BOURGOGNE	26	TR05Utilisant un seul mode de transport, le deux-roues	nombre	22850.0	24848.0
+BOURGOGNE	26	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	437815.0	512098.0
+BOURGOGNE	26	TR05Utilisant un seul mode de transport, les transports en commun	nombre	24362.0	38525.0
+BOURGOGNE	26	TR05Utilisant  plusieurs modes de transport	nombre	39420.0	ND
+BOURGOGNE	26	TR05Travaillant à domicile et habitant une commune rurale	nombre	29186.0	21800.0
+BOURGOGNE	26	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	15108.0	15326.0
+BOURGOGNE	26	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	7348.0	8011.0
+BOURGOGNE	26	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	200628.0	256335.0
+BOURGOGNE	26	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	3858.0	7917.0
+BOURGOGNE	26	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	12670.0	ND
+BOURGOGNE	26	TR05Travaillant à domicile et habitant une commune urbaine	nombre	15713.0	13475.0
+BOURGOGNE	26	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	40269.0	40567.0
+BOURGOGNE	26	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	15502.0	16837.0
+BOURGOGNE	26	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	237187.0	255763.0
+BOURGOGNE	26	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	20504.0	30608.0
+BOURGOGNE	26	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	26750.0	ND
+BOURGOGNE	26	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	48.0	ND
+BOURGOGNE	26	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	16.0	ND
+BOURGOGNE	26	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	535.0	ND
+BOURGOGNE	26	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	49.0	ND
+BOURGOGNE	26	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	199.0	ND
+BRETAGNE	53	TR05Total	nombre	1123046.0	1311972.0
+BRETAGNE	53	TR05Travaillant à domicile	nombre	91929.0	67469.0
+BRETAGNE	53	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	72285.0	80196.0
+BRETAGNE	53	TR05Utilisant un seul mode de transport, le deux-roues	nombre	36193.0	44594.0
+BRETAGNE	53	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	829818.0	1045700.0
+BRETAGNE	53	TR05Utilisant un seul mode de transport, les transports en commun	nombre	38070.0	74013.0
+BRETAGNE	53	TR05Utilisant  plusieurs modes de transport	nombre	54751.0	ND
+BRETAGNE	53	TR05Travaillant à domicile et habitant une commune rurale	nombre	54914.0	30136.0
+BRETAGNE	53	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	17587.0	19646.0
+BRETAGNE	53	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	10269.0	9613.0
+BRETAGNE	53	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	307461.0	359499.0
+BRETAGNE	53	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	6099.0	8836.0
+BRETAGNE	53	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	12104.0	ND
+BRETAGNE	53	TR05Travaillant à domicile et habitant une commune urbaine	nombre	37015.0	37332.0
+BRETAGNE	53	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	54698.0	60549.0
+BRETAGNE	53	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	25924.0	34981.0
+BRETAGNE	53	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	522357.0	686201.0
+BRETAGNE	53	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	31971.0	65177.0
+BRETAGNE	53	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	42647.0	ND
+BRETAGNE	53	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	108.0	ND
+BRETAGNE	53	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	33.0	ND
+BRETAGNE	53	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	972.0	ND
+BRETAGNE	53	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	134.0	ND
+BRETAGNE	53	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	891.0	ND
+CENTRE	24	TR05Total	nombre	977755.0	1055902.0
+CENTRE	24	TR05Travaillant à domicile	nombre	63065.0	51052.0
+CENTRE	24	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	71735.0	71473.0
+CENTRE	24	TR05Utilisant un seul mode de transport, le deux-roues	nombre	44400.0	42821.0
+CENTRE	24	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	691479.0	813965.0
+CENTRE	24	TR05Utilisant un seul mode de transport, les transports en commun	nombre	45001.0	76592.0
+CENTRE	24	TR05Utilisant  plusieurs modes de transport	nombre	62075.0	ND
+CENTRE	24	TR05Travaillant à domicile et habitant une commune rurale	nombre	35521.0	25965.0
+CENTRE	24	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	16088.0	14618.0
+CENTRE	24	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	11681.0	10396.0
+CENTRE	24	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	249455.0	316974.0
+CENTRE	24	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	6442.0	12201.0
+CENTRE	24	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	15896.0	ND
+CENTRE	24	TR05Travaillant à domicile et habitant une commune urbaine	nombre	27544.0	25087.0
+CENTRE	24	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	55647.0	56855.0
+CENTRE	24	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	32719.0	32425.0
+CENTRE	24	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	442024.0	496991.0
+CENTRE	24	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	38559.0	64391.0
+CENTRE	24	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	46179.0	ND
+CENTRE	24	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	71.0	ND
+CENTRE	24	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	16.0	ND
+CENTRE	24	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	619.0	ND
+CENTRE	24	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	100.0	ND
+CENTRE	24	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	281.0	ND
+CHAMPAGNE-ARDENNE	21	TR05Total	nombre	519272.0	541115.0
+CHAMPAGNE-ARDENNE	21	TR05Travaillant à domicile	nombre	32511.0	26975.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	53766.0	51796.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant un seul mode de transport, le deux-roues	nombre	19743.0	19227.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	363664.0	413756.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant un seul mode de transport, les transports en commun	nombre	20082.0	29361.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  plusieurs modes de transport	nombre	29506.0	ND
+CHAMPAGNE-ARDENNE	21	TR05Travaillant à domicile et habitant une commune rurale	nombre	20480.0	15436.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	15227.0	13799.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	5769.0	5407.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	149045.0	190720.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	2089.0	3596.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	7699.0	ND
+CHAMPAGNE-ARDENNE	21	TR05Travaillant à domicile et habitant une commune urbaine	nombre	12031.0	11539.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	38539.0	37998.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	13974.0	13820.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	214619.0	223035.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	17993.0	25765.0
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	21807.0	ND
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	44.0	ND
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	32.0	ND
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	1751.0	ND
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	64.0	ND
+CHAMPAGNE-ARDENNE	21	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	182.0	ND
+CORSE	94	TR05Total	nombre	85986.0	122916.0
+CORSE	94	TR05Travaillant à domicile	nombre	3496.0	5523.0
+CORSE	94	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	10162.0	11583.0
+CORSE	94	TR05Utilisant un seul mode de transport, le deux-roues	nombre	1493.0	4910.0
+CORSE	94	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	65069.0	98137.0
+CORSE	94	TR05Utilisant un seul mode de transport, les transports en commun	nombre	1866.0	2763.0
+CORSE	94	TR05Utilisant  plusieurs modes de transport	nombre	3900.0	ND
+CORSE	94	TR05Travaillant à domicile et habitant une commune rurale	nombre	1951.0	2175.0
+CORSE	94	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	2660.0	2501.0
+CORSE	94	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	480.0	961.0
+CORSE	94	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	23175.0	32063.0
+CORSE	94	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	237.0	482.0
+CORSE	94	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	1314.0	ND
+CORSE	94	TR05Travaillant à domicile et habitant une commune urbaine	nombre	1545.0	3348.0
+CORSE	94	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	7502.0	9082.0
+CORSE	94	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	1013.0	3950.0
+CORSE	94	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	41894.0	66075.0
+CORSE	94	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	1629.0	2281.0
+CORSE	94	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	2586.0	ND
+CORSE	94	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	8.0	ND
+CORSE	94	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	ND	ND
+CORSE	94	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	119.0	ND
+CORSE	94	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	3.0	ND
+CORSE	94	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	16.0	ND
+FRANCHE COMTE	43	TR05Total	nombre	448730.0	489736.0
+FRANCHE COMTE	43	TR05Travaillant à domicile	nombre	27492.0	22120.0
+FRANCHE COMTE	43	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	44016.0	41483.0
+FRANCHE COMTE	43	TR05Utilisant un seul mode de transport, le deux-roues	nombre	13020.0	14225.0
+FRANCHE COMTE	43	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	317171.0	385321.0
+FRANCHE COMTE	43	TR05Utilisant un seul mode de transport, les transports en commun	nombre	22013.0	26587.0
+FRANCHE COMTE	43	TR05Utilisant  plusieurs modes de transport	nombre	25018.0	ND
+FRANCHE COMTE	43	TR05Travaillant à domicile et habitant une commune rurale	nombre	16982.0	12217.0
+FRANCHE COMTE	43	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	12840.0	11056.0
+FRANCHE COMTE	43	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	3667.0	4396.0
+FRANCHE COMTE	43	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	144956.0	183274.0
+FRANCHE COMTE	43	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	4507.0	4904.0
+FRANCHE COMTE	43	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	7187.0	ND
+FRANCHE COMTE	43	TR05Travaillant à domicile et habitant une commune urbaine	nombre	10510.0	9904.0
+FRANCHE COMTE	43	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	31176.0	30427.0
+FRANCHE COMTE	43	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	9353.0	9829.0
+FRANCHE COMTE	43	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	172215.0	202047.0
+FRANCHE COMTE	43	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	17506.0	21683.0
+FRANCHE COMTE	43	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	17831.0	ND
+FRANCHE COMTE	43	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	59.0	ND
+FRANCHE COMTE	43	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	21.0	ND
+FRANCHE COMTE	43	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	13255.0	ND
+FRANCHE COMTE	43	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	266.0	ND
+FRANCHE COMTE	43	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	359.0	ND
+HAUTE NORMANDIE	23	TR05Total	nombre	686326.0	750298.0
+HAUTE NORMANDIE	23	TR05Travaillant à domicile	nombre	35714.0	31219.0
+HAUTE NORMANDIE	23	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	53995.0	54852.0
+HAUTE NORMANDIE	23	TR05Utilisant un seul mode de transport, le deux-roues	nombre	22251.0	23022.0
+HAUTE NORMANDIE	23	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	490831.0	579687.0
+HAUTE NORMANDIE	23	TR05Utilisant un seul mode de transport, les transports en commun	nombre	43477.0	61519.0
+HAUTE NORMANDIE	23	TR05Utilisant  plusieurs modes de transport	nombre	40058.0	ND
+HAUTE NORMANDIE	23	TR05Travaillant à domicile et habitant une commune rurale	nombre	17377.0	13349.0
+HAUTE NORMANDIE	23	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	9269.0	8383.0
+HAUTE NORMANDIE	23	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	7063.0	5695.0
+HAUTE NORMANDIE	23	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	178995.0	217814.0
+HAUTE NORMANDIE	23	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	5985.0	8055.0
+HAUTE NORMANDIE	23	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	10014.0	ND
+HAUTE NORMANDIE	23	TR05Travaillant à domicile et habitant une commune urbaine	nombre	18337.0	17869.0
+HAUTE NORMANDIE	23	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	44726.0	46468.0
+HAUTE NORMANDIE	23	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	15188.0	17327.0
+HAUTE NORMANDIE	23	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	311836.0	361873.0
+HAUTE NORMANDIE	23	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	37492.0	53464.0
+HAUTE NORMANDIE	23	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	30044.0	ND
+HAUTE NORMANDIE	23	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	43.0	ND
+HAUTE NORMANDIE	23	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	19.0	ND
+HAUTE NORMANDIE	23	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	438.0	ND
+HAUTE NORMANDIE	23	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	104.0	ND
+HAUTE NORMANDIE	23	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	246.0	ND
+ILE DE FRANCE	11	TR05Total	nombre	4846564.0	5399903.0
+ILE DE FRANCE	11	TR05Travaillant à domicile	nombre	174256.0	202827.0
+ILE DE FRANCE	11	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	358236.0	400379.0
+ILE DE FRANCE	11	TR05Utilisant un seul mode de transport, le deux-roues	nombre	118813.0	245883.0
+ILE DE FRANCE	11	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	2064084.0	2250222.0
+ILE DE FRANCE	11	TR05Utilisant un seul mode de transport, les transports en commun	nombre	1584283.0	2300592.0
+ILE DE FRANCE	11	TR05Utilisant  plusieurs modes de transport	nombre	546892.0	ND
+ILE DE FRANCE	11	TR05Travaillant à domicile et habitant une commune rurale	nombre	10754.0	9211.0
+ILE DE FRANCE	11	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	8005.0	6109.0
+ILE DE FRANCE	11	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	3737.0	4169.0
+ILE DE FRANCE	11	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	138164.0	157619.0
+ILE DE FRANCE	11	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	13374.0	25766.0
+ILE DE FRANCE	11	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	19757.0	ND
+ILE DE FRANCE	11	TR05Travaillant à domicile et habitant une commune urbaine	nombre	163502.0	193616.0
+ILE DE FRANCE	11	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	350231.0	394270.0
+ILE DE FRANCE	11	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	115076.0	241714.0
+ILE DE FRANCE	11	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	1925920.0	2092602.0
+ILE DE FRANCE	11	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	1570909.0	2274826.0
+ILE DE FRANCE	11	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	527135.0	ND
+ILE DE FRANCE	11	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	437.0	ND
+ILE DE FRANCE	11	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	181.0	ND
+ILE DE FRANCE	11	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	3707.0	ND
+ILE DE FRANCE	11	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	2777.0	ND
+ILE DE FRANCE	11	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	3196.0	ND
+LANGUEDOC-ROUSSILLON	91	TR05Total	nombre	776448.0	967031.0
+LANGUEDOC-ROUSSILLON	91	TR05Travaillant à domicile	nombre	36444.0	42453.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	74742.0	77425.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant un seul mode de transport, le deux-roues	nombre	27836.0	40839.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	568239.0	756514.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant un seul mode de transport, les transports en commun	nombre	23299.0	49801.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  plusieurs modes de transport	nombre	45888.0	ND
+LANGUEDOC-ROUSSILLON	91	TR05Travaillant à domicile et habitant une commune rurale	nombre	15976.0	12662.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	16408.0	14295.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	4445.0	4345.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	148815.0	169176.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	2112.0	3824.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	10727.0	ND
+LANGUEDOC-ROUSSILLON	91	TR05Travaillant à domicile et habitant une commune urbaine	nombre	20468.0	29790.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	58334.0	63130.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	23391.0	36494.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	419424.0	587338.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	21187.0	45976.0
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	35161.0	ND
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	103.0	ND
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	31.0	ND
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	1273.0	ND
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	115.0	ND
+LANGUEDOC-ROUSSILLON	91	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	518.0	ND
+LIMOUSIN	74	TR05Total	nombre	271511.0	294855.0
+LIMOUSIN	74	TR05Travaillant à domicile	nombre	24222.0	16760.0
+LIMOUSIN	74	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	22305.0	24057.0
+LIMOUSIN	74	TR05Utilisant un seul mode de transport, le deux-roues	nombre	4624.0	6359.0
+LIMOUSIN	74	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	201613.0	237454.0
+LIMOUSIN	74	TR05Utilisant un seul mode de transport, les transports en commun	nombre	6957.0	10225.0
+LIMOUSIN	74	TR05Utilisant  plusieurs modes de transport	nombre	11790.0	ND
+LIMOUSIN	74	TR05Travaillant à domicile et habitant une commune rurale	nombre	18395.0	11086.0
+LIMOUSIN	74	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	7524.0	8033.0
+LIMOUSIN	74	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	1832.0	2097.0
+LIMOUSIN	74	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	94685.0	110033.0
+LIMOUSIN	74	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	854.0	1670.0
+LIMOUSIN	74	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	4179.0	ND
+LIMOUSIN	74	TR05Travaillant à domicile et habitant une commune urbaine	nombre	5827.0	5674.0
+LIMOUSIN	74	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	14781.0	16024.0
+LIMOUSIN	74	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	2792.0	4261.0
+LIMOUSIN	74	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	106928.0	127421.0
+LIMOUSIN	74	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	6103.0	8555.0
+LIMOUSIN	74	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	7611.0	ND
+LIMOUSIN	74	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	11.0	ND
+LIMOUSIN	74	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	3.0	ND
+LIMOUSIN	74	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	194.0	ND
+LIMOUSIN	74	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	20.0	ND
+LIMOUSIN	74	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	85.0	ND
+LORRAINE	41	TR05Total	nombre	887975.0	964517.0
+LORRAINE	41	TR05Travaillant à domicile	nombre	41287.0	37150.0
+LORRAINE	41	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	79436.0	75438.0
+LORRAINE	41	TR05Utilisant un seul mode de transport, le deux-roues	nombre	19294.0	21327.0
+LORRAINE	41	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	650073.0	762398.0
+LORRAINE	41	TR05Utilisant un seul mode de transport, les transports en commun	nombre	47646.0	68204.0
+LORRAINE	41	TR05Utilisant  plusieurs modes de transport	nombre	50239.0	ND
+LORRAINE	41	TR05Travaillant à domicile et habitant une commune rurale	nombre	18498.0	14278.0
+LORRAINE	41	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	14640.0	12986.0
+LORRAINE	41	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	4346.0	4640.0
+LORRAINE	41	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	197822.0	245238.0
+LORRAINE	41	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	6053.0	7749.0
+LORRAINE	41	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	9973.0	ND
+LORRAINE	41	TR05Travaillant à domicile et habitant une commune urbaine	nombre	22789.0	22872.0
+LORRAINE	41	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	64796.0	62452.0
+LORRAINE	41	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	14948.0	16687.0
+LORRAINE	41	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	452251.0	517160.0
+LORRAINE	41	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	41593.0	60454.0
+LORRAINE	41	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	40266.0	ND
+LORRAINE	41	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	211.0	ND
+LORRAINE	41	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	296.0	ND
+LORRAINE	41	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	60204.0	ND
+LORRAINE	41	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	3794.0	ND
+LORRAINE	41	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	3963.0	ND
+MIDI-PYRENEES	73	TR05Total	nombre	985541.0	1193421.0
+MIDI-PYRENEES	73	TR05Travaillant à domicile	nombre	75191.0	56187.0
+MIDI-PYRENEES	73	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	69748.0	82477.0
+MIDI-PYRENEES	73	TR05Utilisant un seul mode de transport, le deux-roues	nombre	29344.0	47009.0
+MIDI-PYRENEES	73	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	724291.0	926243.0
+MIDI-PYRENEES	73	TR05Utilisant un seul mode de transport, les transports en commun	nombre	33021.0	81506.0
+MIDI-PYRENEES	73	TR05Utilisant  plusieurs modes de transport	nombre	53946.0	ND
+MIDI-PYRENEES	73	TR05Travaillant à domicile et habitant une commune rurale	nombre	51430.0	29798.0
+MIDI-PYRENEES	73	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	19934.0	23641.0
+MIDI-PYRENEES	73	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	6120.0	7217.0
+MIDI-PYRENEES	73	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	256701.0	323841.0
+MIDI-PYRENEES	73	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	2997.0	6984.0
+MIDI-PYRENEES	73	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	12773.0	ND
+MIDI-PYRENEES	73	TR05Travaillant à domicile et habitant une commune urbaine	nombre	23761.0	26388.0
+MIDI-PYRENEES	73	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	49814.0	58836.0
+MIDI-PYRENEES	73	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	23224.0	39793.0
+MIDI-PYRENEES	73	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	467590.0	602401.0
+MIDI-PYRENEES	73	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	30024.0	74521.0
+MIDI-PYRENEES	73	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	41173.0	ND
+MIDI-PYRENEES	73	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	76.0	ND
+MIDI-PYRENEES	73	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	34.0	ND
+MIDI-PYRENEES	73	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	1013.0	ND
+MIDI-PYRENEES	73	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	113.0	ND
+MIDI-PYRENEES	73	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	552.0	ND
+NORD-PAS-DE-CALAIS	31	TR05Total	nombre	1372633.0	1526377.0
+NORD-PAS-DE-CALAIS	31	TR05Travaillant à domicile	nombre	66211.0	58078.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	110119.0	104169.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant un seul mode de transport, le deux-roues	nombre	61121.0	57444.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	982472.0	1174070.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant un seul mode de transport, les transports en commun	nombre	74718.0	132615.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  plusieurs modes de transport	nombre	77992.0	ND
+NORD-PAS-DE-CALAIS	31	TR05Travaillant à domicile et habitant une commune rurale	nombre	19569.0	13439.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	9201.0	8111.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	5770.0	4685.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	152058.0	179836.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	3928.0	5684.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	7403.0	ND
+NORD-PAS-DE-CALAIS	31	TR05Travaillant à domicile et habitant une commune urbaine	nombre	46642.0	44639.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	100918.0	96059.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	55351.0	52759.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	830414.0	994234.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	70790.0	126931.0
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	70589.0	ND
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	119.0	ND
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	402.0	ND
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	14223.0	ND
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	397.0	ND
+NORD-PAS-DE-CALAIS	31	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	962.0	ND
+PAYS DE LA LOIRE	52	TR05Total	nombre	1291139.0	1507165.0
+PAYS DE LA LOIRE	52	TR05Travaillant à domicile	nombre	97716.0	76110.0
+PAYS DE LA LOIRE	52	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	76682.0	85158.0
+PAYS DE LA LOIRE	52	TR05Utilisant un seul mode de transport, le deux-roues	nombre	65546.0	68406.0
+PAYS DE LA LOIRE	52	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	932209.0	1175735.0
+PAYS DE LA LOIRE	52	TR05Utilisant un seul mode de transport, les transports en commun	nombre	50938.0	101758.0
+PAYS DE LA LOIRE	52	TR05Utilisant  plusieurs modes de transport	nombre	68048.0	ND
+PAYS DE LA LOIRE	52	TR05Travaillant à domicile et habitant une commune rurale	nombre	56772.0	35243.0
+PAYS DE LA LOIRE	52	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	21014.0	20792.0
+PAYS DE LA LOIRE	52	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	19463.0	15303.0
+PAYS DE LA LOIRE	52	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	345638.0	420180.0
+PAYS DE LA LOIRE	52	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	4412.0	8524.0
+PAYS DE LA LOIRE	52	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	14493.0	ND
+PAYS DE LA LOIRE	52	TR05Travaillant à domicile et habitant une commune urbaine	nombre	40944.0	40867.0
+PAYS DE LA LOIRE	52	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	55668.0	64366.0
+PAYS DE LA LOIRE	52	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	46083.0	53103.0
+PAYS DE LA LOIRE	52	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	586571.0	755555.0
+PAYS DE LA LOIRE	52	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	46526.0	93234.0
+PAYS DE LA LOIRE	52	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	53555.0	ND
+PAYS DE LA LOIRE	52	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	90.0	ND
+PAYS DE LA LOIRE	52	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	24.0	ND
+PAYS DE LA LOIRE	52	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	636.0	ND
+PAYS DE LA LOIRE	52	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	108.0	ND
+PAYS DE LA LOIRE	52	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	374.0	ND
+PICARDIE	22	TR05Total	nombre	716534.0	773694.0
+PICARDIE	22	TR05Travaillant à domicile	nombre	41110.0	36919.0
+PICARDIE	22	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	63635.0	60024.0
+PICARDIE	22	TR05Utilisant un seul mode de transport, le deux-roues	nombre	26260.0	23464.0
+PICARDIE	22	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	504295.0	593018.0
+PICARDIE	22	TR05Utilisant un seul mode de transport, les transports en commun	nombre	35260.0	60270.0
+PICARDIE	22	TR05Utilisant  plusieurs modes de transport	nombre	45974.0	ND
+PICARDIE	22	TR05Travaillant à domicile et habitant une commune rurale	nombre	22677.0	19172.0
+PICARDIE	22	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	17191.0	14205.0
+PICARDIE	22	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	9435.0	7934.0
+PICARDIE	22	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	218415.0	274264.0
+PICARDIE	22	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	5746.0	12894.0
+PICARDIE	22	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	14308.0	ND
+PICARDIE	22	TR05Travaillant à domicile et habitant une commune urbaine	nombre	18433.0	17746.0
+PICARDIE	22	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	46444.0	45819.0
+PICARDIE	22	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	16825.0	15530.0
+PICARDIE	22	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	285880.0	318754.0
+PICARDIE	22	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	29514.0	47376.0
+PICARDIE	22	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	31666.0	ND
+PICARDIE	22	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	35.0	ND
+PICARDIE	22	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	11.0	ND
+PICARDIE	22	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	634.0	ND
+PICARDIE	22	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	49.0	ND
+PICARDIE	22	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	216.0	ND
+POITOU-CHARENTES	54	TR05Total	nombre	620672.0	708689.0
+POITOU-CHARENTES	54	TR05Travaillant à domicile	nombre	48673.0	36189.0
+POITOU-CHARENTES	54	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	40885.0	44197.0
+POITOU-CHARENTES	54	TR05Utilisant un seul mode de transport, le deux-roues	nombre	24630.0	26950.0
+POITOU-CHARENTES	54	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	464339.0	577796.0
+POITOU-CHARENTES	54	TR05Utilisant un seul mode de transport, les transports en commun	nombre	12407.0	23557.0
+POITOU-CHARENTES	54	TR05Utilisant  plusieurs modes de transport	nombre	29738.0	ND
+POITOU-CHARENTES	54	TR05Travaillant à domicile et habitant une commune rurale	nombre	32967.0	21684.0
+POITOU-CHARENTES	54	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	14366.0	14547.0
+POITOU-CHARENTES	54	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	9901.0	9055.0
+POITOU-CHARENTES	54	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	226592.0	291033.0
+POITOU-CHARENTES	54	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	1997.0	4042.0
+POITOU-CHARENTES	54	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	10968.0	ND
+POITOU-CHARENTES	54	TR05Travaillant à domicile et habitant une commune urbaine	nombre	15706.0	14505.0
+POITOU-CHARENTES	54	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	26519.0	29650.0
+POITOU-CHARENTES	54	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	14729.0	17895.0
+POITOU-CHARENTES	54	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	237747.0	286763.0
+POITOU-CHARENTES	54	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	10410.0	19514.0
+POITOU-CHARENTES	54	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	18770.0	ND
+POITOU-CHARENTES	54	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	50.0	ND
+POITOU-CHARENTES	54	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	13.0	ND
+POITOU-CHARENTES	54	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	369.0	ND
+POITOU-CHARENTES	54	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	44.0	ND
+POITOU-CHARENTES	54	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	200.0	ND
+PROVENCE-ALPES-COTE D AZUR	93	TR05Total	nombre	1589021.0	1901415.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Travaillant à domicile	nombre	60261.0	72852.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	147629.0	166879.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant un seul mode de transport, le deux-roues	nombre	62475.0	107827.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	1101073.0	1365127.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant un seul mode de transport, les transports en commun	nombre	108653.0	188730.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  plusieurs modes de transport	nombre	108930.0	ND
+PROVENCE-ALPES-COTE D AZUR	93	TR05Travaillant à domicile et habitant une commune rurale	nombre	12544.0	8337.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	13247.0	10436.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	2713.0	2633.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	102032.0	95886.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	1710.0	2907.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	7849.0	ND
+PROVENCE-ALPES-COTE D AZUR	93	TR05Travaillant à domicile et habitant une commune urbaine	nombre	47717.0	64515.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	134382.0	156443.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	59762.0	105194.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	999041.0	1269241.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	106943.0	185824.0
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	101081.0	ND
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	1702.0	ND
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	2675.0	ND
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	12800.0	ND
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	3199.0	ND
+PROVENCE-ALPES-COTE D AZUR	93	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	3081.0	ND
+RHONE-ALPES	82	TR05Total	nombre	2308436.0	2677927.0
+RHONE-ALPES	82	TR05Travaillant à domicile	nombre	113740.0	105520.0
+RHONE-ALPES	82	TR05Utilisant la marche à pied principalement pour se rendre à son travail	nombre	193797.0	210218.0
+RHONE-ALPES	82	TR05Utilisant un seul mode de transport, le deux-roues	nombre	55252.0	93487.0
+RHONE-ALPES	82	TR05Utilisant un seul mode de transport, la voiture particulière	nombre	1638339.0	1970558.0
+RHONE-ALPES	82	TR05Utilisant un seul mode de transport, les transports en commun	nombre	150609.0	298145.0
+RHONE-ALPES	82	TR05Utilisant  plusieurs modes de transport	nombre	156699.0	ND
+RHONE-ALPES	82	TR05Travaillant à domicile et habitant une commune rurale	nombre	48542.0	31229.0
+RHONE-ALPES	82	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune rurale	nombre	32564.0	27641.0
+RHONE-ALPES	82	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune rurale	nombre	8774.0	9603.0
+RHONE-ALPES	82	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune rurale	nombre	421612.0	445775.0
+RHONE-ALPES	82	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune rurale	nombre	8130.0	17364.0
+RHONE-ALPES	82	TR05Utilisant  plusieurs modes de transport et habitant une commune rurale	nombre	25048.0	ND
+RHONE-ALPES	82	TR05Travaillant à domicile et habitant une commune urbaine	nombre	65198.0	74292.0
+RHONE-ALPES	82	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et habitant une commune urbaine	nombre	161233.0	182577.0
+RHONE-ALPES	82	TR05Utilisant  un seul mode de transport, le deux-roues et habitant une commune urbaine	nombre	46478.0	83883.0
+RHONE-ALPES	82	TR05Utilisant  un seul mode de transport, la voiture particulière et habitant une commune urbaine	nombre	1216727.0	1524782.0
+RHONE-ALPES	82	TR05Utilisant  un seul mode de transport, les transports en commun et habitant une commune urbaine	nombre	142479.0	280781.0
+RHONE-ALPES	82	TR05Utilisant  plusieurs modes de transport et habitant une commune urbaine	nombre	131651.0	ND
+RHONE-ALPES	82	TR05Utilisant  la marche à pied principalement pour se rendre à son travail et travaillant hors Métropole	nombre	259.0	ND
+RHONE-ALPES	82	TR05Utilisant  un seul mode de transport, le deux-roues et travaillant hors Métropole	nombre	1011.0	ND
+RHONE-ALPES	82	TR05Utilisant  un seul mode de transport, la voiture particulière et travaillant hors Métropole	nombre	47639.0	ND
+RHONE-ALPES	82	TR05Utilisant  un seul mode de transport, les transports en commun et travaillant hors Métropole	nombre	2529.0	ND
+RHONE-ALPES	82	TR05Utilisant  plusieurs modes de transport et travaillant hors Métropole	nombre	4664.0	ND
+Producteur : INSEE (Institut National de la Statistique et des Etudes Economiques).
+Source : Recensement de la population.

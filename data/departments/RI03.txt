@@ -1,0 +1,1731 @@
+Lieu	N° région, département	Série	Unité	1999	2006
+AIN	01	RI03Surface totale du territoire	 ha	577503.0	577503.0
+AIN	01	RI03 Surface estimée en zone inondable	 ha	36574.0	36574.0
+AIN	01	RI03 Population totale du territoire	 nombre	515478.0	566743.0
+AIN	01	RI03 Population estimée en zone inondable	 nombre	31300.0	33400.0
+AIN	01	RI03 Nombre total de logements du territoire	 nombre	230972.0	259897.0
+AIN	01	RI03 Nombre de logements estimé en zone inondable	 nombre	13600.0	15000.0
+AIN	01	RI03 Surface urbanisée continue en zone inondable	 ha	61.0	61.0
+AIN	01	RI03 Surface urbanisée discontinue en zone inondable	 ha	1500.0	1507.0
+AIN	01	RI03 Surface des zones d'activités en zone inondable	 ha	647.0	680.0
+AIN	01	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	239.0	239.0
+AIN	01	RI03 Surface des réseaux de communication en zone inondable	 ha	249.0	271.0
+AIN	01	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	12601.0	12590.0
+AIN	01	RI03 Surface des prairies en zone inondable	 ha	10657.0	10592.0
+AIN	01	RI03 Surface des forêts en zone inondable	 ha	5183.0	5242.0
+AIN	01	RI03 Surface des autres zones naturelles en zone inondable	 ha	1196.0	1130.0
+AIN	01	RI03 Surface des zones humides en zone inondable	 ha	895.0	895.0
+AIN	01	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	3347.0	3367.0
+AIN	01	RI03 Taux de couverture	%	76.74	76.74
+AISNE	02	RI03Surface totale du territoire	 ha	742681.0	742681.0
+AISNE	02	RI03 Surface estimée en zone inondable	 ha	30104.0	30104.0
+AISNE	02	RI03 Population totale du territoire	 nombre	535313.0	537059.0
+AISNE	02	RI03 Population estimée en zone inondable	 nombre	27600.0	27500.0
+AISNE	02	RI03 Nombre total de logements du territoire	 nombre	233472.0	245154.0
+AISNE	02	RI03 Nombre de logements estimé en zone inondable	 nombre	12400.0	13100.0
+AISNE	02	RI03 Surface urbanisée continue en zone inondable	 ha	42.0	42.0
+AISNE	02	RI03 Surface urbanisée discontinue en zone inondable	 ha	1819.0	1815.0
+AISNE	02	RI03 Surface des zones d'activités en zone inondable	 ha	994.0	1123.0
+AISNE	02	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	126.0	126.0
+AISNE	02	RI03 Surface des réseaux de communication en zone inondable	 ha	6.0	6.0
+AISNE	02	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	11848.0	11840.0
+AISNE	02	RI03 Surface des prairies en zone inondable	 ha	10670.0	10509.0
+AISNE	02	RI03 Surface des forêts en zone inondable	 ha	3317.0	3214.0
+AISNE	02	RI03 Surface des autres zones naturelles en zone inondable	 ha	227.0	330.0
+AISNE	02	RI03 Surface des zones humides en zone inondable	 ha	27.0	27.0
+AISNE	02	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1029.0	1074.0
+AISNE	02	RI03 Taux de couverture	%	46.46	46.46
+ALLIER	03	RI03Surface totale du territoire	 ha	736531.0	736531.0
+ALLIER	03	RI03 Surface estimée en zone inondable	 ha	35089.0	35089.0
+ALLIER	03	RI03 Population totale du territoire	 nombre	344615.0	343310.0
+ALLIER	03	RI03 Population estimée en zone inondable	 nombre	28400.0	28100.0
+ALLIER	03	RI03 Nombre total de logements du territoire	 nombre	186356.0	194117.0
+ALLIER	03	RI03 Nombre de logements estimé en zone inondable	 nombre	15600.0	16100.0
+ALLIER	03	RI03 Surface urbanisée continue en zone inondable	 ha	56.0	56.0
+ALLIER	03	RI03 Surface urbanisée discontinue en zone inondable	 ha	1213.0	1213.0
+ALLIER	03	RI03 Surface des zones d'activités en zone inondable	 ha	711.0	716.0
+ALLIER	03	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	381.0	381.0
+ALLIER	03	RI03 Surface des réseaux de communication en zone inondable	 ha	13.0	14.0
+ALLIER	03	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	13601.0	13627.0
+ALLIER	03	RI03 Surface des prairies en zone inondable	 ha	12582.0	12537.0
+ALLIER	03	RI03 Surface des forêts en zone inondable	 ha	1611.0	1611.0
+ALLIER	03	RI03 Surface des autres zones naturelles en zone inondable	 ha	1592.0	1619.0
+ALLIER	03	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+ALLIER	03	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	3330.0	3315.0
+ALLIER	03	RI03 Taux de couverture	%	100.0	100.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03Surface totale du territoire	 ha	699415.0	699415.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface estimée en zone inondable	 ha	32472.0	32472.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Population totale du territoire	 nombre	139683.0	154501.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Population estimée en zone inondable	 nombre	28700.0	32300.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Nombre total de logements du territoire	 nombre	102427.0	113750.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Nombre de logements estimé en zone inondable	 nombre	18900.0	21500.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface urbanisée discontinue en zone inondable	 ha	1271.0	1293.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface des zones d'activités en zone inondable	 ha	517.0	632.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	267.0	267.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface des réseaux de communication en zone inondable	 ha	78.0	78.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	17268.0	17155.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface des prairies en zone inondable	 ha	800.0	800.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface des forêts en zone inondable	 ha	4161.0	4149.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface des autres zones naturelles en zone inondable	 ha	6462.0	6451.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surface des zones humides en zone inondable	 ha	37.0	37.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1609.0	1609.0
+ALPES-DE-HAUTE-PROVENCE	04	RI03 Taux de couverture	%	74.36	74.36
+ALPES-MARITIMES	06	RI03Surface totale du territoire	 ha	429511.0	429511.0
+ALPES-MARITIMES	06	RI03 Surface estimée en zone inondable	 ha	13104.0	13104.0
+ALPES-MARITIMES	06	RI03 Population totale du territoire	 nombre	1011866.0	1073187.0
+ALPES-MARITIMES	06	RI03 Population estimée en zone inondable	 nombre	284200.0	295700.0
+ALPES-MARITIMES	06	RI03 Nombre total de logements du territoire	 nombre	666738.0	704399.0
+ALPES-MARITIMES	06	RI03 Nombre de logements estimé en zone inondable	 nombre	191300.0	198700.0
+ALPES-MARITIMES	06	RI03 Surface urbanisée continue en zone inondable	 ha	829.0	829.0
+ALPES-MARITIMES	06	RI03 Surface urbanisée discontinue en zone inondable	 ha	2913.0	2915.0
+ALPES-MARITIMES	06	RI03 Surface des zones d'activités en zone inondable	 ha	1722.0	1723.0
+ALPES-MARITIMES	06	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	461.0	461.0
+ALPES-MARITIMES	06	RI03 Surface des réseaux de communication en zone inondable	 ha	168.0	168.0
+ALPES-MARITIMES	06	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	2143.0	2143.0
+ALPES-MARITIMES	06	RI03 Surface des prairies en zone inondable	 ha	319.0	319.0
+ALPES-MARITIMES	06	RI03 Surface des forêts en zone inondable	 ha	2185.0	2178.0
+ALPES-MARITIMES	06	RI03 Surface des autres zones naturelles en zone inondable	 ha	2187.0	2191.0
+ALPES-MARITIMES	06	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+ALPES-MARITIMES	06	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	177.0	177.0
+ALPES-MARITIMES	06	RI03 Taux de couverture	%	80.67	80.67
+ARDECHE	07	RI03Surface totale du territoire	 ha	556030.0	556030.0
+ARDECHE	07	RI03 Surface estimée en zone inondable	 ha	11686.0	11686.0
+ARDECHE	07	RI03 Population totale du territoire	 nombre	286160.0	306241.0
+ARDECHE	07	RI03 Population estimée en zone inondable	 nombre	25800.0	27000.0
+ARDECHE	07	RI03 Nombre total de logements du territoire	 nombre	160051.0	178960.0
+ARDECHE	07	RI03 Nombre de logements estimé en zone inondable	 nombre	12500.0	13800.0
+ARDECHE	07	RI03 Surface urbanisée continue en zone inondable	 ha	16.0	16.0
+ARDECHE	07	RI03 Surface urbanisée discontinue en zone inondable	 ha	1093.0	1111.0
+ARDECHE	07	RI03 Surface des zones d'activités en zone inondable	 ha	435.0	435.0
+ARDECHE	07	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	0.0	0.0
+ARDECHE	07	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+ARDECHE	07	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	7350.0	7333.0
+ARDECHE	07	RI03 Surface des prairies en zone inondable	 ha	195.0	195.0
+ARDECHE	07	RI03 Surface des forêts en zone inondable	 ha	1632.0	1632.0
+ARDECHE	07	RI03 Surface des autres zones naturelles en zone inondable	 ha	320.0	320.0
+ARDECHE	07	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+ARDECHE	07	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	645.0	645.0
+ARDECHE	07	RI03 Taux de couverture	%	69.57	69.57
+ARDENNES	08	RI03Surface totale du territoire	 ha	525047.0	525047.0
+ARDENNES	08	RI03 Surface estimée en zone inondable	 ha	26513.0	26513.0
+ARDENNES	08	RI03 Population totale du territoire	 nombre	290124.0	285645.0
+ARDENNES	08	RI03 Population estimée en zone inondable	 nombre	39900.0	38300.0
+ARDENNES	08	RI03 Nombre total de logements du territoire	 nombre	128177.0	134699.0
+ARDENNES	08	RI03 Nombre de logements estimé en zone inondable	 nombre	18200.0	19100.0
+ARDENNES	08	RI03 Surface urbanisée continue en zone inondable	 ha	155.0	155.0
+ARDENNES	08	RI03 Surface urbanisée discontinue en zone inondable	 ha	1257.0	1257.0
+ARDENNES	08	RI03 Surface des zones d'activités en zone inondable	 ha	743.0	712.0
+ARDENNES	08	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	254.0	254.0
+ARDENNES	08	RI03 Surface des réseaux de communication en zone inondable	 ha	14.0	14.0
+ARDENNES	08	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	5534.0	5564.0
+ARDENNES	08	RI03 Surface des prairies en zone inondable	 ha	15541.0	15462.0
+ARDENNES	08	RI03 Surface des forêts en zone inondable	 ha	1242.0	1269.0
+ARDENNES	08	RI03 Surface des autres zones naturelles en zone inondable	 ha	28.0	0.0
+ARDENNES	08	RI03 Surface des zones humides en zone inondable	 ha	42.0	42.0
+ARDENNES	08	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1702.0	1784.0
+ARDENNES	08	RI03 Taux de couverture	%	97.55	97.55
+ARIEGE	09	RI03Surface totale du territoire	 ha	492144.0	492144.0
+ARIEGE	09	RI03 Surface estimée en zone inondable	 ha	20022.0	20022.0
+ARIEGE	09	RI03 Population totale du territoire	 nombre	137347.0	146283.0
+ARIEGE	09	RI03 Population estimée en zone inondable	 nombre	19000.0	20400.0
+ARIEGE	09	RI03 Nombre total de logements du territoire	 nombre	88531.0	96554.0
+ARIEGE	09	RI03 Nombre de logements estimé en zone inondable	 nombre	10400.0	11400.0
+ARIEGE	09	RI03 Surface urbanisée continue en zone inondable	 ha	9.0	9.0
+ARIEGE	09	RI03 Surface urbanisée discontinue en zone inondable	 ha	1024.0	1064.0
+ARIEGE	09	RI03 Surface des zones d'activités en zone inondable	 ha	302.0	372.0
+ARIEGE	09	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	2.0	2.0
+ARIEGE	09	RI03 Surface des réseaux de communication en zone inondable	 ha	10.0	14.0
+ARIEGE	09	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	13882.0	13785.0
+ARIEGE	09	RI03 Surface des prairies en zone inondable	 ha	1914.0	1913.0
+ARIEGE	09	RI03 Surface des forêts en zone inondable	 ha	2487.0	2437.0
+ARIEGE	09	RI03 Surface des autres zones naturelles en zone inondable	 ha	285.0	320.0
+ARIEGE	09	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+ARIEGE	09	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	106.0	106.0
+ARIEGE	09	RI03 Taux de couverture	%	94.64	94.64
+AUBE	10	RI03Surface totale du territoire	 ha	602210.0	602210.0
+AUBE	10	RI03 Surface estimée en zone inondable	 ha	31357.0	31357.0
+AUBE	10	RI03 Population totale du territoire	 nombre	292099.0	299704.0
+AUBE	10	RI03 Population estimée en zone inondable	 nombre	32600.0	32400.0
+AUBE	10	RI03 Nombre total de logements du territoire	 nombre	138026.0	146847.0
+AUBE	10	RI03 Nombre de logements estimé en zone inondable	 nombre	14600.0	15200.0
+AUBE	10	RI03 Surface urbanisée continue en zone inondable	 ha	22.0	22.0
+AUBE	10	RI03 Surface urbanisée discontinue en zone inondable	 ha	1476.0	1487.0
+AUBE	10	RI03 Surface des zones d'activités en zone inondable	 ha	781.0	868.0
+AUBE	10	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	104.0	104.0
+AUBE	10	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+AUBE	10	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	11528.0	11471.0
+AUBE	10	RI03 Surface des prairies en zone inondable	 ha	4146.0	4065.0
+AUBE	10	RI03 Surface des forêts en zone inondable	 ha	12070.0	12081.0
+AUBE	10	RI03 Surface des autres zones naturelles en zone inondable	 ha	702.0	695.0
+AUBE	10	RI03 Surface des zones humides en zone inondable	 ha	27.0	27.0
+AUBE	10	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	500.0	535.0
+AUBE	10	RI03 Taux de couverture	%	98.67	98.67
+AUDE	11	RI03Surface totale du territoire	 ha	635402.0	635402.0
+AUDE	11	RI03 Surface estimée en zone inondable	 ha	51312.0	51312.0
+AUDE	11	RI03 Population totale du territoire	 nombre	309952.0	341024.0
+AUDE	11	RI03 Population estimée en zone inondable	 nombre	62700.0	68500.0
+AUDE	11	RI03 Nombre total de logements du territoire	 nombre	201390.0	226346.0
+AUDE	11	RI03 Nombre de logements estimé en zone inondable	 nombre	44800.0	50900.0
+AUDE	11	RI03 Surface urbanisée continue en zone inondable	 ha	122.0	122.0
+AUDE	11	RI03 Surface urbanisée discontinue en zone inondable	 ha	2118.0	2184.0
+AUDE	11	RI03 Surface des zones d'activités en zone inondable	 ha	855.0	787.0
+AUDE	11	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	231.0	234.0
+AUDE	11	RI03 Surface des réseaux de communication en zone inondable	 ha	6.0	6.0
+AUDE	11	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	41320.0	41274.0
+AUDE	11	RI03 Surface des prairies en zone inondable	 ha	595.0	595.0
+AUDE	11	RI03 Surface des forêts en zone inondable	 ha	1909.0	1911.0
+AUDE	11	RI03 Surface des autres zones naturelles en zone inondable	 ha	1197.0	1196.0
+AUDE	11	RI03 Surface des zones humides en zone inondable	 ha	2084.0	2084.0
+AUDE	11	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	874.0	919.0
+AUDE	11	RI03 Taux de couverture	%	88.49	88.49
+AVEYRON	12	RI03Surface totale du territoire	 ha	877010.0	877010.0
+AVEYRON	12	RI03 Surface estimée en zone inondable	 ha	20611.0	20611.0
+AVEYRON	12	RI03 Population totale du territoire	 nombre	263924.0	273380.0
+AVEYRON	12	RI03 Population estimée en zone inondable	 nombre	16100.0	16100.0
+AVEYRON	12	RI03 Nombre total de logements du territoire	 nombre	149833.0	162765.0
+AVEYRON	12	RI03 Nombre de logements estimé en zone inondable	 nombre	9300.0	9700.0
+AVEYRON	12	RI03 Surface urbanisée continue en zone inondable	 ha	27.0	27.0
+AVEYRON	12	RI03 Surface urbanisée discontinue en zone inondable	 ha	816.0	839.0
+AVEYRON	12	RI03 Surface des zones d'activités en zone inondable	 ha	247.0	252.0
+AVEYRON	12	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	41.0	41.0
+AVEYRON	12	RI03 Surface des réseaux de communication en zone inondable	 ha	8.0	8.0
+AVEYRON	12	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	6814.0	6807.0
+AVEYRON	12	RI03 Surface des prairies en zone inondable	 ha	4974.0	4953.0
+AVEYRON	12	RI03 Surface des forêts en zone inondable	 ha	4291.0	4292.0
+AVEYRON	12	RI03 Surface des autres zones naturelles en zone inondable	 ha	399.0	399.0
+AVEYRON	12	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+AVEYRON	12	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2994.0	2994.0
+AVEYRON	12	RI03 Taux de couverture	%	99.65	99.65
+BAS-RHIN	67	RI03Surface totale du territoire	 ha	479586.0	479586.0
+BAS-RHIN	67	RI03 Surface estimée en zone inondable	 ha	52054.0	52054.0
+BAS-RHIN	67	RI03 Population totale du territoire	 nombre	1026023.0	1079013.0
+BAS-RHIN	67	RI03 Population estimée en zone inondable	 nombre	131100.0	135800.0
+BAS-RHIN	67	RI03 Nombre total de logements du territoire	 nombre	445870.0	485399.0
+BAS-RHIN	67	RI03 Nombre de logements estimé en zone inondable	 nombre	55500.0	59100.0
+BAS-RHIN	67	RI03 Surface urbanisée continue en zone inondable	 ha	51.0	51.0
+BAS-RHIN	67	RI03 Surface urbanisée discontinue en zone inondable	 ha	3549.0	3559.0
+BAS-RHIN	67	RI03 Surface des zones d'activités en zone inondable	 ha	2216.0	2296.0
+BAS-RHIN	67	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	512.0	512.0
+BAS-RHIN	67	RI03 Surface des réseaux de communication en zone inondable	 ha	9.0	9.0
+BAS-RHIN	67	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	24605.0	24560.0
+BAS-RHIN	67	RI03 Surface des prairies en zone inondable	 ha	8469.0	8463.0
+BAS-RHIN	67	RI03 Surface des forêts en zone inondable	 ha	11833.0	11735.0
+BAS-RHIN	67	RI03 Surface des autres zones naturelles en zone inondable	 ha	323.0	382.0
+BAS-RHIN	67	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+BAS-RHIN	67	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	487.0	487.0
+BAS-RHIN	67	RI03 Taux de couverture	%	72.75	72.75
+BOUCHES-DU-RHONE	13	RI03Surface totale du territoire	 ha	509475.0	509475.0
+BOUCHES-DU-RHONE	13	RI03 Surface estimée en zone inondable	 ha	171172.0	171172.0
+BOUCHES-DU-RHONE	13	RI03 Population totale du territoire	 nombre	1835407.0	1937403.0
+BOUCHES-DU-RHONE	13	RI03 Population estimée en zone inondable	 nombre	225800.0	236600.0
+BOUCHES-DU-RHONE	13	RI03 Nombre total de logements du territoire	 nombre	840678.0	905585.0
+BOUCHES-DU-RHONE	13	RI03 Nombre de logements estimé en zone inondable	 nombre	96600.0	105500.0
+BOUCHES-DU-RHONE	13	RI03 Surface urbanisée continue en zone inondable	 ha	120.0	120.0
+BOUCHES-DU-RHONE	13	RI03 Surface urbanisée discontinue en zone inondable	 ha	6041.0	6133.0
+BOUCHES-DU-RHONE	13	RI03 Surface des zones d'activités en zone inondable	 ha	5497.0	5639.0
+BOUCHES-DU-RHONE	13	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	400.0	400.0
+BOUCHES-DU-RHONE	13	RI03 Surface des réseaux de communication en zone inondable	 ha	495.0	498.0
+BOUCHES-DU-RHONE	13	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	80972.0	80739.0
+BOUCHES-DU-RHONE	13	RI03 Surface des prairies en zone inondable	 ha	2486.0	2486.0
+BOUCHES-DU-RHONE	13	RI03 Surface des forêts en zone inondable	 ha	2090.0	2076.0
+BOUCHES-DU-RHONE	13	RI03 Surface des autres zones naturelles en zone inondable	 ha	9169.0	9179.0
+BOUCHES-DU-RHONE	13	RI03 Surface des zones humides en zone inondable	 ha	33419.0	33419.0
+BOUCHES-DU-RHONE	13	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	30482.0	30482.0
+BOUCHES-DU-RHONE	13	RI03 Taux de couverture	%	79.09	79.09
+CALVADOS	14	RI03Surface totale du territoire	 ha	560586.0	560586.0
+CALVADOS	14	RI03 Surface estimée en zone inondable	 ha	42281.0	42281.0
+CALVADOS	14	RI03 Population totale du territoire	 nombre	648299.0	671342.0
+CALVADOS	14	RI03 Population estimée en zone inondable	 nombre	56900.0	57600.0
+CALVADOS	14	RI03 Nombre total de logements du territoire	 nombre	338956.0	370577.0
+CALVADOS	14	RI03 Nombre de logements estimé en zone inondable	 nombre	37100.0	39700.0
+CALVADOS	14	RI03 Surface urbanisée continue en zone inondable	 ha	122.0	122.0
+CALVADOS	14	RI03 Surface urbanisée discontinue en zone inondable	 ha	1946.0	1962.0
+CALVADOS	14	RI03 Surface des zones d'activités en zone inondable	 ha	768.0	778.0
+CALVADOS	14	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	362.0	362.0
+CALVADOS	14	RI03 Surface des réseaux de communication en zone inondable	 ha	37.0	37.0
+CALVADOS	14	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	6295.0	6280.0
+CALVADOS	14	RI03 Surface des prairies en zone inondable	 ha	29813.0	29731.0
+CALVADOS	14	RI03 Surface des forêts en zone inondable	 ha	1443.0	1367.0
+CALVADOS	14	RI03 Surface des autres zones naturelles en zone inondable	 ha	371.0	520.0
+CALVADOS	14	RI03 Surface des zones humides en zone inondable	 ha	558.0	558.0
+CALVADOS	14	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	564.0	564.0
+CALVADOS	14	RI03 Taux de couverture	%	97.5	97.5
+CANTAL	15	RI03Surface totale du territoire	 ha	576709.0	576709.0
+CANTAL	15	RI03 Surface estimée en zone inondable	 ha	5079.0	5079.0
+CANTAL	15	RI03 Population totale du territoire	 nombre	150772.0	149684.0
+CANTAL	15	RI03 Population estimée en zone inondable	 nombre	4900.0	4900.0
+CANTAL	15	RI03 Nombre total de logements du territoire	 nombre	89423.0	94895.0
+CANTAL	15	RI03 Nombre de logements estimé en zone inondable	 nombre	2700.0	2900.0
+CANTAL	15	RI03 Surface urbanisée continue en zone inondable	 ha	2.0	2.0
+CANTAL	15	RI03 Surface urbanisée discontinue en zone inondable	 ha	279.0	287.0
+CANTAL	15	RI03 Surface des zones d'activités en zone inondable	 ha	45.0	45.0
+CANTAL	15	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	8.0	0.0
+CANTAL	15	RI03 Surface des réseaux de communication en zone inondable	 ha	1.0	1.0
+CANTAL	15	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	847.0	847.0
+CANTAL	15	RI03 Surface des prairies en zone inondable	 ha	2135.0	2136.0
+CANTAL	15	RI03 Surface des forêts en zone inondable	 ha	745.0	745.0
+CANTAL	15	RI03 Surface des autres zones naturelles en zone inondable	 ha	120.0	120.0
+CANTAL	15	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+CANTAL	15	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	895.0	895.0
+CANTAL	15	RI03 Taux de couverture	%	74.11	74.11
+CHARENTE	16	RI03Surface totale du territoire	 ha	596434.0	596434.0
+CHARENTE	16	RI03 Surface estimée en zone inondable	 ha	27669.0	27669.0
+CHARENTE	16	RI03 Population totale du territoire	 nombre	339544.0	347040.0
+CHARENTE	16	RI03 Population estimée en zone inondable	 nombre	18900.0	19200.0
+CHARENTE	16	RI03 Nombre total de logements du territoire	 nombre	164440.0	178837.0
+CHARENTE	16	RI03 Nombre de logements estimé en zone inondable	 nombre	9100.0	9900.0
+CHARENTE	16	RI03 Surface urbanisée continue en zone inondable	 ha	4.0	4.0
+CHARENTE	16	RI03 Surface urbanisée discontinue en zone inondable	 ha	1063.0	1066.0
+CHARENTE	16	RI03 Surface des zones d'activités en zone inondable	 ha	242.0	250.0
+CHARENTE	16	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	85.0	85.0
+CHARENTE	16	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+CHARENTE	16	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	13092.0	13232.0
+CHARENTE	16	RI03 Surface des prairies en zone inondable	 ha	8965.0	8795.0
+CHARENTE	16	RI03 Surface des forêts en zone inondable	 ha	3746.0	3753.0
+CHARENTE	16	RI03 Surface des autres zones naturelles en zone inondable	 ha	113.0	124.0
+CHARENTE	16	RI03 Surface des zones humides en zone inondable	 ha	64.0	64.0
+CHARENTE	16	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	295.0	295.0
+CHARENTE	16	RI03 Taux de couverture	%	100.0	100.0
+CHARENTE-MARITIME	17	RI03Surface totale du territoire	 ha	690149.0	690149.0
+CHARENTE-MARITIME	17	RI03 Surface estimée en zone inondable	 ha	66936.0	66936.0
+CHARENTE-MARITIME	17	RI03 Population totale du territoire	 nombre	557389.0	598921.0
+CHARENTE-MARITIME	17	RI03 Population estimée en zone inondable	 nombre	41900.0	44700.0
+CHARENTE-MARITIME	17	RI03 Nombre total de logements du territoire	 nombre	330162.0	382779.0
+CHARENTE-MARITIME	17	RI03 Nombre de logements estimé en zone inondable	 nombre	27300.0	31900.0
+CHARENTE-MARITIME	17	RI03 Surface urbanisée continue en zone inondable	 ha	1.0	1.0
+CHARENTE-MARITIME	17	RI03 Surface urbanisée discontinue en zone inondable	 ha	1862.0	1907.0
+CHARENTE-MARITIME	17	RI03 Surface des zones d'activités en zone inondable	 ha	448.0	453.0
+CHARENTE-MARITIME	17	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	370.0	373.0
+CHARENTE-MARITIME	17	RI03 Surface des réseaux de communication en zone inondable	 ha	35.0	35.0
+CHARENTE-MARITIME	17	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	26054.0	25815.0
+CHARENTE-MARITIME	17	RI03 Surface des prairies en zone inondable	 ha	20022.0	19904.0
+CHARENTE-MARITIME	17	RI03 Surface des forêts en zone inondable	 ha	4151.0	4030.0
+CHARENTE-MARITIME	17	RI03 Surface des autres zones naturelles en zone inondable	 ha	997.0	1144.0
+CHARENTE-MARITIME	17	RI03 Surface des zones humides en zone inondable	 ha	12494.0	12657.0
+CHARENTE-MARITIME	17	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	503.0	617.0
+CHARENTE-MARITIME	17	RI03 Taux de couverture	%	59.51	59.51
+CHER	18	RI03Surface totale du territoire	 ha	729292.0	729292.0
+CHER	18	RI03 Surface estimée en zone inondable	 ha	13876.0	13876.0
+CHER	18	RI03 Population totale du territoire	 nombre	314388.0	314676.0
+CHER	18	RI03 Population estimée en zone inondable	 nombre	5400.0	5500.0
+CHER	18	RI03 Nombre total de logements du territoire	 nombre	161747.0	168625.0
+CHER	18	RI03 Nombre de logements estimé en zone inondable	 nombre	3100.0	3200.0
+CHER	18	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+CHER	18	RI03 Surface urbanisée discontinue en zone inondable	 ha	391.0	391.0
+CHER	18	RI03 Surface des zones d'activités en zone inondable	 ha	138.0	138.0
+CHER	18	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	92.0	92.0
+CHER	18	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+CHER	18	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	7982.0	7982.0
+CHER	18	RI03 Surface des prairies en zone inondable	 ha	2297.0	2297.0
+CHER	18	RI03 Surface des forêts en zone inondable	 ha	1775.0	1775.0
+CHER	18	RI03 Surface des autres zones naturelles en zone inondable	 ha	301.0	301.0
+CHER	18	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+CHER	18	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	899.0	899.0
+CHER	18	RI03 Taux de couverture	%	19.08	19.08
+CORREZE	19	RI03Surface totale du territoire	 ha	588966.0	588966.0
+CORREZE	19	RI03 Surface estimée en zone inondable	 ha	6244.0	6244.0
+CORREZE	19	RI03 Population totale du territoire	 nombre	232484.0	240360.0
+CORREZE	19	RI03 Population estimée en zone inondable	 nombre	18600.0	19400.0
+CORREZE	19	RI03 Nombre total de logements du territoire	 nombre	132630.0	142648.0
+CORREZE	19	RI03 Nombre de logements estimé en zone inondable	 nombre	10500.0	11500.0
+CORREZE	19	RI03 Surface urbanisée continue en zone inondable	 ha	13.0	13.0
+CORREZE	19	RI03 Surface urbanisée discontinue en zone inondable	 ha	641.0	641.0
+CORREZE	19	RI03 Surface des zones d'activités en zone inondable	 ha	182.0	186.0
+CORREZE	19	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	64.0	64.0
+CORREZE	19	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	10.0
+CORREZE	19	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	3003.0	2986.0
+CORREZE	19	RI03 Surface des prairies en zone inondable	 ha	1104.0	1102.0
+CORREZE	19	RI03 Surface des forêts en zone inondable	 ha	707.0	705.0
+CORREZE	19	RI03 Surface des autres zones naturelles en zone inondable	 ha	5.0	5.0
+CORREZE	19	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+CORREZE	19	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	525.0	532.0
+CORREZE	19	RI03 Taux de couverture	%	100.0	100.0
+CORSE-DU-SUD	2A	RI03Surface totale du territoire	 ha	403740.0	403740.0
+CORSE-DU-SUD	2A	RI03 Surface estimée en zone inondable	 ha	4207.0	4207.0
+CORSE-DU-SUD	2A	RI03 Population totale du territoire	 nombre	118558.0	135718.0
+CORSE-DU-SUD	2A	RI03 Population estimée en zone inondable	 nombre	1100.0	1200.0
+CORSE-DU-SUD	2A	RI03 Nombre total de logements du territoire	 nombre	85115.0	95548.0
+CORSE-DU-SUD	2A	RI03 Nombre de logements estimé en zone inondable	 nombre	1000.0	1100.0
+CORSE-DU-SUD	2A	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+CORSE-DU-SUD	2A	RI03 Surface urbanisée discontinue en zone inondable	 ha	126.0	126.0
+CORSE-DU-SUD	2A	RI03 Surface des zones d'activités en zone inondable	 ha	353.0	353.0
+CORSE-DU-SUD	2A	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	111.0	111.0
+CORSE-DU-SUD	2A	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+CORSE-DU-SUD	2A	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	1736.0	1736.0
+CORSE-DU-SUD	2A	RI03 Surface des prairies en zone inondable	 ha	605.0	605.0
+CORSE-DU-SUD	2A	RI03 Surface des forêts en zone inondable	 ha	312.0	312.0
+CORSE-DU-SUD	2A	RI03 Surface des autres zones naturelles en zone inondable	 ha	742.0	742.0
+CORSE-DU-SUD	2A	RI03 Surface des zones humides en zone inondable	 ha	216.0	216.0
+CORSE-DU-SUD	2A	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	6.0	6.0
+CORSE-DU-SUD	2A	RI03 Taux de couverture	%	75.47	75.47
+COTE-D OR	21	RI03Surface totale du territoire	 ha	878755.0	878755.0
+COTE-D OR	21	RI03 Surface estimée en zone inondable	 ha	59168.0	59168.0
+COTE-D OR	21	RI03 Population totale du territoire	 nombre	507009.0	517168.0
+COTE-D OR	21	RI03 Population estimée en zone inondable	 nombre	41200.0	42300.0
+COTE-D OR	21	RI03 Nombre total de logements du territoire	 nombre	242282.0	259154.0
+COTE-D OR	21	RI03 Nombre de logements estimé en zone inondable	 nombre	17800.0	19200.0
+COTE-D OR	21	RI03 Surface urbanisée continue en zone inondable	 ha	15.0	15.0
+COTE-D OR	21	RI03 Surface urbanisée discontinue en zone inondable	 ha	2400.0	2416.0
+COTE-D OR	21	RI03 Surface des zones d'activités en zone inondable	 ha	819.0	911.0
+COTE-D OR	21	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	211.0	216.0
+COTE-D OR	21	RI03 Surface des réseaux de communication en zone inondable	 ha	64.0	64.0
+COTE-D OR	21	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	30981.0	30932.0
+COTE-D OR	21	RI03 Surface des prairies en zone inondable	 ha	14310.0	14261.0
+COTE-D OR	21	RI03 Surface des forêts en zone inondable	 ha	8116.0	8018.0
+COTE-D OR	21	RI03 Surface des autres zones naturelles en zone inondable	 ha	214.0	297.0
+COTE-D OR	21	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+COTE-D OR	21	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2040.0	2040.0
+COTE-D OR	21	RI03 Taux de couverture	%	87.47	87.47
+COTES-D ARMOR	22	RI03Surface totale du territoire	 ha	698338.0	698338.0
+COTES-D ARMOR	22	RI03 Surface estimée en zone inondable	 ha	4493.0	4493.0
+COTES-D ARMOR	22	RI03 Population totale du territoire	 nombre	542580.0	570864.0
+COTES-D ARMOR	22	RI03 Population estimée en zone inondable	 nombre	1700.0	1800.0
+COTES-D ARMOR	22	RI03 Nombre total de logements du territoire	 nombre	294469.0	323713.0
+COTES-D ARMOR	22	RI03 Nombre de logements estimé en zone inondable	 nombre	900.0	900.0
+COTES-D ARMOR	22	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+COTES-D ARMOR	22	RI03 Surface urbanisée discontinue en zone inondable	 ha	84.0	84.0
+COTES-D ARMOR	22	RI03 Surface des zones d'activités en zone inondable	 ha	23.0	15.0
+COTES-D ARMOR	22	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	0.0	0.0
+COTES-D ARMOR	22	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	10.0
+COTES-D ARMOR	22	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	2034.0	2031.0
+COTES-D ARMOR	22	RI03 Surface des prairies en zone inondable	 ha	1926.0	1926.0
+COTES-D ARMOR	22	RI03 Surface des forêts en zone inondable	 ha	174.0	178.0
+COTES-D ARMOR	22	RI03 Surface des autres zones naturelles en zone inondable	 ha	16.0	11.0
+COTES-D ARMOR	22	RI03 Surface des zones humides en zone inondable	 ha	42.0	42.0
+COTES-D ARMOR	22	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	194.0	194.0
+COTES-D ARMOR	22	RI03 Taux de couverture	%	72.88	72.88
+CREUSE	23	RI03Surface totale du territoire	 ha	558984.0	558984.0
+CREUSE	23	RI03 Surface estimée en zone inondable	 ha	2369.0	2369.0
+CREUSE	23	RI03 Population totale du territoire	 nombre	124482.0	123395.0
+CREUSE	23	RI03 Population estimée en zone inondable	 nombre	900.0	900.0
+CREUSE	23	RI03 Nombre total de logements du territoire	 nombre	80535.0	83854.0
+CREUSE	23	RI03 Nombre de logements estimé en zone inondable	 nombre	600.0	600.0
+CREUSE	23	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+CREUSE	23	RI03 Surface urbanisée discontinue en zone inondable	 ha	64.0	64.0
+CREUSE	23	RI03 Surface des zones d'activités en zone inondable	 ha	0.0	0.0
+CREUSE	23	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	1.0	1.0
+CREUSE	23	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+CREUSE	23	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	417.0	417.0
+CREUSE	23	RI03 Surface des prairies en zone inondable	 ha	1304.0	1304.0
+CREUSE	23	RI03 Surface des forêts en zone inondable	 ha	512.0	501.0
+CREUSE	23	RI03 Surface des autres zones naturelles en zone inondable	 ha	0.0	11.0
+CREUSE	23	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+CREUSE	23	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	71.0	71.0
+CREUSE	23	RI03 Taux de couverture	%	55.7	55.7
+DEUX-SEVRES	79	RI03Surface totale du territoire	 ha	602883.0	602883.0
+DEUX-SEVRES	79	RI03 Surface estimée en zone inondable	 ha	12234.0	12234.0
+DEUX-SEVRES	79	RI03 Population totale du territoire	 nombre	344390.0	359712.0
+DEUX-SEVRES	79	RI03 Population estimée en zone inondable	 nombre	8000.0	8300.0
+DEUX-SEVRES	79	RI03 Nombre total de logements du territoire	 nombre	158863.0	172845.0
+DEUX-SEVRES	79	RI03 Nombre de logements estimé en zone inondable	 nombre	4200.0	4500.0
+DEUX-SEVRES	79	RI03 Surface urbanisée continue en zone inondable	 ha	2.0	2.0
+DEUX-SEVRES	79	RI03 Surface urbanisée discontinue en zone inondable	 ha	409.0	409.0
+DEUX-SEVRES	79	RI03 Surface des zones d'activités en zone inondable	 ha	43.0	43.0
+DEUX-SEVRES	79	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	29.0	29.0
+DEUX-SEVRES	79	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+DEUX-SEVRES	79	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	5659.0	5659.0
+DEUX-SEVRES	79	RI03 Surface des prairies en zone inondable	 ha	5049.0	5049.0
+DEUX-SEVRES	79	RI03 Surface des forêts en zone inondable	 ha	866.0	840.0
+DEUX-SEVRES	79	RI03 Surface des autres zones naturelles en zone inondable	 ha	176.0	202.0
+DEUX-SEVRES	79	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+DEUX-SEVRES	79	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	0.0	0.0
+DEUX-SEVRES	79	RI03 Taux de couverture	%	61.29	61.29
+DORDOGNE	24	RI03Surface totale du territoire	 ha	921056.0	921056.0
+DORDOGNE	24	RI03 Surface estimée en zone inondable	 ha	31934.0	31934.0
+DORDOGNE	24	RI03 Population totale du territoire	 nombre	388385.0	404051.0
+DORDOGNE	24	RI03 Population estimée en zone inondable	 nombre	28300.0	29000.0
+DORDOGNE	24	RI03 Nombre total de logements du territoire	 nombre	208790.0	230721.0
+DORDOGNE	24	RI03 Nombre de logements estimé en zone inondable	 nombre	15000.0	16400.0
+DORDOGNE	24	RI03 Surface urbanisée continue en zone inondable	 ha	20.0	20.0
+DORDOGNE	24	RI03 Surface urbanisée discontinue en zone inondable	 ha	1203.0	1216.0
+DORDOGNE	24	RI03 Surface des zones d'activités en zone inondable	 ha	211.0	280.0
+DORDOGNE	24	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	88.0	88.0
+DORDOGNE	24	RI03 Surface des réseaux de communication en zone inondable	 ha	13.0	13.0
+DORDOGNE	24	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	18559.0	18621.0
+DORDOGNE	24	RI03 Surface des prairies en zone inondable	 ha	7442.0	7297.0
+DORDOGNE	24	RI03 Surface des forêts en zone inondable	 ha	1844.0	1855.0
+DORDOGNE	24	RI03 Surface des autres zones naturelles en zone inondable	 ha	111.0	103.0
+DORDOGNE	24	RI03 Surface des zones humides en zone inondable	 ha	51.0	51.0
+DORDOGNE	24	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2392.0	2392.0
+DORDOGNE	24	RI03 Taux de couverture	%	100.0	100.0
+DOUBS	25	RI03Surface totale du territoire	 ha	524702.0	524702.0
+DOUBS	25	RI03 Surface estimée en zone inondable	 ha	11823.0	11823.0
+DOUBS	25	RI03 Population totale du territoire	 nombre	499162.0	516158.0
+DOUBS	25	RI03 Population estimée en zone inondable	 nombre	42100.0	42600.0
+DOUBS	25	RI03 Nombre total de logements du territoire	 nombre	228251.0	247652.0
+DOUBS	25	RI03 Nombre de logements estimé en zone inondable	 nombre	20800.0	22500.0
+DOUBS	25	RI03 Surface urbanisée continue en zone inondable	 ha	140.0	140.0
+DOUBS	25	RI03 Surface urbanisée discontinue en zone inondable	 ha	1623.0	1650.0
+DOUBS	25	RI03 Surface des zones d'activités en zone inondable	 ha	646.0	696.0
+DOUBS	25	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	168.0	190.0
+DOUBS	25	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+DOUBS	25	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	4114.0	4023.0
+DOUBS	25	RI03 Surface des prairies en zone inondable	 ha	3311.0	3304.0
+DOUBS	25	RI03 Surface des forêts en zone inondable	 ha	802.0	801.0
+DOUBS	25	RI03 Surface des autres zones naturelles en zone inondable	 ha	30.0	30.0
+DOUBS	25	RI03 Surface des zones humides en zone inondable	 ha	249.0	249.0
+DOUBS	25	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	740.0	740.0
+DOUBS	25	RI03 Taux de couverture	%	82.99	82.99
+DROME	26	RI03Surface totale du territoire	 ha	655407.0	655407.0
+DROME	26	RI03 Surface estimée en zone inondable	 ha	26418.0	26418.0
+DROME	26	RI03 Population totale du territoire	 nombre	437817.0	468611.0
+DROME	26	RI03 Population estimée en zone inondable	 nombre	34800.0	36600.0
+DROME	26	RI03 Nombre total de logements du territoire	 nombre	208792.0	232630.0
+DROME	26	RI03 Nombre de logements estimé en zone inondable	 nombre	17400.0	19100.0
+DROME	26	RI03 Surface urbanisée continue en zone inondable	 ha	47.0	47.0
+DROME	26	RI03 Surface urbanisée discontinue en zone inondable	 ha	1042.0	1053.0
+DROME	26	RI03 Surface des zones d'activités en zone inondable	 ha	819.0	880.0
+DROME	26	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	94.0	94.0
+DROME	26	RI03 Surface des réseaux de communication en zone inondable	 ha	16.0	16.0
+DROME	26	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	19218.0	19147.0
+DROME	26	RI03 Surface des prairies en zone inondable	 ha	383.0	383.0
+DROME	26	RI03 Surface des forêts en zone inondable	 ha	2570.0	2570.0
+DROME	26	RI03 Surface des autres zones naturelles en zone inondable	 ha	1474.0	1474.0
+DROME	26	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+DROME	26	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	754.0	754.0
+DROME	26	RI03 Taux de couverture	%	65.53	65.53
+ESSONNE	91	RI03Surface totale du territoire	 ha	181844.0	181844.0
+ESSONNE	91	RI03 Surface estimée en zone inondable	 ha	4008.0	4008.0
+ESSONNE	91	RI03 Population totale du territoire	 nombre	1134026.0	1198274.0
+ESSONNE	91	RI03 Population estimée en zone inondable	 nombre	65500.0	71400.0
+ESSONNE	91	RI03 Nombre total de logements du territoire	 nombre	460753.0	488762.0
+ESSONNE	91	RI03 Nombre de logements estimé en zone inondable	 nombre	29200.0	31200.0
+ESSONNE	91	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+ESSONNE	91	RI03 Surface urbanisée discontinue en zone inondable	 ha	1204.0	1204.0
+ESSONNE	91	RI03 Surface des zones d'activités en zone inondable	 ha	354.0	354.0
+ESSONNE	91	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	807.0	807.0
+ESSONNE	91	RI03 Surface des réseaux de communication en zone inondable	 ha	93.0	93.0
+ESSONNE	91	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	299.0	299.0
+ESSONNE	91	RI03 Surface des prairies en zone inondable	 ha	336.0	336.0
+ESSONNE	91	RI03 Surface des forêts en zone inondable	 ha	241.0	241.0
+ESSONNE	91	RI03 Surface des autres zones naturelles en zone inondable	 ha	0.0	0.0
+ESSONNE	91	RI03 Surface des zones humides en zone inondable	 ha	37.0	37.0
+ESSONNE	91	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	637.0	637.0
+ESSONNE	91	RI03 Taux de couverture	%	60.0	60.0
+EURE	27	RI03Surface totale du territoire	 ha	603428.0	603428.0
+EURE	27	RI03 Surface estimée en zone inondable	 ha	26617.0	26617.0
+EURE	27	RI03 Population totale du territoire	 nombre	541263.0	567223.0
+EURE	27	RI03 Population estimée en zone inondable	 nombre	51600.0	53700.0
+EURE	27	RI03 Nombre total de logements du territoire	 nombre	239162.0	258682.0
+EURE	27	RI03 Nombre de logements estimé en zone inondable	 nombre	23200.0	25100.0
+EURE	27	RI03 Surface urbanisée continue en zone inondable	 ha	8.0	8.0
+EURE	27	RI03 Surface urbanisée discontinue en zone inondable	 ha	2271.0	2282.0
+EURE	27	RI03 Surface des zones d'activités en zone inondable	 ha	693.0	630.0
+EURE	27	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	459.0	459.0
+EURE	27	RI03 Surface des réseaux de communication en zone inondable	 ha	24.0	24.0
+EURE	27	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	6945.0	6981.0
+EURE	27	RI03 Surface des prairies en zone inondable	 ha	10425.0	10386.0
+EURE	27	RI03 Surface des forêts en zone inondable	 ha	1944.0	1912.0
+EURE	27	RI03 Surface des autres zones naturelles en zone inondable	 ha	330.0	362.0
+EURE	27	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+EURE	27	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	3519.0	3574.0
+EURE	27	RI03 Taux de couverture	%	91.53	91.53
+EURE-ET-LOIR	28	RI03Surface totale du territoire	 ha	592741.0	592741.0
+EURE-ET-LOIR	28	RI03 Surface estimée en zone inondable	 ha	14515.0	14515.0
+EURE-ET-LOIR	28	RI03 Population totale du territoire	 nombre	407747.0	421113.0
+EURE-ET-LOIR	28	RI03 Population estimée en zone inondable	 nombre	30900.0	31600.0
+EURE-ET-LOIR	28	RI03 Nombre total de logements du territoire	 nombre	186036.0	196480.0
+EURE-ET-LOIR	28	RI03 Nombre de logements estimé en zone inondable	 nombre	14400.0	15200.0
+EURE-ET-LOIR	28	RI03 Surface urbanisée continue en zone inondable	 ha	26.0	26.0
+EURE-ET-LOIR	28	RI03 Surface urbanisée discontinue en zone inondable	 ha	1632.0	1632.0
+EURE-ET-LOIR	28	RI03 Surface des zones d'activités en zone inondable	 ha	201.0	204.0
+EURE-ET-LOIR	28	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	375.0	375.0
+EURE-ET-LOIR	28	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+EURE-ET-LOIR	28	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	3708.0	3708.0
+EURE-ET-LOIR	28	RI03 Surface des prairies en zone inondable	 ha	4687.0	4667.0
+EURE-ET-LOIR	28	RI03 Surface des forêts en zone inondable	 ha	2706.0	2667.0
+EURE-ET-LOIR	28	RI03 Surface des autres zones naturelles en zone inondable	 ha	52.0	92.0
+EURE-ET-LOIR	28	RI03 Surface des zones humides en zone inondable	 ha	82.0	82.0
+EURE-ET-LOIR	28	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1048.0	1064.0
+EURE-ET-LOIR	28	RI03 Taux de couverture	%	79.4	79.4
+FINISTERE	29	RI03Surface totale du territoire	 ha	675928.0	675928.0
+FINISTERE	29	RI03 Surface estimée en zone inondable	 ha	1908.0	1908.0
+FINISTERE	29	RI03 Population totale du territoire	 nombre	852685.0	882998.0
+FINISTERE	29	RI03 Population estimée en zone inondable	 nombre	9000.0	9200.0
+FINISTERE	29	RI03 Nombre total de logements du territoire	 nombre	439539.0	486990.0
+FINISTERE	29	RI03 Nombre de logements estimé en zone inondable	 nombre	5200.0	5500.0
+FINISTERE	29	RI03 Surface urbanisée continue en zone inondable	 ha	47.0	47.0
+FINISTERE	29	RI03 Surface urbanisée discontinue en zone inondable	 ha	312.0	308.0
+FINISTERE	29	RI03 Surface des zones d'activités en zone inondable	 ha	47.0	53.0
+FINISTERE	29	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	0.0	0.0
+FINISTERE	29	RI03 Surface des réseaux de communication en zone inondable	 ha	28.0	28.0
+FINISTERE	29	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	514.0	514.0
+FINISTERE	29	RI03 Surface des prairies en zone inondable	 ha	312.0	309.0
+FINISTERE	29	RI03 Surface des forêts en zone inondable	 ha	553.0	553.0
+FINISTERE	29	RI03 Surface des autres zones naturelles en zone inondable	 ha	87.0	87.0
+FINISTERE	29	RI03 Surface des zones humides en zone inondable	 ha	1.0	1.0
+FINISTERE	29	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	6.0	6.0
+FINISTERE	29	RI03 Taux de couverture	%	65.28	65.28
+GARD	30	RI03Surface totale du territoire	 ha	587583.0	587583.0
+GARD	30	RI03 Surface estimée en zone inondable	 ha	118347.0	118347.0
+GARD	30	RI03 Population totale du territoire	 nombre	623058.0	683172.0
+GARD	30	RI03 Population estimée en zone inondable	 nombre	256200.0	272800.0
+GARD	30	RI03 Nombre total de logements du territoire	 nombre	324045.0	365934.0
+GARD	30	RI03 Nombre de logements estimé en zone inondable	 nombre	143800.0	158000.0
+GARD	30	RI03 Surface urbanisée continue en zone inondable	 ha	373.0	373.0
+GARD	30	RI03 Surface urbanisée discontinue en zone inondable	 ha	7670.0	7924.0
+GARD	30	RI03 Surface des zones d'activités en zone inondable	 ha	2356.0	2652.0
+GARD	30	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	670.0	648.0
+GARD	30	RI03 Surface des réseaux de communication en zone inondable	 ha	63.0	69.0
+GARD	30	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	73545.0	73065.0
+GARD	30	RI03 Surface des prairies en zone inondable	 ha	2584.0	2525.0
+GARD	30	RI03 Surface des forêts en zone inondable	 ha	7383.0	7375.0
+GARD	30	RI03 Surface des autres zones naturelles en zone inondable	 ha	3164.0	3182.0
+GARD	30	RI03 Surface des zones humides en zone inondable	 ha	12104.0	12098.0
+GARD	30	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	8435.0	8435.0
+GARD	30	RI03 Taux de couverture	%	91.78	91.78
+GERS	32	RI03Surface totale du territoire	 ha	630406.0	630406.0
+GERS	32	RI03 Surface estimée en zone inondable	 ha	55260.0	55260.0
+GERS	32	RI03 Population totale du territoire	 nombre	172511.0	181374.0
+GERS	32	RI03 Population estimée en zone inondable	 nombre	21400.0	22000.0
+GERS	32	RI03 Nombre total de logements du territoire	 nombre	86940.0	95666.0
+GERS	32	RI03 Nombre de logements estimé en zone inondable	 nombre	10900.0	11900.0
+GERS	32	RI03 Surface urbanisée continue en zone inondable	 ha	63.0	63.0
+GERS	32	RI03 Surface urbanisée discontinue en zone inondable	 ha	719.0	723.0
+GERS	32	RI03 Surface des zones d'activités en zone inondable	 ha	372.0	391.0
+GERS	32	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	197.0	197.0
+GERS	32	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+GERS	32	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	46827.0	46783.0
+GERS	32	RI03 Surface des prairies en zone inondable	 ha	2721.0	2714.0
+GERS	32	RI03 Surface des forêts en zone inondable	 ha	3369.0	3453.0
+GERS	32	RI03 Surface des autres zones naturelles en zone inondable	 ha	392.0	321.0
+GERS	32	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+GERS	32	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	599.0	614.0
+GERS	32	RI03 Taux de couverture	%	99.75	99.75
+GIRONDE	33	RI03Surface totale du territoire	 ha	1014958.0	1014958.0
+GIRONDE	33	RI03 Surface estimée en zone inondable	 ha	56392.0	56392.0
+GIRONDE	33	RI03 Population totale du territoire	 nombre	1287532.0	1393753.0
+GIRONDE	33	RI03 Population estimée en zone inondable	 nombre	30700.0	32400.0
+GIRONDE	33	RI03 Nombre total de logements du territoire	 nombre	641861.0	713689.0
+GIRONDE	33	RI03 Nombre de logements estimé en zone inondable	 nombre	14500.0	16200.0
+GIRONDE	33	RI03 Surface urbanisée continue en zone inondable	 ha	18.0	18.0
+GIRONDE	33	RI03 Surface urbanisée discontinue en zone inondable	 ha	766.0	767.0
+GIRONDE	33	RI03 Surface des zones d'activités en zone inondable	 ha	392.0	392.0
+GIRONDE	33	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	0.0	0.0
+GIRONDE	33	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+GIRONDE	33	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	20023.0	19893.0
+GIRONDE	33	RI03 Surface des prairies en zone inondable	 ha	21786.0	21912.0
+GIRONDE	33	RI03 Surface des forêts en zone inondable	 ha	4057.0	4042.0
+GIRONDE	33	RI03 Surface des autres zones naturelles en zone inondable	 ha	519.0	542.0
+GIRONDE	33	RI03 Surface des zones humides en zone inondable	 ha	3112.0	3107.0
+GIRONDE	33	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	5718.0	5718.0
+GIRONDE	33	RI03 Taux de couverture	%	47.16	47.16
+HAUT-RHIN	68	RI03Surface totale du territoire	 ha	352768.0	352768.0
+HAUT-RHIN	68	RI03 Surface estimée en zone inondable	 ha	40759.0	40759.0
+HAUT-RHIN	68	RI03 Population totale du territoire	 nombre	707709.0	736475.0
+HAUT-RHIN	68	RI03 Population estimée en zone inondable	 nombre	79700.0	84700.0
+HAUT-RHIN	68	RI03 Nombre total de logements du territoire	 nombre	304324.0	334605.0
+HAUT-RHIN	68	RI03 Nombre de logements estimé en zone inondable	 nombre	32700.0	36900.0
+HAUT-RHIN	68	RI03 Surface urbanisée continue en zone inondable	 ha	10.0	10.0
+HAUT-RHIN	68	RI03 Surface urbanisée discontinue en zone inondable	 ha	3787.0	3822.0
+HAUT-RHIN	68	RI03 Surface des zones d'activités en zone inondable	 ha	1281.0	1358.0
+HAUT-RHIN	68	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	240.0	240.0
+HAUT-RHIN	68	RI03 Surface des réseaux de communication en zone inondable	 ha	3.0	3.0
+HAUT-RHIN	68	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	26861.0	26770.0
+HAUT-RHIN	68	RI03 Surface des prairies en zone inondable	 ha	1029.0	1010.0
+HAUT-RHIN	68	RI03 Surface des forêts en zone inondable	 ha	7130.0	7129.0
+HAUT-RHIN	68	RI03 Surface des autres zones naturelles en zone inondable	 ha	286.0	286.0
+HAUT-RHIN	68	RI03 Surface des zones humides en zone inondable	 ha	131.0	131.0
+HAUT-RHIN	68	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	0.0	0.0
+HAUT-RHIN	68	RI03 Taux de couverture	%	68.21	68.21
+HAUTE-CORSE	2B	RI03Surface totale du territoire	 ha	472235.0	472235.0
+HAUTE-CORSE	2B	RI03 Surface estimée en zone inondable	 ha	21654.0	21654.0
+HAUTE-CORSE	2B	RI03 Population totale du territoire	 nombre	141591.0	158400.0
+HAUTE-CORSE	2B	RI03 Population estimée en zone inondable	 nombre	17700.0	19800.0
+HAUTE-CORSE	2B	RI03 Nombre total de logements du territoire	 nombre	92251.0	105248.0
+HAUTE-CORSE	2B	RI03 Nombre de logements estimé en zone inondable	 nombre	10700.0	12400.0
+HAUTE-CORSE	2B	RI03 Surface urbanisée continue en zone inondable	 ha	31.0	31.0
+HAUTE-CORSE	2B	RI03 Surface urbanisée discontinue en zone inondable	 ha	679.0	684.0
+HAUTE-CORSE	2B	RI03 Surface des zones d'activités en zone inondable	 ha	239.0	258.0
+HAUTE-CORSE	2B	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	344.0	344.0
+HAUTE-CORSE	2B	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+HAUTE-CORSE	2B	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	9767.0	9769.0
+HAUTE-CORSE	2B	RI03 Surface des prairies en zone inondable	 ha	2558.0	2553.0
+HAUTE-CORSE	2B	RI03 Surface des forêts en zone inondable	 ha	1572.0	1561.0
+HAUTE-CORSE	2B	RI03 Surface des autres zones naturelles en zone inondable	 ha	4106.0	4097.0
+HAUTE-CORSE	2B	RI03 Surface des zones humides en zone inondable	 ha	907.0	907.0
+HAUTE-CORSE	2B	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1450.0	1450.0
+HAUTE-CORSE	2B	RI03 Taux de couverture	%	59.75	59.75
+HAUTE-GARONNE	31	RI03Surface totale du territoire	 ha	636504.0	636504.0
+HAUTE-GARONNE	31	RI03 Surface estimée en zone inondable	 ha	56635.0	56635.0
+HAUTE-GARONNE	31	RI03 Population totale du territoire	 nombre	1046532.0	1186338.0
+HAUTE-GARONNE	31	RI03 Population estimée en zone inondable	 nombre	142900.0	159600.0
+HAUTE-GARONNE	31	RI03 Nombre total de logements du territoire	 nombre	505877.0	578529.0
+HAUTE-GARONNE	31	RI03 Nombre de logements estimé en zone inondable	 nombre	73100.0	83100.0
+HAUTE-GARONNE	31	RI03 Surface urbanisée continue en zone inondable	 ha	102.0	102.0
+HAUTE-GARONNE	31	RI03 Surface urbanisée discontinue en zone inondable	 ha	4090.0	4260.0
+HAUTE-GARONNE	31	RI03 Surface des zones d'activités en zone inondable	 ha	1744.0	2020.0
+HAUTE-GARONNE	31	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	416.0	416.0
+HAUTE-GARONNE	31	RI03 Surface des réseaux de communication en zone inondable	 ha	255.0	285.0
+HAUTE-GARONNE	31	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	40769.0	40309.0
+HAUTE-GARONNE	31	RI03 Surface des prairies en zone inondable	 ha	3494.0	3427.0
+HAUTE-GARONNE	31	RI03 Surface des forêts en zone inondable	 ha	2947.0	2912.0
+HAUTE-GARONNE	31	RI03 Surface des autres zones naturelles en zone inondable	 ha	635.0	656.0
+HAUTE-GARONNE	31	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+HAUTE-GARONNE	31	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2183.0	2247.0
+HAUTE-GARONNE	31	RI03 Taux de couverture	%	94.93	94.93
+HAUTE-LOIRE	43	RI03Surface totale du territoire	 ha	499765.0	499765.0
+HAUTE-LOIRE	43	RI03 Surface estimée en zone inondable	 ha	8019.0	8019.0
+HAUTE-LOIRE	43	RI03 Population totale du territoire	 nombre	209047.0	219489.0
+HAUTE-LOIRE	43	RI03 Population estimée en zone inondable	 nombre	10000.0	9900.0
+HAUTE-LOIRE	43	RI03 Nombre total de logements du territoire	 nombre	121844.0	131378.0
+HAUTE-LOIRE	43	RI03 Nombre de logements estimé en zone inondable	 nombre	5700.0	6000.0
+HAUTE-LOIRE	43	RI03 Surface urbanisée continue en zone inondable	 ha	33.0	33.0
+HAUTE-LOIRE	43	RI03 Surface urbanisée discontinue en zone inondable	 ha	494.0	498.0
+HAUTE-LOIRE	43	RI03 Surface des zones d'activités en zone inondable	 ha	232.0	232.0
+HAUTE-LOIRE	43	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	57.0	57.0
+HAUTE-LOIRE	43	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+HAUTE-LOIRE	43	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	2601.0	2598.0
+HAUTE-LOIRE	43	RI03 Surface des prairies en zone inondable	 ha	2020.0	2019.0
+HAUTE-LOIRE	43	RI03 Surface des forêts en zone inondable	 ha	1693.0	1693.0
+HAUTE-LOIRE	43	RI03 Surface des autres zones naturelles en zone inondable	 ha	463.0	463.0
+HAUTE-LOIRE	43	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+HAUTE-LOIRE	43	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	426.0	426.0
+HAUTE-LOIRE	43	RI03 Taux de couverture	%	63.29	63.29
+HAUTE-MARNE	52	RI03Surface totale du territoire	 ha	624991.0	624991.0
+HAUTE-MARNE	52	RI03 Surface estimée en zone inondable	 ha	9467.0	9467.0
+HAUTE-MARNE	52	RI03 Population totale du territoire	 nombre	194826.0	187654.0
+HAUTE-MARNE	52	RI03 Population estimée en zone inondable	 nombre	7100.0	6900.0
+HAUTE-MARNE	52	RI03 Nombre total de logements du territoire	 nombre	94233.0	98087.0
+HAUTE-MARNE	52	RI03 Nombre de logements estimé en zone inondable	 nombre	3200.0	3300.0
+HAUTE-MARNE	52	RI03 Surface urbanisée continue en zone inondable	 ha	1.0	1.0
+HAUTE-MARNE	52	RI03 Surface urbanisée discontinue en zone inondable	 ha	339.0	339.0
+HAUTE-MARNE	52	RI03 Surface des zones d'activités en zone inondable	 ha	171.0	171.0
+HAUTE-MARNE	52	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	61.0	61.0
+HAUTE-MARNE	52	RI03 Surface des réseaux de communication en zone inondable	 ha	11.0	11.0
+HAUTE-MARNE	52	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	2505.0	2505.0
+HAUTE-MARNE	52	RI03 Surface des prairies en zone inondable	 ha	5647.0	5647.0
+HAUTE-MARNE	52	RI03 Surface des forêts en zone inondable	 ha	603.0	603.0
+HAUTE-MARNE	52	RI03 Surface des autres zones naturelles en zone inondable	 ha	129.0	129.0
+HAUTE-MARNE	52	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+HAUTE-MARNE	52	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1.0	1.0
+HAUTE-MARNE	52	RI03 Taux de couverture	%	98.45	98.45
+HAUTE-SAONE	70	RI03Surface totale du territoire	 ha	538229.0	538229.0
+HAUTE-SAONE	70	RI03 Surface estimée en zone inondable	 ha	24843.0	24843.0
+HAUTE-SAONE	70	RI03 Population totale du territoire	 nombre	229786.0	235864.0
+HAUTE-SAONE	70	RI03 Population estimée en zone inondable	 nombre	11000.0	11300.0
+HAUTE-SAONE	70	RI03 Nombre total de logements du territoire	 nombre	107502.0	116457.0
+HAUTE-SAONE	70	RI03 Nombre de logements estimé en zone inondable	 nombre	5200.0	5800.0
+HAUTE-SAONE	70	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+HAUTE-SAONE	70	RI03 Surface urbanisée discontinue en zone inondable	 ha	722.0	731.0
+HAUTE-SAONE	70	RI03 Surface des zones d'activités en zone inondable	 ha	431.0	448.0
+HAUTE-SAONE	70	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	30.0	30.0
+HAUTE-SAONE	70	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	2.0
+HAUTE-SAONE	70	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	6535.0	6534.0
+HAUTE-SAONE	70	RI03 Surface des prairies en zone inondable	 ha	12199.0	12147.0
+HAUTE-SAONE	70	RI03 Surface des forêts en zone inondable	 ha	3602.0	3542.0
+HAUTE-SAONE	70	RI03 Surface des autres zones naturelles en zone inondable	 ha	89.0	147.0
+HAUTE-SAONE	70	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+HAUTE-SAONE	70	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1236.0	1263.0
+HAUTE-SAONE	70	RI03 Taux de couverture	%	66.67	66.67
+HAUTE-SAVOIE	74	RI03Surface totale du territoire	 ha	459730.0	459730.0
+HAUTE-SAVOIE	74	RI03 Surface estimée en zone inondable	 ha	47567.0	47567.0
+HAUTE-SAVOIE	74	RI03 Population totale du territoire	 nombre	631963.0	696254.0
+HAUTE-SAVOIE	74	RI03 Population estimée en zone inondable	 nombre	50300.0	55400.0
+HAUTE-SAVOIE	74	RI03 Nombre total de logements du territoire	 nombre	371994.0	416984.0
+HAUTE-SAVOIE	74	RI03 Nombre de logements estimé en zone inondable	 nombre	39500.0	44000.0
+HAUTE-SAVOIE	74	RI03 Surface urbanisée continue en zone inondable	 ha	38.0	38.0
+HAUTE-SAVOIE	74	RI03 Surface urbanisée discontinue en zone inondable	 ha	3232.0	3246.0
+HAUTE-SAVOIE	74	RI03 Surface des zones d'activités en zone inondable	 ha	565.0	602.0
+HAUTE-SAVOIE	74	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	335.0	336.0
+HAUTE-SAVOIE	74	RI03 Surface des réseaux de communication en zone inondable	 ha	60.0	72.0
+HAUTE-SAVOIE	74	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	8416.0	8397.0
+HAUTE-SAVOIE	74	RI03 Surface des prairies en zone inondable	 ha	6725.0	6721.0
+HAUTE-SAVOIE	74	RI03 Surface des forêts en zone inondable	 ha	23005.0	22927.0
+HAUTE-SAVOIE	74	RI03 Surface des autres zones naturelles en zone inondable	 ha	4404.0	4441.0
+HAUTE-SAVOIE	74	RI03 Surface des zones humides en zone inondable	 ha	401.0	402.0
+HAUTE-SAVOIE	74	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	386.0	386.0
+HAUTE-SAVOIE	74	RI03 Taux de couverture	%	90.48	90.48
+HAUTE-VIENNE	87	RI03Surface totale du territoire	 ha	554702.0	554702.0
+HAUTE-VIENNE	87	RI03 Surface estimée en zone inondable	 ha	5404.0	5404.0
+HAUTE-VIENNE	87	RI03 Population totale du territoire	 nombre	353826.0	367155.0
+HAUTE-VIENNE	87	RI03 Population estimée en zone inondable	 nombre	3400.0	3500.0
+HAUTE-VIENNE	87	RI03 Nombre total de logements du territoire	 nombre	188522.0	201337.0
+HAUTE-VIENNE	87	RI03 Nombre de logements estimé en zone inondable	 nombre	1700.0	1800.0
+HAUTE-VIENNE	87	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+HAUTE-VIENNE	87	RI03 Surface urbanisée discontinue en zone inondable	 ha	177.0	179.0
+HAUTE-VIENNE	87	RI03 Surface des zones d'activités en zone inondable	 ha	61.0	62.0
+HAUTE-VIENNE	87	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	17.0	17.0
+HAUTE-VIENNE	87	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+HAUTE-VIENNE	87	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	859.0	850.0
+HAUTE-VIENNE	87	RI03 Surface des prairies en zone inondable	 ha	2191.0	2196.0
+HAUTE-VIENNE	87	RI03 Surface des forêts en zone inondable	 ha	1276.0	1278.0
+HAUTE-VIENNE	87	RI03 Surface des autres zones naturelles en zone inondable	 ha	16.0	15.0
+HAUTE-VIENNE	87	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+HAUTE-VIENNE	87	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	807.0	807.0
+HAUTE-VIENNE	87	RI03 Taux de couverture	%	96.26	96.26
+HAUTES-ALPES	05	RI03Surface totale du territoire	 ha	568595.0	568595.0
+HAUTES-ALPES	05	RI03 Surface estimée en zone inondable	 ha	19539.0	19539.0
+HAUTES-ALPES	05	RI03 Population totale du territoire	 nombre	121631.0	130749.0
+HAUTES-ALPES	05	RI03 Population estimée en zone inondable	 nombre	19200.0	20100.0
+HAUTES-ALPES	05	RI03 Nombre total de logements du territoire	 nombre	102771.0	116418.0
+HAUTES-ALPES	05	RI03 Nombre de logements estimé en zone inondable	 nombre	15600.0	17600.0
+HAUTES-ALPES	05	RI03 Surface urbanisée continue en zone inondable	 ha	7.0	7.0
+HAUTES-ALPES	05	RI03 Surface urbanisée discontinue en zone inondable	 ha	1142.0	1128.0
+HAUTES-ALPES	05	RI03 Surface des zones d'activités en zone inondable	 ha	410.0	444.0
+HAUTES-ALPES	05	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	99.0	99.0
+HAUTES-ALPES	05	RI03 Surface des réseaux de communication en zone inondable	 ha	55.0	55.0
+HAUTES-ALPES	05	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	6294.0	6276.0
+HAUTES-ALPES	05	RI03 Surface des prairies en zone inondable	 ha	2268.0	2268.0
+HAUTES-ALPES	05	RI03 Surface des forêts en zone inondable	 ha	3169.0	3164.0
+HAUTES-ALPES	05	RI03 Surface des autres zones naturelles en zone inondable	 ha	3896.0	3900.0
+HAUTES-ALPES	05	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+HAUTES-ALPES	05	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2199.0	2199.0
+HAUTES-ALPES	05	RI03 Taux de couverture	%	79.19	79.19
+HAUTES-PYRENEES	65	RI03Surface totale du territoire	 ha	452855.0	452855.0
+HAUTES-PYRENEES	65	RI03 Surface estimée en zone inondable	 ha	30840.0	30840.0
+HAUTES-PYRENEES	65	RI03 Population totale du territoire	 nombre	222673.0	227732.0
+HAUTES-PYRENEES	65	RI03 Population estimée en zone inondable	 nombre	23700.0	24600.0
+HAUTES-PYRENEES	65	RI03 Nombre total de logements du territoire	 nombre	129946.0	141330.0
+HAUTES-PYRENEES	65	RI03 Nombre de logements estimé en zone inondable	 nombre	12000.0	13300.0
+HAUTES-PYRENEES	65	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+HAUTES-PYRENEES	65	RI03 Surface urbanisée discontinue en zone inondable	 ha	1564.0	1564.0
+HAUTES-PYRENEES	65	RI03 Surface des zones d'activités en zone inondable	 ha	313.0	324.0
+HAUTES-PYRENEES	65	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	22.0	22.0
+HAUTES-PYRENEES	65	RI03 Surface des réseaux de communication en zone inondable	 ha	13.0	13.0
+HAUTES-PYRENEES	65	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	21671.0	21661.0
+HAUTES-PYRENEES	65	RI03 Surface des prairies en zone inondable	 ha	3416.0	3416.0
+HAUTES-PYRENEES	65	RI03 Surface des forêts en zone inondable	 ha	3142.0	3142.0
+HAUTES-PYRENEES	65	RI03 Surface des autres zones naturelles en zone inondable	 ha	244.0	244.0
+HAUTES-PYRENEES	65	RI03 Surface des zones humides en zone inondable	 ha	2.0	2.0
+HAUTES-PYRENEES	65	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	453.0	453.0
+HAUTES-PYRENEES	65	RI03 Taux de couverture	%	89.88	89.88
+HAUTS-DE-SEINE	92	RI03Surface totale du territoire	 ha	17556.0	17556.0
+HAUTS-DE-SEINE	92	RI03 Surface estimée en zone inondable	 ha	3604.0	3604.0
+HAUTS-DE-SEINE	92	RI03 Population totale du territoire	 nombre	1428678.0	1536096.0
+HAUTS-DE-SEINE	92	RI03 Population estimée en zone inondable	 nombre	265900.0	288800.0
+HAUTS-DE-SEINE	92	RI03 Nombre total de logements du territoire	 nombre	702458.0	744957.0
+HAUTS-DE-SEINE	92	RI03 Nombre de logements estimé en zone inondable	 nombre	128300.0	136400.0
+HAUTS-DE-SEINE	92	RI03 Surface urbanisée continue en zone inondable	 ha	297.0	297.0
+HAUTS-DE-SEINE	92	RI03 Surface urbanisée discontinue en zone inondable	 ha	1260.0	1260.0
+HAUTS-DE-SEINE	92	RI03 Surface des zones d'activités en zone inondable	 ha	1363.0	1363.0
+HAUTS-DE-SEINE	92	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	319.0	319.0
+HAUTS-DE-SEINE	92	RI03 Surface des réseaux de communication en zone inondable	 ha	23.0	23.0
+HAUTS-DE-SEINE	92	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	0.0	0.0
+HAUTS-DE-SEINE	92	RI03 Surface des prairies en zone inondable	 ha	0.0	0.0
+HAUTS-DE-SEINE	92	RI03 Surface des forêts en zone inondable	 ha	0.0	0.0
+HAUTS-DE-SEINE	92	RI03 Surface des autres zones naturelles en zone inondable	 ha	0.0	0.0
+HAUTS-DE-SEINE	92	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+HAUTS-DE-SEINE	92	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	343.0	343.0
+HAUTS-DE-SEINE	92	RI03 Taux de couverture	%	100.0	100.0
+HERAULT	34	RI03Surface totale du territoire	 ha	623430.0	623430.0
+HERAULT	34	RI03 Surface estimée en zone inondable	 ha	73680.0	73680.0
+HERAULT	34	RI03 Population totale du territoire	 nombre	896909.0	1001037.0
+HERAULT	34	RI03 Population estimée en zone inondable	 nombre	130500.0	144100.0
+HERAULT	34	RI03 Nombre total de logements du territoire	 nombre	537013.0	609783.0
+HERAULT	34	RI03 Nombre de logements estimé en zone inondable	 nombre	86800.0	100300.0
+HERAULT	34	RI03 Surface urbanisée continue en zone inondable	 ha	76.0	76.0
+HERAULT	34	RI03 Surface urbanisée discontinue en zone inondable	 ha	4648.0	4845.0
+HERAULT	34	RI03 Surface des zones d'activités en zone inondable	 ha	1221.0	1168.0
+HERAULT	34	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	960.0	960.0
+HERAULT	34	RI03 Surface des réseaux de communication en zone inondable	 ha	83.0	87.0
+HERAULT	34	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	50627.0	50469.0
+HERAULT	34	RI03 Surface des prairies en zone inondable	 ha	579.0	579.0
+HERAULT	34	RI03 Surface des forêts en zone inondable	 ha	4060.0	4062.0
+HERAULT	34	RI03 Surface des autres zones naturelles en zone inondable	 ha	3264.0	3273.0
+HERAULT	34	RI03 Surface des zones humides en zone inondable	 ha	6724.0	6724.0
+HERAULT	34	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1437.0	1437.0
+HERAULT	34	RI03 Taux de couverture	%	100.0	100.0
+ILLE-ET-VILAINE	35	RI03Surface totale du territoire	 ha	683212.0	683212.0
+ILLE-ET-VILAINE	35	RI03 Surface estimée en zone inondable	 ha	22118.0	22118.0
+ILLE-ET-VILAINE	35	RI03 Population totale du territoire	 nombre	867818.0	945850.0
+ILLE-ET-VILAINE	35	RI03 Population estimée en zone inondable	 nombre	26500.0	28600.0
+ILLE-ET-VILAINE	35	RI03 Nombre total de logements du territoire	 nombre	408749.0	457942.0
+ILLE-ET-VILAINE	35	RI03 Nombre de logements estimé en zone inondable	 nombre	13300.0	14600.0
+ILLE-ET-VILAINE	35	RI03 Surface urbanisée continue en zone inondable	 ha	35.0	35.0
+ILLE-ET-VILAINE	35	RI03 Surface urbanisée discontinue en zone inondable	 ha	621.0	624.0
+ILLE-ET-VILAINE	35	RI03 Surface des zones d'activités en zone inondable	 ha	390.0	392.0
+ILLE-ET-VILAINE	35	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	148.0	148.0
+ILLE-ET-VILAINE	35	RI03 Surface des réseaux de communication en zone inondable	 ha	26.0	26.0
+ILLE-ET-VILAINE	35	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	10699.0	10653.0
+ILLE-ET-VILAINE	35	RI03 Surface des prairies en zone inondable	 ha	8226.0	8228.0
+ILLE-ET-VILAINE	35	RI03 Surface des forêts en zone inondable	 ha	623.0	663.0
+ILLE-ET-VILAINE	35	RI03 Surface des autres zones naturelles en zone inondable	 ha	63.0	52.0
+ILLE-ET-VILAINE	35	RI03 Surface des zones humides en zone inondable	 ha	343.0	343.0
+ILLE-ET-VILAINE	35	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	943.0	953.0
+ILLE-ET-VILAINE	35	RI03 Taux de couverture	%	90.31	90.31
+INDRE	36	RI03Surface totale du territoire	 ha	688662.0	688662.0
+INDRE	36	RI03 Surface estimée en zone inondable	 ha	10650.0	10650.0
+INDRE	36	RI03 Population totale du territoire	 nombre	231061.0	232959.0
+INDRE	36	RI03 Population estimée en zone inondable	 nombre	13600.0	13600.0
+INDRE	36	RI03 Nombre total de logements du territoire	 nombre	125862.0	131822.0
+INDRE	36	RI03 Nombre de logements estimé en zone inondable	 nombre	7200.0	7700.0
+INDRE	36	RI03 Surface urbanisée continue en zone inondable	 ha	31.0	31.0
+INDRE	36	RI03 Surface urbanisée discontinue en zone inondable	 ha	632.0	632.0
+INDRE	36	RI03 Surface des zones d'activités en zone inondable	 ha	67.0	83.0
+INDRE	36	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	136.0	136.0
+INDRE	36	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+INDRE	36	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	3110.0	3094.0
+INDRE	36	RI03 Surface des prairies en zone inondable	 ha	5038.0	5038.0
+INDRE	36	RI03 Surface des forêts en zone inondable	 ha	1546.0	1546.0
+INDRE	36	RI03 Surface des autres zones naturelles en zone inondable	 ha	32.0	32.0
+INDRE	36	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+INDRE	36	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	60.0	60.0
+INDRE	36	RI03 Taux de couverture	%	98.67	98.67
+INDRE-ET-LOIRE	37	RI03Surface totale du territoire	 ha	614688.0	614688.0
+INDRE-ET-LOIRE	37	RI03 Surface estimée en zone inondable	 ha	34631.0	34631.0
+INDRE-ET-LOIRE	37	RI03 Population totale du territoire	 nombre	553747.0	580312.0
+INDRE-ET-LOIRE	37	RI03 Population estimée en zone inondable	 nombre	139600.0	143300.0
+INDRE-ET-LOIRE	37	RI03 Nombre total de logements du territoire	 nombre	263543.0	285629.0
+INDRE-ET-LOIRE	37	RI03 Nombre de logements estimé en zone inondable	 nombre	73900.0	78100.0
+INDRE-ET-LOIRE	37	RI03 Surface urbanisée continue en zone inondable	 ha	52.0	52.0
+INDRE-ET-LOIRE	37	RI03 Surface urbanisée discontinue en zone inondable	 ha	3339.0	3365.0
+INDRE-ET-LOIRE	37	RI03 Surface des zones d'activités en zone inondable	 ha	1269.0	1362.0
+INDRE-ET-LOIRE	37	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	291.0	291.0
+INDRE-ET-LOIRE	37	RI03 Surface des réseaux de communication en zone inondable	 ha	364.0	364.0
+INDRE-ET-LOIRE	37	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	17000.0	16962.0
+INDRE-ET-LOIRE	37	RI03 Surface des prairies en zone inondable	 ha	4940.0	4844.0
+INDRE-ET-LOIRE	37	RI03 Surface des forêts en zone inondable	 ha	2672.0	2509.0
+INDRE-ET-LOIRE	37	RI03 Surface des autres zones naturelles en zone inondable	 ha	1082.0	1246.0
+INDRE-ET-LOIRE	37	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+INDRE-ET-LOIRE	37	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	3620.0	3636.0
+INDRE-ET-LOIRE	37	RI03 Taux de couverture	%	58.62	58.62
+ISERE	38	RI03Surface totale du territoire	 ha	786744.0	786744.0
+ISERE	38	RI03 Surface estimée en zone inondable	 ha	30984.0	30984.0
+ISERE	38	RI03 Population totale du territoire	 nombre	1093786.0	1169491.0
+ISERE	38	RI03 Population estimée en zone inondable	 nombre	235900.0	240600.0
+ISERE	38	RI03 Nombre total de logements du territoire	 nombre	508491.0	556344.0
+ISERE	38	RI03 Nombre de logements estimé en zone inondable	 nombre	119000.0	123400.0
+ISERE	38	RI03 Surface urbanisée continue en zone inondable	 ha	271.0	271.0
+ISERE	38	RI03 Surface urbanisée discontinue en zone inondable	 ha	2833.0	2874.0
+ISERE	38	RI03 Surface des zones d'activités en zone inondable	 ha	2193.0	2255.0
+ISERE	38	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	494.0	494.0
+ISERE	38	RI03 Surface des réseaux de communication en zone inondable	 ha	142.0	142.0
+ISERE	38	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	17301.0	17211.0
+ISERE	38	RI03 Surface des prairies en zone inondable	 ha	1422.0	1418.0
+ISERE	38	RI03 Surface des forêts en zone inondable	 ha	4075.0	4030.0
+ISERE	38	RI03 Surface des autres zones naturelles en zone inondable	 ha	481.0	517.0
+ISERE	38	RI03 Surface des zones humides en zone inondable	 ha	147.0	147.0
+ISERE	38	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1625.0	1625.0
+ISERE	38	RI03 Taux de couverture	%	49.25	49.25
+JURA	39	RI03Surface totale du territoire	 ha	504035.0	504035.0
+JURA	39	RI03 Surface estimée en zone inondable	 ha	21224.0	21224.0
+JURA	39	RI03 Population totale du territoire	 nombre	250925.0	257401.0
+JURA	39	RI03 Population estimée en zone inondable	 nombre	12800.0	13400.0
+JURA	39	RI03 Nombre total de logements du territoire	 nombre	127784.0	136482.0
+JURA	39	RI03 Nombre de logements estimé en zone inondable	 nombre	6100.0	6500.0
+JURA	39	RI03 Surface urbanisée continue en zone inondable	 ha	3.0	3.0
+JURA	39	RI03 Surface urbanisée discontinue en zone inondable	 ha	1077.0	1086.0
+JURA	39	RI03 Surface des zones d'activités en zone inondable	 ha	429.0	448.0
+JURA	39	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	57.0	57.0
+JURA	39	RI03 Surface des réseaux de communication en zone inondable	 ha	3.0	3.0
+JURA	39	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	14549.0	14518.0
+JURA	39	RI03 Surface des prairies en zone inondable	 ha	2776.0	2779.0
+JURA	39	RI03 Surface des forêts en zone inondable	 ha	1027.0	1037.0
+JURA	39	RI03 Surface des autres zones naturelles en zone inondable	 ha	209.0	199.0
+JURA	39	RI03 Surface des zones humides en zone inondable	 ha	17.0	17.0
+JURA	39	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1077.0	1077.0
+JURA	39	RI03 Taux de couverture	%	84.8	84.8
+LANDES	40	RI03Surface totale du territoire	 ha	935245.0	935245.0
+LANDES	40	RI03 Surface estimée en zone inondable	 ha	42111.0	42111.0
+LANDES	40	RI03 Population totale du territoire	 nombre	327443.0	362825.0
+LANDES	40	RI03 Population estimée en zone inondable	 nombre	22800.0	25000.0
+LANDES	40	RI03 Nombre total de logements du territoire	 nombre	184387.0	217404.0
+LANDES	40	RI03 Nombre de logements estimé en zone inondable	 nombre	11700.0	13300.0
+LANDES	40	RI03 Surface urbanisée continue en zone inondable	 ha	22.0	22.0
+LANDES	40	RI03 Surface urbanisée discontinue en zone inondable	 ha	919.0	937.0
+LANDES	40	RI03 Surface des zones d'activités en zone inondable	 ha	800.0	883.0
+LANDES	40	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	41.0	41.0
+LANDES	40	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	39.0
+LANDES	40	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	23519.0	23307.0
+LANDES	40	RI03 Surface des prairies en zone inondable	 ha	1008.0	1008.0
+LANDES	40	RI03 Surface des forêts en zone inondable	 ha	13938.0	14018.0
+LANDES	40	RI03 Surface des autres zones naturelles en zone inondable	 ha	738.0	724.0
+LANDES	40	RI03 Surface des zones humides en zone inondable	 ha	290.0	290.0
+LANDES	40	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	834.0	841.0
+LANDES	40	RI03 Taux de couverture	%	99.51	99.51
+LOIR-ET-CHER	41	RI03Surface totale du territoire	 ha	641160.0	641160.0
+LOIR-ET-CHER	41	RI03 Surface estimée en zone inondable	 ha	34689.0	34689.0
+LOIR-ET-CHER	41	RI03 Population totale du territoire	 nombre	314933.0	325183.0
+LOIR-ET-CHER	41	RI03 Population estimée en zone inondable	 nombre	36100.0	36700.0
+LOIR-ET-CHER	41	RI03 Nombre total de logements du territoire	 nombre	156950.0	169349.0
+LOIR-ET-CHER	41	RI03 Nombre de logements estimé en zone inondable	 nombre	19200.0	20500.0
+LOIR-ET-CHER	41	RI03 Surface urbanisée continue en zone inondable	 ha	16.0	16.0
+LOIR-ET-CHER	41	RI03 Surface urbanisée discontinue en zone inondable	 ha	1805.0	1806.0
+LOIR-ET-CHER	41	RI03 Surface des zones d'activités en zone inondable	 ha	242.0	276.0
+LOIR-ET-CHER	41	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	405.0	405.0
+LOIR-ET-CHER	41	RI03 Surface des réseaux de communication en zone inondable	 ha	2.0	2.0
+LOIR-ET-CHER	41	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	17137.0	17131.0
+LOIR-ET-CHER	41	RI03 Surface des prairies en zone inondable	 ha	7181.0	7139.0
+LOIR-ET-CHER	41	RI03 Surface des forêts en zone inondable	 ha	5201.0	5201.0
+LOIR-ET-CHER	41	RI03 Surface des autres zones naturelles en zone inondable	 ha	415.0	415.0
+LOIR-ET-CHER	41	RI03 Surface des zones humides en zone inondable	 ha	31.0	31.0
+LOIR-ET-CHER	41	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2253.0	2267.0
+LOIR-ET-CHER	41	RI03 Taux de couverture	%	99.25	99.25
+LOIRE	42	RI03Surface totale du territoire	 ha	479659.0	479659.0
+LOIRE	42	RI03 Surface estimée en zone inondable	 ha	14243.0	14243.0
+LOIRE	42	RI03 Population totale du territoire	 nombre	728870.0	741264.0
+LOIRE	42	RI03 Population estimée en zone inondable	 nombre	41200.0	41900.0
+LOIRE	42	RI03 Nombre total de logements du territoire	 nombre	347699.0	364979.0
+LOIRE	42	RI03 Nombre de logements estimé en zone inondable	 nombre	21800.0	22900.0
+LOIRE	42	RI03 Surface urbanisée continue en zone inondable	 ha	95.0	95.0
+LOIRE	42	RI03 Surface urbanisée discontinue en zone inondable	 ha	801.0	832.0
+LOIRE	42	RI03 Surface des zones d'activités en zone inondable	 ha	760.0	810.0
+LOIRE	42	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	104.0	119.0
+LOIRE	42	RI03 Surface des réseaux de communication en zone inondable	 ha	48.0	49.0
+LOIRE	42	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	5945.0	5893.0
+LOIRE	42	RI03 Surface des prairies en zone inondable	 ha	3783.0	3712.0
+LOIRE	42	RI03 Surface des forêts en zone inondable	 ha	965.0	976.0
+LOIRE	42	RI03 Surface des autres zones naturelles en zone inondable	 ha	133.0	133.0
+LOIRE	42	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+LOIRE	42	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1610.0	1624.0
+LOIRE	42	RI03 Taux de couverture	%	68.94	68.94
+LOIRE-ATLANTIQUE	44	RI03Surface totale du territoire	 ha	690009.0	690009.0
+LOIRE-ATLANTIQUE	44	RI03 Surface estimée en zone inondable	 ha	24289.0	24289.0
+LOIRE-ATLANTIQUE	44	RI03 Population totale du territoire	 nombre	1134493.0	1234089.0
+LOIRE-ATLANTIQUE	44	RI03 Population estimée en zone inondable	 nombre	27400.0	30400.0
+LOIRE-ATLANTIQUE	44	RI03 Nombre total de logements du territoire	 nombre	552391.0	621784.0
+LOIRE-ATLANTIQUE	44	RI03 Nombre de logements estimé en zone inondable	 nombre	13700.0	15500.0
+LOIRE-ATLANTIQUE	44	RI03 Surface urbanisée continue en zone inondable	 ha	68.0	68.0
+LOIRE-ATLANTIQUE	44	RI03 Surface urbanisée discontinue en zone inondable	 ha	719.0	735.0
+LOIRE-ATLANTIQUE	44	RI03 Surface des zones d'activités en zone inondable	 ha	91.0	91.0
+LOIRE-ATLANTIQUE	44	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	176.0	176.0
+LOIRE-ATLANTIQUE	44	RI03 Surface des réseaux de communication en zone inondable	 ha	1.0	1.0
+LOIRE-ATLANTIQUE	44	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	8446.0	8458.0
+LOIRE-ATLANTIQUE	44	RI03 Surface des prairies en zone inondable	 ha	9163.0	9111.0
+LOIRE-ATLANTIQUE	44	RI03 Surface des forêts en zone inondable	 ha	783.0	783.0
+LOIRE-ATLANTIQUE	44	RI03 Surface des autres zones naturelles en zone inondable	 ha	386.0	408.0
+LOIRE-ATLANTIQUE	44	RI03 Surface des zones humides en zone inondable	 ha	1937.0	1937.0
+LOIRE-ATLANTIQUE	44	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2520.0	2520.0
+LOIRE-ATLANTIQUE	44	RI03 Taux de couverture	%	64.89	64.89
+LOIRET	45	RI03Surface totale du territoire	 ha	680459.0	680459.0
+LOIRET	45	RI03 Surface estimée en zone inondable	 ha	44773.0	44773.0
+LOIRET	45	RI03 Population totale du territoire	 nombre	618086.0	645324.0
+LOIRET	45	RI03 Population estimée en zone inondable	 nombre	87700.0	90600.0
+LOIRET	45	RI03 Nombre total de logements du territoire	 nombre	288869.0	309851.0
+LOIRET	45	RI03 Nombre de logements estimé en zone inondable	 nombre	39800.0	42700.0
+LOIRET	45	RI03 Surface urbanisée continue en zone inondable	 ha	36.0	36.0
+LOIRET	45	RI03 Surface urbanisée discontinue en zone inondable	 ha	3375.0	3391.0
+LOIRET	45	RI03 Surface des zones d'activités en zone inondable	 ha	791.0	821.0
+LOIRET	45	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	248.0	248.0
+LOIRET	45	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+LOIRET	45	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	29543.0	29488.0
+LOIRET	45	RI03 Surface des prairies en zone inondable	 ha	3095.0	3083.0
+LOIRET	45	RI03 Surface des forêts en zone inondable	 ha	3215.0	3208.0
+LOIRET	45	RI03 Surface des autres zones naturelles en zone inondable	 ha	715.0	715.0
+LOIRET	45	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+LOIRET	45	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	3755.0	3782.0
+LOIRET	45	RI03 Taux de couverture	%	74.71	74.71
+LOT	46	RI03Surface totale du territoire	 ha	522201.0	522201.0
+LOT	46	RI03 Surface estimée en zone inondable	 ha	23911.0	23911.0
+LOT	46	RI03 Population totale du territoire	 nombre	160034.0	169533.0
+LOT	46	RI03 Population estimée en zone inondable	 nombre	16600.0	17200.0
+LOT	46	RI03 Nombre total de logements du territoire	 nombre	95012.0	105535.0
+LOT	46	RI03 Nombre de logements estimé en zone inondable	 nombre	9700.0	10600.0
+LOT	46	RI03 Surface urbanisée continue en zone inondable	 ha	61.0	61.0
+LOT	46	RI03 Surface urbanisée discontinue en zone inondable	 ha	599.0	632.0
+LOT	46	RI03 Surface des zones d'activités en zone inondable	 ha	222.0	184.0
+LOT	46	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	24.0	33.0
+LOT	46	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	42.0
+LOT	46	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	13221.0	13187.0
+LOT	46	RI03 Surface des prairies en zone inondable	 ha	3982.0	3970.0
+LOT	46	RI03 Surface des forêts en zone inondable	 ha	2543.0	2543.0
+LOT	46	RI03 Surface des autres zones naturelles en zone inondable	 ha	356.0	356.0
+LOT	46	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+LOT	46	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2902.0	2902.0
+LOT	46	RI03 Taux de couverture	%	99.31	99.31
+LOT-ET-GARONNE	47	RI03Surface totale du territoire	 ha	538233.0	538233.0
+LOT-ET-GARONNE	47	RI03 Surface estimée en zone inondable	 ha	7585.0	7585.0
+LOT-ET-GARONNE	47	RI03 Population totale du territoire	 nombre	305396.0	322283.0
+LOT-ET-GARONNE	47	RI03 Population estimée en zone inondable	 nombre	4300.0	4300.0
+LOT-ET-GARONNE	47	RI03 Nombre total de logements du territoire	 nombre	148242.0	163961.0
+LOT-ET-GARONNE	47	RI03 Nombre de logements estimé en zone inondable	 nombre	2000.0	2200.0
+LOT-ET-GARONNE	47	RI03 Surface urbanisée continue en zone inondable	 ha	5.0	5.0
+LOT-ET-GARONNE	47	RI03 Surface urbanisée discontinue en zone inondable	 ha	179.0	187.0
+LOT-ET-GARONNE	47	RI03 Surface des zones d'activités en zone inondable	 ha	11.0	27.0
+LOT-ET-GARONNE	47	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	19.0	19.0
+LOT-ET-GARONNE	47	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+LOT-ET-GARONNE	47	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	5944.0	5916.0
+LOT-ET-GARONNE	47	RI03 Surface des prairies en zone inondable	 ha	320.0	313.0
+LOT-ET-GARONNE	47	RI03 Surface des forêts en zone inondable	 ha	884.0	870.0
+LOT-ET-GARONNE	47	RI03 Surface des autres zones naturelles en zone inondable	 ha	105.0	128.0
+LOT-ET-GARONNE	47	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+LOT-ET-GARONNE	47	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	118.0	118.0
+LOT-ET-GARONNE	47	RI03 Taux de couverture	%	30.43	30.43
+LOZERE	48	RI03Surface totale du territoire	 ha	517209.0	517209.0
+LOZERE	48	RI03 Surface estimée en zone inondable	 ha	11033.0	11033.0
+LOZERE	48	RI03 Population totale du territoire	 nombre	73508.0	76806.0
+LOZERE	48	RI03 Population estimée en zone inondable	 nombre	11200.0	11200.0
+LOZERE	48	RI03 Nombre total de logements du territoire	 nombre	51081.0	55556.0
+LOZERE	48	RI03 Nombre de logements estimé en zone inondable	 nombre	6500.0	7100.0
+LOZERE	48	RI03 Surface urbanisée continue en zone inondable	 ha	4.0	4.0
+LOZERE	48	RI03 Surface urbanisée discontinue en zone inondable	 ha	537.0	543.0
+LOZERE	48	RI03 Surface des zones d'activités en zone inondable	 ha	43.0	43.0
+LOZERE	48	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	17.0	26.0
+LOZERE	48	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+LOZERE	48	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	1973.0	1972.0
+LOZERE	48	RI03 Surface des prairies en zone inondable	 ha	3110.0	3094.0
+LOZERE	48	RI03 Surface des forêts en zone inondable	 ha	3335.0	3333.0
+LOZERE	48	RI03 Surface des autres zones naturelles en zone inondable	 ha	1805.0	1809.0
+LOZERE	48	RI03 Surface des zones humides en zone inondable	 ha	4.0	4.0
+LOZERE	48	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	206.0	206.0
+LOZERE	48	RI03 Taux de couverture	%	91.14	91.14
+MAINE-ET-LOIRE	49	RI03Surface totale du territoire	 ha	721964.0	721964.0
+MAINE-ET-LOIRE	49	RI03 Surface estimée en zone inondable	 ha	68907.0	68907.0
+MAINE-ET-LOIRE	49	RI03 Population totale du territoire	 nombre	733213.0	766655.0
+MAINE-ET-LOIRE	49	RI03 Population estimée en zone inondable	 nombre	75900.0	78600.0
+MAINE-ET-LOIRE	49	RI03 Nombre total de logements du territoire	 nombre	316460.0	346840.0
+MAINE-ET-LOIRE	49	RI03 Nombre de logements estimé en zone inondable	 nombre	33300.0	36000.0
+MAINE-ET-LOIRE	49	RI03 Surface urbanisée continue en zone inondable	 ha	81.0	81.0
+MAINE-ET-LOIRE	49	RI03 Surface urbanisée discontinue en zone inondable	 ha	3289.0	3310.0
+MAINE-ET-LOIRE	49	RI03 Surface des zones d'activités en zone inondable	 ha	845.0	910.0
+MAINE-ET-LOIRE	49	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	325.0	325.0
+MAINE-ET-LOIRE	49	RI03 Surface des réseaux de communication en zone inondable	 ha	32.0	32.0
+MAINE-ET-LOIRE	49	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	35343.0	35240.0
+MAINE-ET-LOIRE	49	RI03 Surface des prairies en zone inondable	 ha	20631.0	20604.0
+MAINE-ET-LOIRE	49	RI03 Surface des forêts en zone inondable	 ha	2615.0	2480.0
+MAINE-ET-LOIRE	49	RI03 Surface des autres zones naturelles en zone inondable	 ha	1340.0	1519.0
+MAINE-ET-LOIRE	49	RI03 Surface des zones humides en zone inondable	 ha	33.0	33.0
+MAINE-ET-LOIRE	49	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	4372.0	4372.0
+MAINE-ET-LOIRE	49	RI03 Taux de couverture	%	84.71	84.71
+MANCHE	50	RI03Surface totale du territoire	 ha	600881.0	600881.0
+MANCHE	50	RI03 Surface estimée en zone inondable	 ha	61253.0	61253.0
+MANCHE	50	RI03 Population totale du territoire	 nombre	481726.0	492565.0
+MANCHE	50	RI03 Population estimée en zone inondable	 nombre	33200.0	34500.0
+MANCHE	50	RI03 Nombre total de logements du territoire	 nombre	245467.0	268071.0
+MANCHE	50	RI03 Nombre de logements estimé en zone inondable	 nombre	16800.0	18400.0
+MANCHE	50	RI03 Surface urbanisée continue en zone inondable	 ha	6.0	6.0
+MANCHE	50	RI03 Surface urbanisée discontinue en zone inondable	 ha	980.0	982.0
+MANCHE	50	RI03 Surface des zones d'activités en zone inondable	 ha	348.0	352.0
+MANCHE	50	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	138.0	138.0
+MANCHE	50	RI03 Surface des réseaux de communication en zone inondable	 ha	2.0	2.0
+MANCHE	50	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	12600.0	12596.0
+MANCHE	50	RI03 Surface des prairies en zone inondable	 ha	42325.0	42317.0
+MANCHE	50	RI03 Surface des forêts en zone inondable	 ha	1659.0	1663.0
+MANCHE	50	RI03 Surface des autres zones naturelles en zone inondable	 ha	220.0	220.0
+MANCHE	50	RI03 Surface des zones humides en zone inondable	 ha	2662.0	2662.0
+MANCHE	50	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	314.0	314.0
+MANCHE	50	RI03 Taux de couverture	%	99.67	99.67
+MARNE	51	RI03Surface totale du territoire	 ha	818909.0	818909.0
+MARNE	51	RI03 Surface estimée en zone inondable	 ha	34150.0	34150.0
+MARNE	51	RI03 Population totale du territoire	 nombre	565153.0	565840.0
+MARNE	51	RI03 Population estimée en zone inondable	 nombre	23500.0	23400.0
+MARNE	51	RI03 Nombre total de logements du territoire	 nombre	253399.0	268549.0
+MARNE	51	RI03 Nombre de logements estimé en zone inondable	 nombre	10700.0	11500.0
+MARNE	51	RI03 Surface urbanisée continue en zone inondable	 ha	17.0	17.0
+MARNE	51	RI03 Surface urbanisée discontinue en zone inondable	 ha	1043.0	1043.0
+MARNE	51	RI03 Surface des zones d'activités en zone inondable	 ha	310.0	328.0
+MARNE	51	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	25.0	25.0
+MARNE	51	RI03 Surface des réseaux de communication en zone inondable	 ha	100.0	112.0
+MARNE	51	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	18227.0	18225.0
+MARNE	51	RI03 Surface des prairies en zone inondable	 ha	3898.0	3863.0
+MARNE	51	RI03 Surface des forêts en zone inondable	 ha	9209.0	9133.0
+MARNE	51	RI03 Surface des autres zones naturelles en zone inondable	 ha	431.0	506.0
+MARNE	51	RI03 Surface des zones humides en zone inondable	 ha	106.0	106.0
+MARNE	51	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	784.0	791.0
+MARNE	51	RI03 Taux de couverture	%	97.93	97.93
+MAYENNE	53	RI03Surface totale du territoire	 ha	520790.0	520790.0
+MAYENNE	53	RI03 Surface estimée en zone inondable	 ha	6794.0	6794.0
+MAYENNE	53	RI03 Population totale du territoire	 nombre	285377.0	299000.0
+MAYENNE	53	RI03 Population estimée en zone inondable	 nombre	6900.0	7000.0
+MAYENNE	53	RI03 Nombre total de logements du territoire	 nombre	129941.0	142286.0
+MAYENNE	53	RI03 Nombre de logements estimé en zone inondable	 nombre	3300.0	3500.0
+MAYENNE	53	RI03 Surface urbanisée continue en zone inondable	 ha	10.0	10.0
+MAYENNE	53	RI03 Surface urbanisée discontinue en zone inondable	 ha	281.0	281.0
+MAYENNE	53	RI03 Surface des zones d'activités en zone inondable	 ha	74.0	75.0
+MAYENNE	53	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	51.0	51.0
+MAYENNE	53	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+MAYENNE	53	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	1914.0	1913.0
+MAYENNE	53	RI03 Surface des prairies en zone inondable	 ha	4137.0	4137.0
+MAYENNE	53	RI03 Surface des forêts en zone inondable	 ha	235.0	235.0
+MAYENNE	53	RI03 Surface des autres zones naturelles en zone inondable	 ha	7.0	7.0
+MAYENNE	53	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+MAYENNE	53	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	84.0	84.0
+MAYENNE	53	RI03 Taux de couverture	%	94.81	94.81
+MEURTHE-ET-MOSELLE	54	RI03Surface totale du territoire	 ha	528334.0	528334.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface estimée en zone inondable	 ha	23664.0	23664.0
+MEURTHE-ET-MOSELLE	54	RI03 Population totale du territoire	 nombre	713555.0	725303.0
+MEURTHE-ET-MOSELLE	54	RI03 Population estimée en zone inondable	 nombre	62900.0	64000.0
+MEURTHE-ET-MOSELLE	54	RI03 Nombre total de logements du territoire	 nombre	319970.0	339953.0
+MEURTHE-ET-MOSELLE	54	RI03 Nombre de logements estimé en zone inondable	 nombre	29900.0	32300.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface urbanisée continue en zone inondable	 ha	146.0	146.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface urbanisée discontinue en zone inondable	 ha	1789.0	1820.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface des zones d'activités en zone inondable	 ha	2257.0	2496.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	215.0	193.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface des réseaux de communication en zone inondable	 ha	90.0	149.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	5288.0	5100.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface des prairies en zone inondable	 ha	8590.0	8454.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface des forêts en zone inondable	 ha	1652.0	1616.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface des autres zones naturelles en zone inondable	 ha	249.0	240.0
+MEURTHE-ET-MOSELLE	54	RI03 Surface des zones humides en zone inondable	 ha	129.0	136.0
+MEURTHE-ET-MOSELLE	54	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	3260.0	3313.0
+MEURTHE-ET-MOSELLE	54	RI03 Taux de couverture	%	97.69	97.69
+MEUSE	55	RI03Surface totale du territoire	 ha	623497.0	623497.0
+MEUSE	55	RI03 Surface estimée en zone inondable	 ha	34046.0	34046.0
+MEUSE	55	RI03 Population totale du territoire	 nombre	192261.0	193701.0
+MEUSE	55	RI03 Population estimée en zone inondable	 nombre	20600.0	20500.0
+MEUSE	55	RI03 Nombre total de logements du territoire	 nombre	88170.0	93766.0
+MEUSE	55	RI03 Nombre de logements estimé en zone inondable	 nombre	9500.0	10100.0
+MEUSE	55	RI03 Surface urbanisée continue en zone inondable	 ha	45.0	45.0
+MEUSE	55	RI03 Surface urbanisée discontinue en zone inondable	 ha	1172.0	1180.0
+MEUSE	55	RI03 Surface des zones d'activités en zone inondable	 ha	335.0	357.0
+MEUSE	55	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	81.0	81.0
+MEUSE	55	RI03 Surface des réseaux de communication en zone inondable	 ha	15.0	15.0
+MEUSE	55	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	6006.0	5976.0
+MEUSE	55	RI03 Surface des prairies en zone inondable	 ha	25140.0	25060.0
+MEUSE	55	RI03 Surface des forêts en zone inondable	 ha	734.0	734.0
+MEUSE	55	RI03 Surface des autres zones naturelles en zone inondable	 ha	200.0	234.0
+MEUSE	55	RI03 Surface des zones humides en zone inondable	 ha	1.0	1.0
+MEUSE	55	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	316.0	363.0
+MEUSE	55	RI03 Taux de couverture	%	88.75	88.75
+MORBIHAN	56	RI03Surface totale du territoire	 ha	687038.0	687038.0
+MORBIHAN	56	RI03 Surface estimée en zone inondable	 ha	18541.0	18541.0
+MORBIHAN	56	RI03 Population totale du territoire	 nombre	644095.0	694818.0
+MORBIHAN	56	RI03 Population estimée en zone inondable	 nombre	9000.0	9400.0
+MORBIHAN	56	RI03 Nombre total de logements du territoire	 nombre	349860.0	401544.0
+MORBIHAN	56	RI03 Nombre de logements estimé en zone inondable	 nombre	4600.0	5000.0
+MORBIHAN	56	RI03 Surface urbanisée continue en zone inondable	 ha	18.0	18.0
+MORBIHAN	56	RI03 Surface urbanisée discontinue en zone inondable	 ha	348.0	350.0
+MORBIHAN	56	RI03 Surface des zones d'activités en zone inondable	 ha	226.0	224.0
+MORBIHAN	56	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	34.0	34.0
+MORBIHAN	56	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+MORBIHAN	56	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	6979.0	7016.0
+MORBIHAN	56	RI03 Surface des prairies en zone inondable	 ha	7918.0	7874.0
+MORBIHAN	56	RI03 Surface des forêts en zone inondable	 ha	1890.0	1904.0
+MORBIHAN	56	RI03 Surface des autres zones naturelles en zone inondable	 ha	214.0	206.0
+MORBIHAN	56	RI03 Surface des zones humides en zone inondable	 ha	225.0	225.0
+MORBIHAN	56	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	688.0	688.0
+MORBIHAN	56	RI03 Taux de couverture	%	87.78	87.78
+MOSELLE	57	RI03Surface totale du territoire	 ha	625364.0	625364.0
+MOSELLE	57	RI03 Surface estimée en zone inondable	 ha	32538.0	32538.0
+MOSELLE	57	RI03 Population totale du territoire	 nombre	1023199.0	1036780.0
+MOSELLE	57	RI03 Population estimée en zone inondable	 nombre	135200.0	134100.0
+MOSELLE	57	RI03 Nombre total de logements du territoire	 nombre	422029.0	460336.0
+MOSELLE	57	RI03 Nombre de logements estimé en zone inondable	 nombre	61400.0	65400.0
+MOSELLE	57	RI03 Surface urbanisée continue en zone inondable	 ha	148.0	148.0
+MOSELLE	57	RI03 Surface urbanisée discontinue en zone inondable	 ha	3816.0	3820.0
+MOSELLE	57	RI03 Surface des zones d'activités en zone inondable	 ha	1896.0	1931.0
+MOSELLE	57	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	406.0	406.0
+MOSELLE	57	RI03 Surface des réseaux de communication en zone inondable	 ha	222.0	225.0
+MOSELLE	57	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	7294.0	7243.0
+MOSELLE	57	RI03 Surface des prairies en zone inondable	 ha	14386.0	14369.0
+MOSELLE	57	RI03 Surface des forêts en zone inondable	 ha	801.0	797.0
+MOSELLE	57	RI03 Surface des autres zones naturelles en zone inondable	 ha	397.0	397.0
+MOSELLE	57	RI03 Surface des zones humides en zone inondable	 ha	106.0	106.0
+MOSELLE	57	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	3067.0	3097.0
+MOSELLE	57	RI03 Taux de couverture	%	88.8	88.8
+NIEVRE	58	RI03Surface totale du territoire	 ha	686326.0	686326.0
+NIEVRE	58	RI03 Surface estimée en zone inondable	 ha	18573.0	18573.0
+NIEVRE	58	RI03 Population totale du territoire	 nombre	225191.0	222218.0
+NIEVRE	58	RI03 Population estimée en zone inondable	 nombre	20900.0	20000.0
+NIEVRE	58	RI03 Nombre total de logements du territoire	 nombre	132430.0	137238.0
+NIEVRE	58	RI03 Nombre de logements estimé en zone inondable	 nombre	11500.0	11900.0
+NIEVRE	58	RI03 Surface urbanisée continue en zone inondable	 ha	54.0	54.0
+NIEVRE	58	RI03 Surface urbanisée discontinue en zone inondable	 ha	867.0	867.0
+NIEVRE	58	RI03 Surface des zones d'activités en zone inondable	 ha	346.0	362.0
+NIEVRE	58	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	54.0	54.0
+NIEVRE	58	RI03 Surface des réseaux de communication en zone inondable	 ha	2.0	2.0
+NIEVRE	58	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	3773.0	3757.0
+NIEVRE	58	RI03 Surface des prairies en zone inondable	 ha	9978.0	9978.0
+NIEVRE	58	RI03 Surface des forêts en zone inondable	 ha	1697.0	1697.0
+NIEVRE	58	RI03 Surface des autres zones naturelles en zone inondable	 ha	420.0	420.0
+NIEVRE	58	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+NIEVRE	58	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1382.0	1382.0
+NIEVRE	58	RI03 Taux de couverture	%	61.87	61.87
+NORD	59	RI03Surface totale du territoire	 ha	576730.0	576730.0
+NORD	59	RI03 Surface estimée en zone inondable	 ha	12648.0	12648.0
+NORD	59	RI03 Population totale du territoire	 nombre	2554449.0	2565258.0
+NORD	59	RI03 Population estimée en zone inondable	 nombre	24700.0	24300.0
+NORD	59	RI03 Nombre total de logements du territoire	 nombre	1035295.0	1094922.0
+NORD	59	RI03 Nombre de logements estimé en zone inondable	 nombre	9800.0	10200.0
+NORD	59	RI03 Surface urbanisée continue en zone inondable	 ha	5.0	5.0
+NORD	59	RI03 Surface urbanisée discontinue en zone inondable	 ha	1026.0	1046.0
+NORD	59	RI03 Surface des zones d'activités en zone inondable	 ha	168.0	169.0
+NORD	59	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	73.0	73.0
+NORD	59	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+NORD	59	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	3826.0	3824.0
+NORD	59	RI03 Surface des prairies en zone inondable	 ha	6436.0	6409.0
+NORD	59	RI03 Surface des forêts en zone inondable	 ha	605.0	553.0
+NORD	59	RI03 Surface des autres zones naturelles en zone inondable	 ha	191.0	251.0
+NORD	59	RI03 Surface des zones humides en zone inondable	 ha	243.0	243.0
+NORD	59	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	75.0	75.0
+NORD	59	RI03 Taux de couverture	%	30.26	30.26
+OISE	60	RI03Surface totale du territoire	 ha	589461.0	589461.0
+OISE	60	RI03 Surface estimée en zone inondable	 ha	16335.0	16335.0
+OISE	60	RI03 Population totale du territoire	 nombre	766313.0	792980.0
+OISE	60	RI03 Population estimée en zone inondable	 nombre	52900.0	54500.0
+OISE	60	RI03 Nombre total de logements du territoire	 nombre	311064.0	331529.0
+OISE	60	RI03 Nombre de logements estimé en zone inondable	 nombre	23500.0	25300.0
+OISE	60	RI03 Surface urbanisée continue en zone inondable	 ha	68.0	68.0
+OISE	60	RI03 Surface urbanisée discontinue en zone inondable	 ha	1449.0	1449.0
+OISE	60	RI03 Surface des zones d'activités en zone inondable	 ha	1902.0	2131.0
+OISE	60	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	210.0	210.0
+OISE	60	RI03 Surface des réseaux de communication en zone inondable	 ha	81.0	81.0
+OISE	60	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	4039.0	3995.0
+OISE	60	RI03 Surface des prairies en zone inondable	 ha	2639.0	2486.0
+OISE	60	RI03 Surface des forêts en zone inondable	 ha	3651.0	3584.0
+OISE	60	RI03 Surface des autres zones naturelles en zone inondable	 ha	143.0	173.0
+OISE	60	RI03 Surface des zones humides en zone inondable	 ha	16.0	16.0
+OISE	60	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2138.0	2143.0
+OISE	60	RI03 Taux de couverture	%	71.33	71.33
+ORNE	61	RI03Surface totale du territoire	 ha	614305.0	614305.0
+ORNE	61	RI03 Surface estimée en zone inondable	 ha	27338.0	27338.0
+ORNE	61	RI03 Population totale du territoire	 nombre	292411.0	292874.0
+ORNE	61	RI03 Population estimée en zone inondable	 nombre	16100.0	16100.0
+ORNE	61	RI03 Nombre total de logements du territoire	 nombre	146131.0	154255.0
+ORNE	61	RI03 Nombre de logements estimé en zone inondable	 nombre	8100.0	8500.0
+ORNE	61	RI03 Surface urbanisée continue en zone inondable	 ha	24.0	24.0
+ORNE	61	RI03 Surface urbanisée discontinue en zone inondable	 ha	612.0	606.0
+ORNE	61	RI03 Surface des zones d'activités en zone inondable	 ha	84.0	90.0
+ORNE	61	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	31.0	31.0
+ORNE	61	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+ORNE	61	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	4760.0	4760.0
+ORNE	61	RI03 Surface des prairies en zone inondable	 ha	20105.0	20105.0
+ORNE	61	RI03 Surface des forêts en zone inondable	 ha	1376.0	1376.0
+ORNE	61	RI03 Surface des autres zones naturelles en zone inondable	 ha	93.0	93.0
+ORNE	61	RI03 Surface des zones humides en zone inondable	 ha	55.0	55.0
+ORNE	61	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	199.0	199.0
+ORNE	61	RI03 Taux de couverture	%	98.81	98.81
+PARIS	75	RI03Surface totale du territoire	 ha	10561.0	10561.0
+PARIS	75	RI03 Surface estimée en zone inondable	 ha	1504.0	1504.0
+PARIS	75	RI03 Population totale du territoire	 nombre	2125851.0	2181374.0
+PARIS	75	RI03 Population estimée en zone inondable	 nombre	162600.0	168400.0
+PARIS	75	RI03 Nombre total de logements du territoire	 nombre	1322540.0	1334815.0
+PARIS	75	RI03 Nombre de logements estimé en zone inondable	 nombre	105500.0	107500.0
+PARIS	75	RI03 Surface urbanisée continue en zone inondable	 ha	718.0	718.0
+PARIS	75	RI03 Surface urbanisée discontinue en zone inondable	 ha	6.0	6.0
+PARIS	75	RI03 Surface des zones d'activités en zone inondable	 ha	160.0	160.0
+PARIS	75	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	299.0	299.0
+PARIS	75	RI03 Surface des réseaux de communication en zone inondable	 ha	118.0	118.0
+PARIS	75	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	0.0	0.0
+PARIS	75	RI03 Surface des prairies en zone inondable	 ha	0.0	0.0
+PARIS	75	RI03 Surface des forêts en zone inondable	 ha	0.0	0.0
+PARIS	75	RI03 Surface des autres zones naturelles en zone inondable	 ha	0.0	0.0
+PARIS	75	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+PARIS	75	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	203.0	203.0
+PARIS	75	RI03 Taux de couverture	%	100.0	100.0
+PAS-DE-CALAIS	62	RI03Surface totale du territoire	 ha	671537.0	671537.0
+PAS-DE-CALAIS	62	RI03 Surface estimée en zone inondable	 ha	12792.0	12792.0
+PAS-DE-CALAIS	62	RI03 Population totale du territoire	 nombre	1441422.0	1453390.0
+PAS-DE-CALAIS	62	RI03 Population estimée en zone inondable	 nombre	19700.0	20200.0
+PAS-DE-CALAIS	62	RI03 Nombre total de logements du territoire	 nombre	606134.0	648643.0
+PAS-DE-CALAIS	62	RI03 Nombre de logements estimé en zone inondable	 nombre	8100.0	8900.0
+PAS-DE-CALAIS	62	RI03 Surface urbanisée continue en zone inondable	 ha	2.0	2.0
+PAS-DE-CALAIS	62	RI03 Surface urbanisée discontinue en zone inondable	 ha	892.0	892.0
+PAS-DE-CALAIS	62	RI03 Surface des zones d'activités en zone inondable	 ha	144.0	144.0
+PAS-DE-CALAIS	62	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	32.0	32.0
+PAS-DE-CALAIS	62	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+PAS-DE-CALAIS	62	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	5009.0	5011.0
+PAS-DE-CALAIS	62	RI03 Surface des prairies en zone inondable	 ha	4474.0	4467.0
+PAS-DE-CALAIS	62	RI03 Surface des forêts en zone inondable	 ha	1044.0	1024.0
+PAS-DE-CALAIS	62	RI03 Surface des autres zones naturelles en zone inondable	 ha	73.0	97.0
+PAS-DE-CALAIS	62	RI03 Surface des zones humides en zone inondable	 ha	1035.0	1035.0
+PAS-DE-CALAIS	62	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	88.0	88.0
+PAS-DE-CALAIS	62	RI03 Taux de couverture	%	20.78	20.78
+PUY-DE-DOME	63	RI03Surface totale du territoire	 ha	800134.0	800134.0
+PUY-DE-DOME	63	RI03 Surface estimée en zone inondable	 ha	17222.0	17222.0
+PUY-DE-DOME	63	RI03 Population totale du territoire	 nombre	604222.0	623461.0
+PUY-DE-DOME	63	RI03 Population estimée en zone inondable	 nombre	44200.0	44100.0
+PUY-DE-DOME	63	RI03 Nombre total de logements du territoire	 nombre	321373.0	345983.0
+PUY-DE-DOME	63	RI03 Nombre de logements estimé en zone inondable	 nombre	23300.0	24400.0
+PUY-DE-DOME	63	RI03 Surface urbanisée continue en zone inondable	 ha	79.0	79.0
+PUY-DE-DOME	63	RI03 Surface urbanisée discontinue en zone inondable	 ha	1272.0	1289.0
+PUY-DE-DOME	63	RI03 Surface des zones d'activités en zone inondable	 ha	804.0	845.0
+PUY-DE-DOME	63	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	202.0	202.0
+PUY-DE-DOME	63	RI03 Surface des réseaux de communication en zone inondable	 ha	13.0	13.0
+PUY-DE-DOME	63	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	7695.0	7656.0
+PUY-DE-DOME	63	RI03 Surface des prairies en zone inondable	 ha	2843.0	2830.0
+PUY-DE-DOME	63	RI03 Surface des forêts en zone inondable	 ha	3211.0	3200.0
+PUY-DE-DOME	63	RI03 Surface des autres zones naturelles en zone inondable	 ha	794.0	794.0
+PUY-DE-DOME	63	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+PUY-DE-DOME	63	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	308.0	313.0
+PUY-DE-DOME	63	RI03 Taux de couverture	%	60.08	60.08
+PYRENEES-ATLANTIQUES	64	RI03Surface totale du territoire	 ha	769490.0	769490.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface estimée en zone inondable	 ha	4398.0	4398.0
+PYRENEES-ATLANTIQUES	64	RI03 Population totale du territoire	 nombre	600197.0	636845.0
+PYRENEES-ATLANTIQUES	64	RI03 Population estimée en zone inondable	 nombre	2300.0	2300.0
+PYRENEES-ATLANTIQUES	64	RI03 Nombre total de logements du territoire	 nombre	305759.0	340993.0
+PYRENEES-ATLANTIQUES	64	RI03 Nombre de logements estimé en zone inondable	 nombre	900.0	1000.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface urbanisée discontinue en zone inondable	 ha	87.0	87.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface des zones d'activités en zone inondable	 ha	26.0	26.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	3.0	3.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	3442.0	3442.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface des prairies en zone inondable	 ha	385.0	385.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface des forêts en zone inondable	 ha	384.0	384.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface des autres zones naturelles en zone inondable	 ha	27.0	27.0
+PYRENEES-ATLANTIQUES	64	RI03 Surface des zones humides en zone inondable	 ha	2.0	2.0
+PYRENEES-ATLANTIQUES	64	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	43.0	43.0
+PYRENEES-ATLANTIQUES	64	RI03 Taux de couverture	%	28.8	28.8
+PYRENEES-ORIENTALES	66	RI03Surface totale du territoire	 ha	415164.0	415164.0
+PYRENEES-ORIENTALES	66	RI03 Surface estimée en zone inondable	 ha	40084.0	40084.0
+PYRENEES-ORIENTALES	66	RI03 Population totale du territoire	 nombre	392930.0	432116.0
+PYRENEES-ORIENTALES	66	RI03 Population estimée en zone inondable	 nombre	144100.0	161000.0
+PYRENEES-ORIENTALES	66	RI03 Nombre total de logements du territoire	 nombre	276423.0	311576.0
+PYRENEES-ORIENTALES	66	RI03 Nombre de logements estimé en zone inondable	 nombre	94300.0	106900.0
+PYRENEES-ORIENTALES	66	RI03 Surface urbanisée continue en zone inondable	 ha	249.0	249.0
+PYRENEES-ORIENTALES	66	RI03 Surface urbanisée discontinue en zone inondable	 ha	4487.0	4794.0
+PYRENEES-ORIENTALES	66	RI03 Surface des zones d'activités en zone inondable	 ha	787.0	910.0
+PYRENEES-ORIENTALES	66	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	865.0	866.0
+PYRENEES-ORIENTALES	66	RI03 Surface des réseaux de communication en zone inondable	 ha	44.0	53.0
+PYRENEES-ORIENTALES	66	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	29344.0	28953.0
+PYRENEES-ORIENTALES	66	RI03 Surface des prairies en zone inondable	 ha	603.0	603.0
+PYRENEES-ORIENTALES	66	RI03 Surface des forêts en zone inondable	 ha	927.0	928.0
+PYRENEES-ORIENTALES	66	RI03 Surface des autres zones naturelles en zone inondable	 ha	1117.0	1068.0
+PYRENEES-ORIENTALES	66	RI03 Surface des zones humides en zone inondable	 ha	1254.0	1254.0
+PYRENEES-ORIENTALES	66	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	408.0	408.0
+PYRENEES-ORIENTALES	66	RI03 Taux de couverture	%	70.74	70.74
+RHONE	69	RI03Surface totale du territoire	 ha	325296.0	325296.0
+RHONE	69	RI03 Surface estimée en zone inondable	 ha	18064.0	18064.0
+RHONE	69	RI03 Population totale du territoire	 nombre	1578423.0	1669653.0
+RHONE	69	RI03 Population estimée en zone inondable	 nombre	120800.0	126800.0
+RHONE	69	RI03 Nombre total de logements du territoire	 nombre	728127.0	781867.0
+RHONE	69	RI03 Nombre de logements estimé en zone inondable	 nombre	54500.0	57200.0
+RHONE	69	RI03 Surface urbanisée continue en zone inondable	 ha	73.0	73.0
+RHONE	69	RI03 Surface urbanisée discontinue en zone inondable	 ha	2192.0	2198.0
+RHONE	69	RI03 Surface des zones d'activités en zone inondable	 ha	2869.0	2891.0
+RHONE	69	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	687.0	687.0
+RHONE	69	RI03 Surface des réseaux de communication en zone inondable	 ha	218.0	218.0
+RHONE	69	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	5322.0	5277.0
+RHONE	69	RI03 Surface des prairies en zone inondable	 ha	2897.0	2849.0
+RHONE	69	RI03 Surface des forêts en zone inondable	 ha	1031.0	1004.0
+RHONE	69	RI03 Surface des autres zones naturelles en zone inondable	 ha	266.0	294.0
+RHONE	69	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+RHONE	69	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2509.0	2573.0
+RHONE	69	RI03 Taux de couverture	%	90.21	90.21
+SAONE-ET-LOIRE	71	RI03Surface totale du territoire	 ha	859861.0	859861.0
+SAONE-ET-LOIRE	71	RI03 Surface estimée en zone inondable	 ha	47719.0	47719.0
+SAONE-ET-LOIRE	71	RI03 Population totale du territoire	 nombre	544891.0	549359.0
+SAONE-ET-LOIRE	71	RI03 Population estimée en zone inondable	 nombre	46000.0	45900.0
+SAONE-ET-LOIRE	71	RI03 Nombre total de logements du territoire	 nombre	274070.0	288332.0
+SAONE-ET-LOIRE	71	RI03 Nombre de logements estimé en zone inondable	 nombre	24000.0	25100.0
+SAONE-ET-LOIRE	71	RI03 Surface urbanisée continue en zone inondable	 ha	86.0	86.0
+SAONE-ET-LOIRE	71	RI03 Surface urbanisée discontinue en zone inondable	 ha	1653.0	1670.0
+SAONE-ET-LOIRE	71	RI03 Surface des zones d'activités en zone inondable	 ha	1259.0	1289.0
+SAONE-ET-LOIRE	71	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	385.0	385.0
+SAONE-ET-LOIRE	71	RI03 Surface des réseaux de communication en zone inondable	 ha	50.0	54.0
+SAONE-ET-LOIRE	71	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	15735.0	15676.0
+SAONE-ET-LOIRE	71	RI03 Surface des prairies en zone inondable	 ha	23598.0	23572.0
+SAONE-ET-LOIRE	71	RI03 Surface des forêts en zone inondable	 ha	1637.0	1678.0
+SAONE-ET-LOIRE	71	RI03 Surface des autres zones naturelles en zone inondable	 ha	520.0	478.0
+SAONE-ET-LOIRE	71	RI03 Surface des zones humides en zone inondable	 ha	33.0	33.0
+SAONE-ET-LOIRE	71	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2764.0	2799.0
+SAONE-ET-LOIRE	71	RI03 Taux de couverture	%	74.3	74.3
+SARTHE	72	RI03Surface totale du territoire	 ha	623822.0	623822.0
+SARTHE	72	RI03 Surface estimée en zone inondable	 ha	2563.0	2563.0
+SARTHE	72	RI03 Population totale du territoire	 nombre	529895.0	553482.0
+SARTHE	72	RI03 Population estimée en zone inondable	 nombre	2400.0	2200.0
+SARTHE	72	RI03 Nombre total de logements du territoire	 nombre	246749.0	267617.0
+SARTHE	72	RI03 Nombre de logements estimé en zone inondable	 nombre	1100.0	1100.0
+SARTHE	72	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+SARTHE	72	RI03 Surface urbanisée discontinue en zone inondable	 ha	72.0	72.0
+SARTHE	72	RI03 Surface des zones d'activités en zone inondable	 ha	12.0	12.0
+SARTHE	72	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	0.0	0.0
+SARTHE	72	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+SARTHE	72	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	705.0	705.0
+SARTHE	72	RI03 Surface des prairies en zone inondable	 ha	1684.0	1684.0
+SARTHE	72	RI03 Surface des forêts en zone inondable	 ha	85.0	85.0
+SARTHE	72	RI03 Surface des autres zones naturelles en zone inondable	 ha	4.0	4.0
+SARTHE	72	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+SARTHE	72	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1.0	1.0
+SARTHE	72	RI03 Taux de couverture	%	25.76	25.76
+SAVOIE	73	RI03Surface totale du territoire	 ha	626126.0	626126.0
+SAVOIE	73	RI03 Surface estimée en zone inondable	 ha	14566.0	14566.0
+SAVOIE	73	RI03 Population totale du territoire	 nombre	373350.0	403094.0
+SAVOIE	73	RI03 Population estimée en zone inondable	 nombre	34700.0	37000.0
+SAVOIE	73	RI03 Nombre total de logements du territoire	 nombre	271259.0	302237.0
+SAVOIE	73	RI03 Nombre de logements estimé en zone inondable	 nombre	17800.0	19100.0
+SAVOIE	73	RI03 Surface urbanisée continue en zone inondable	 ha	22.0	22.0
+SAVOIE	73	RI03 Surface urbanisée discontinue en zone inondable	 ha	927.0	922.0
+SAVOIE	73	RI03 Surface des zones d'activités en zone inondable	 ha	1169.0	1227.0
+SAVOIE	73	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	282.0	282.0
+SAVOIE	73	RI03 Surface des réseaux de communication en zone inondable	 ha	127.0	127.0
+SAVOIE	73	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	6917.0	6866.0
+SAVOIE	73	RI03 Surface des prairies en zone inondable	 ha	508.0	508.0
+SAVOIE	73	RI03 Surface des forêts en zone inondable	 ha	3031.0	2747.0
+SAVOIE	73	RI03 Surface des autres zones naturelles en zone inondable	 ha	477.0	734.0
+SAVOIE	73	RI03 Surface des zones humides en zone inondable	 ha	253.0	253.0
+SAVOIE	73	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	852.0	879.0
+SAVOIE	73	RI03 Taux de couverture	%	41.47	41.47
+SEINE-ET-MARNE	77	RI03Surface totale du territoire	 ha	592381.0	592381.0
+SEINE-ET-MARNE	77	RI03 Surface estimée en zone inondable	 ha	29589.0	29589.0
+SEINE-ET-MARNE	77	RI03 Population totale du territoire	 nombre	1193511.0	1273491.0
+SEINE-ET-MARNE	77	RI03 Population estimée en zone inondable	 nombre	89300.0	94800.0
+SEINE-ET-MARNE	77	RI03 Nombre total de logements du territoire	 nombre	486353.0	528550.0
+SEINE-ET-MARNE	77	RI03 Nombre de logements estimé en zone inondable	 nombre	40800.0	43800.0
+SEINE-ET-MARNE	77	RI03 Surface urbanisée continue en zone inondable	 ha	101.0	101.0
+SEINE-ET-MARNE	77	RI03 Surface urbanisée discontinue en zone inondable	 ha	3084.0	3109.0
+SEINE-ET-MARNE	77	RI03 Surface des zones d'activités en zone inondable	 ha	2544.0	2906.0
+SEINE-ET-MARNE	77	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	639.0	652.0
+SEINE-ET-MARNE	77	RI03 Surface des réseaux de communication en zone inondable	 ha	227.0	227.0
+SEINE-ET-MARNE	77	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	9757.0	9372.0
+SEINE-ET-MARNE	77	RI03 Surface des prairies en zone inondable	 ha	1014.0	943.0
+SEINE-ET-MARNE	77	RI03 Surface des forêts en zone inondable	 ha	7696.0	7658.0
+SEINE-ET-MARNE	77	RI03 Surface des autres zones naturelles en zone inondable	 ha	213.0	191.0
+SEINE-ET-MARNE	77	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+SEINE-ET-MARNE	77	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	4315.0	4429.0
+SEINE-ET-MARNE	77	RI03 Taux de couverture	%	81.45	81.45
+SEINE-MARITIME	76	RI03Surface totale du territoire	 ha	632856.0	632856.0
+SEINE-MARITIME	76	RI03 Surface estimée en zone inondable	 ha	3876.0	3876.0
+SEINE-MARITIME	76	RI03 Population totale du territoire	 nombre	1239176.0	1243830.0
+SEINE-MARITIME	76	RI03 Population estimée en zone inondable	 nombre	11900.0	11600.0
+SEINE-MARITIME	76	RI03 Nombre total de logements du territoire	 nombre	544749.0	575691.0
+SEINE-MARITIME	76	RI03 Nombre de logements estimé en zone inondable	 nombre	5300.0	5700.0
+SEINE-MARITIME	76	RI03 Surface urbanisée continue en zone inondable	 ha	3.0	3.0
+SEINE-MARITIME	76	RI03 Surface urbanisée discontinue en zone inondable	 ha	584.0	584.0
+SEINE-MARITIME	76	RI03 Surface des zones d'activités en zone inondable	 ha	274.0	276.0
+SEINE-MARITIME	76	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	66.0	66.0
+SEINE-MARITIME	76	RI03 Surface des réseaux de communication en zone inondable	 ha	16.0	16.0
+SEINE-MARITIME	76	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	712.0	698.0
+SEINE-MARITIME	76	RI03 Surface des prairies en zone inondable	 ha	1551.0	1554.0
+SEINE-MARITIME	76	RI03 Surface des forêts en zone inondable	 ha	152.0	152.0
+SEINE-MARITIME	76	RI03 Surface des autres zones naturelles en zone inondable	 ha	41.0	41.0
+SEINE-MARITIME	76	RI03 Surface des zones humides en zone inondable	 ha	65.0	65.0
+SEINE-MARITIME	76	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	411.0	421.0
+SEINE-MARITIME	76	RI03 Taux de couverture	%	14.95	14.95
+SEINE-SAINT-DENIS	93	RI03Surface totale du territoire	 ha	23672.0	23672.0
+SEINE-SAINT-DENIS	93	RI03 Surface estimée en zone inondable	 ha	1190.0	1190.0
+SEINE-SAINT-DENIS	93	RI03 Population totale du territoire	 nombre	1382928.0	1491972.0
+SEINE-SAINT-DENIS	93	RI03 Population estimée en zone inondable	 nombre	56100.0	59300.0
+SEINE-SAINT-DENIS	93	RI03 Nombre total de logements du territoire	 nombre	580479.0	604065.0
+SEINE-SAINT-DENIS	93	RI03 Nombre de logements estimé en zone inondable	 nombre	23400.0	24600.0
+SEINE-SAINT-DENIS	93	RI03 Surface urbanisée continue en zone inondable	 ha	11.0	11.0
+SEINE-SAINT-DENIS	93	RI03 Surface urbanisée discontinue en zone inondable	 ha	590.0	590.0
+SEINE-SAINT-DENIS	93	RI03 Surface des zones d'activités en zone inondable	 ha	270.0	270.0
+SEINE-SAINT-DENIS	93	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	215.0	215.0
+SEINE-SAINT-DENIS	93	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+SEINE-SAINT-DENIS	93	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	0.0	0.0
+SEINE-SAINT-DENIS	93	RI03 Surface des prairies en zone inondable	 ha	0.0	0.0
+SEINE-SAINT-DENIS	93	RI03 Surface des forêts en zone inondable	 ha	0.0	0.0
+SEINE-SAINT-DENIS	93	RI03 Surface des autres zones naturelles en zone inondable	 ha	1.0	1.0
+SEINE-SAINT-DENIS	93	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+SEINE-SAINT-DENIS	93	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	102.0	102.0
+SEINE-SAINT-DENIS	93	RI03 Taux de couverture	%	27.5	27.5
+SOMME	80	RI03Surface totale du territoire	 ha	620695.0	620695.0
+SOMME	80	RI03 Surface estimée en zone inondable	 ha	20873.0	20873.0
+SOMME	80	RI03 Population totale du territoire	 nombre	555479.0	564321.0
+SOMME	80	RI03 Population estimée en zone inondable	 nombre	39700.0	40800.0
+SOMME	80	RI03 Nombre total de logements du territoire	 nombre	252092.0	269706.0
+SOMME	80	RI03 Nombre de logements estimé en zone inondable	 nombre	17700.0	19300.0
+SOMME	80	RI03 Surface urbanisée continue en zone inondable	 ha	6.0	6.0
+SOMME	80	RI03 Surface urbanisée discontinue en zone inondable	 ha	1803.0	1843.0
+SOMME	80	RI03 Surface des zones d'activités en zone inondable	 ha	225.0	227.0
+SOMME	80	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	140.0	192.0
+SOMME	80	RI03 Surface des réseaux de communication en zone inondable	 ha	59.0	59.0
+SOMME	80	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	4075.0	4052.0
+SOMME	80	RI03 Surface des prairies en zone inondable	 ha	3683.0	3605.0
+SOMME	80	RI03 Surface des forêts en zone inondable	 ha	3051.0	3048.0
+SOMME	80	RI03 Surface des autres zones naturelles en zone inondable	 ha	390.0	393.0
+SOMME	80	RI03 Surface des zones humides en zone inondable	 ha	3953.0	3953.0
+SOMME	80	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	3488.0	3495.0
+SOMME	80	RI03 Taux de couverture	%	56.9	56.9
+TARN	81	RI03Surface totale du territoire	 ha	578395.0	578395.0
+TARN	81	RI03 Surface estimée en zone inondable	 ha	27035.0	27035.0
+TARN	81	RI03 Population totale du territoire	 nombre	343505.0	365337.0
+TARN	81	RI03 Population estimée en zone inondable	 nombre	30500.0	32000.0
+TARN	81	RI03 Nombre total de logements du territoire	 nombre	167321.0	185330.0
+TARN	81	RI03 Nombre de logements estimé en zone inondable	 nombre	15000.0	16300.0
+TARN	81	RI03 Surface urbanisée continue en zone inondable	 ha	38.0	38.0
+TARN	81	RI03 Surface urbanisée discontinue en zone inondable	 ha	1063.0	1090.0
+TARN	81	RI03 Surface des zones d'activités en zone inondable	 ha	279.0	301.0
+TARN	81	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	316.0	316.0
+TARN	81	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+TARN	81	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	17094.0	17065.0
+TARN	81	RI03 Surface des prairies en zone inondable	 ha	3117.0	3097.0
+TARN	81	RI03 Surface des forêts en zone inondable	 ha	3033.0	3021.0
+TARN	81	RI03 Surface des autres zones naturelles en zone inondable	 ha	193.0	205.0
+TARN	81	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+TARN	81	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	1902.0	1902.0
+TARN	81	RI03 Taux de couverture	%	95.17	95.17
+TARN-ET-GARONNE	82	RI03Surface totale du territoire	 ha	373028.0	373028.0
+TARN-ET-GARONNE	82	RI03 Surface estimée en zone inondable	 ha	54769.0	54769.0
+TARN-ET-GARONNE	82	RI03 Population totale du territoire	 nombre	206170.0	226844.0
+TARN-ET-GARONNE	82	RI03 Population estimée en zone inondable	 nombre	40100.0	42700.0
+TARN-ET-GARONNE	82	RI03 Nombre total de logements du territoire	 nombre	96134.0	110359.0
+TARN-ET-GARONNE	82	RI03 Nombre de logements estimé en zone inondable	 nombre	18100.0	20200.0
+TARN-ET-GARONNE	82	RI03 Surface urbanisée continue en zone inondable	 ha	59.0	59.0
+TARN-ET-GARONNE	82	RI03 Surface urbanisée discontinue en zone inondable	 ha	1273.0	1308.0
+TARN-ET-GARONNE	82	RI03 Surface des zones d'activités en zone inondable	 ha	1123.0	1282.0
+TARN-ET-GARONNE	82	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	175.0	175.0
+TARN-ET-GARONNE	82	RI03 Surface des réseaux de communication en zone inondable	 ha	18.0	18.0
+TARN-ET-GARONNE	82	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	45456.0	45275.0
+TARN-ET-GARONNE	82	RI03 Surface des prairies en zone inondable	 ha	734.0	734.0
+TARN-ET-GARONNE	82	RI03 Surface des forêts en zone inondable	 ha	2650.0	2730.0
+TARN-ET-GARONNE	82	RI03 Surface des autres zones naturelles en zone inondable	 ha	628.0	536.0
+TARN-ET-GARONNE	82	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+TARN-ET-GARONNE	82	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2652.0	2652.0
+TARN-ET-GARONNE	82	RI03 Taux de couverture	%	93.33	93.33
+TERRITOIRE-DE-BELFORT	90	RI03Surface totale du territoire	 ha	61000.0	61000.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface estimée en zone inondable	 ha	3034.0	3034.0
+TERRITOIRE-DE-BELFORT	90	RI03 Population totale du territoire	 nombre	137384.0	141201.0
+TERRITOIRE-DE-BELFORT	90	RI03 Population estimée en zone inondable	 nombre	10600.0	10700.0
+TERRITOIRE-DE-BELFORT	90	RI03 Nombre total de logements du territoire	 nombre	60526.0	65718.0
+TERRITOIRE-DE-BELFORT	90	RI03 Nombre de logements estimé en zone inondable	 nombre	4900.0	5200.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface urbanisée continue en zone inondable	 ha	5.0	5.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface urbanisée discontinue en zone inondable	 ha	369.0	369.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface des zones d'activités en zone inondable	 ha	61.0	64.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	12.0	12.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface des réseaux de communication en zone inondable	 ha	9.0	22.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	753.0	748.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface des prairies en zone inondable	 ha	1525.0	1516.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface des forêts en zone inondable	 ha	274.0	271.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface des autres zones naturelles en zone inondable	 ha	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	27.0	27.0
+TERRITOIRE-DE-BELFORT	90	RI03 Taux de couverture	%	92.0	92.0
+VAL-D OISE	95	RI03Surface totale du territoire	 ha	125304.0	125304.0
+VAL-D OISE	95	RI03 Surface estimée en zone inondable	 ha	4602.0	4602.0
+VAL-D OISE	95	RI03 Population totale du territoire	 nombre	1105224.0	1157054.0
+VAL-D OISE	95	RI03 Population estimée en zone inondable	 nombre	32900.0	34300.0
+VAL-D OISE	95	RI03 Nombre total de logements du territoire	 nombre	428188.0	451559.0
+VAL-D OISE	95	RI03 Nombre de logements estimé en zone inondable	 nombre	13200.0	14100.0
+VAL-D OISE	95	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+VAL-D OISE	95	RI03 Surface urbanisée discontinue en zone inondable	 ha	810.0	810.0
+VAL-D OISE	95	RI03 Surface des zones d'activités en zone inondable	 ha	486.0	522.0
+VAL-D OISE	95	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	230.0	230.0
+VAL-D OISE	95	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+VAL-D OISE	95	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	1193.0	1201.0
+VAL-D OISE	95	RI03 Surface des prairies en zone inondable	 ha	391.0	347.0
+VAL-D OISE	95	RI03 Surface des forêts en zone inondable	 ha	566.0	566.0
+VAL-D OISE	95	RI03 Surface des autres zones naturelles en zone inondable	 ha	10.0	10.0
+VAL-D OISE	95	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+VAL-D OISE	95	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	916.0	916.0
+VAL-D OISE	95	RI03 Taux de couverture	%	23.26	23.26
+VAL-DE-MARNE	94	RI03Surface totale du territoire	 ha	24474.0	24474.0
+VAL-DE-MARNE	94	RI03 Surface estimée en zone inondable	 ha	5596.0	5596.0
+VAL-DE-MARNE	94	RI03 Population totale du territoire	 nombre	1226961.0	1298341.0
+VAL-DE-MARNE	94	RI03 Population estimée en zone inondable	 nombre	273500.0	291500.0
+VAL-DE-MARNE	94	RI03 Nombre total de logements du territoire	 nombre	550154.0	577635.0
+VAL-DE-MARNE	94	RI03 Nombre de logements estimé en zone inondable	 nombre	125200.0	132400.0
+VAL-DE-MARNE	94	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+VAL-DE-MARNE	94	RI03 Surface urbanisée discontinue en zone inondable	 ha	2987.0	2987.0
+VAL-DE-MARNE	94	RI03 Surface des zones d'activités en zone inondable	 ha	1487.0	1487.0
+VAL-DE-MARNE	94	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	348.0	348.0
+VAL-DE-MARNE	94	RI03 Surface des réseaux de communication en zone inondable	 ha	379.0	379.0
+VAL-DE-MARNE	94	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	0.0	0.0
+VAL-DE-MARNE	94	RI03 Surface des prairies en zone inondable	 ha	8.0	8.0
+VAL-DE-MARNE	94	RI03 Surface des forêts en zone inondable	 ha	0.0	0.0
+VAL-DE-MARNE	94	RI03 Surface des autres zones naturelles en zone inondable	 ha	61.0	61.0
+VAL-DE-MARNE	94	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+VAL-DE-MARNE	94	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	326.0	326.0
+VAL-DE-MARNE	94	RI03 Taux de couverture	%	66.67	66.67
+VAR	83	RI03Surface totale du territoire	 ha	603786.0	603786.0
+VAR	83	RI03 Surface estimée en zone inondable	 ha	46359.0	46359.0
+VAR	83	RI03 Population totale du territoire	 nombre	898001.0	985098.0
+VAR	83	RI03 Population estimée en zone inondable	 nombre	226200.0	243000.0
+VAR	83	RI03 Nombre total de logements du territoire	 nombre	574510.0	632542.0
+VAR	83	RI03 Nombre de logements estimé en zone inondable	 nombre	135200.0	146100.0
+VAR	83	RI03 Surface urbanisée continue en zone inondable	 ha	214.0	214.0
+VAR	83	RI03 Surface urbanisée discontinue en zone inondable	 ha	6086.0	6293.0
+VAR	83	RI03 Surface des zones d'activités en zone inondable	 ha	2144.0	2128.0
+VAR	83	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	450.0	483.0
+VAR	83	RI03 Surface des réseaux de communication en zone inondable	 ha	69.0	69.0
+VAR	83	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	30458.0	30269.0
+VAR	83	RI03 Surface des prairies en zone inondable	 ha	873.0	873.0
+VAR	83	RI03 Surface des forêts en zone inondable	 ha	3889.0	3722.0
+VAR	83	RI03 Surface des autres zones naturelles en zone inondable	 ha	1252.0	1382.0
+VAR	83	RI03 Surface des zones humides en zone inondable	 ha	430.0	430.0
+VAR	83	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	494.0	494.0
+VAR	83	RI03 Taux de couverture	%	97.81	97.81
+VAUCLUSE	84	RI03Surface totale du territoire	 ha	357777.0	357777.0
+VAUCLUSE	84	RI03 Surface estimée en zone inondable	 ha	80008.0	80008.0
+VAUCLUSE	84	RI03 Population totale du territoire	 nombre	499665.0	534291.0
+VAUCLUSE	84	RI03 Population estimée en zone inondable	 nombre	211900.0	227000.0
+VAUCLUSE	84	RI03 Nombre total de logements du territoire	 nombre	234531.0	262111.0
+VAUCLUSE	84	RI03 Nombre de logements estimé en zone inondable	 nombre	99500.0	110700.0
+VAUCLUSE	84	RI03 Surface urbanisée continue en zone inondable	 ha	306.0	306.0
+VAUCLUSE	84	RI03 Surface urbanisée discontinue en zone inondable	 ha	5610.0	5880.0
+VAUCLUSE	84	RI03 Surface des zones d'activités en zone inondable	 ha	1832.0	1902.0
+VAUCLUSE	84	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	105.0	105.0
+VAUCLUSE	84	RI03 Surface des réseaux de communication en zone inondable	 ha	181.0	268.0
+VAUCLUSE	84	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	62095.0	61647.0
+VAUCLUSE	84	RI03 Surface des prairies en zone inondable	 ha	597.0	597.0
+VAUCLUSE	84	RI03 Surface des forêts en zone inondable	 ha	3515.0	3506.0
+VAUCLUSE	84	RI03 Surface des autres zones naturelles en zone inondable	 ha	3683.0	3692.0
+VAUCLUSE	84	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+VAUCLUSE	84	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2085.0	2106.0
+VAUCLUSE	84	RI03 Taux de couverture	%	95.14	95.14
+VENDEE	85	RI03Surface totale du territoire	 ha	676071.0	676071.0
+VENDEE	85	RI03 Surface estimée en zone inondable	 ha	2488.0	2488.0
+VENDEE	85	RI03 Population totale du territoire	 nombre	539806.0	597184.0
+VENDEE	85	RI03 Population estimée en zone inondable	 nombre	2800.0	2800.0
+VENDEE	85	RI03 Nombre total de logements du territoire	 nombre	322826.0	373302.0
+VENDEE	85	RI03 Nombre de logements estimé en zone inondable	 nombre	1300.0	1300.0
+VENDEE	85	RI03 Surface urbanisée continue en zone inondable	 ha	0.0	0.0
+VENDEE	85	RI03 Surface urbanisée discontinue en zone inondable	 ha	127.0	127.0
+VENDEE	85	RI03 Surface des zones d'activités en zone inondable	 ha	59.0	59.0
+VENDEE	85	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	0.0	0.0
+VENDEE	85	RI03 Surface des réseaux de communication en zone inondable	 ha	0.0	0.0
+VENDEE	85	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	732.0	732.0
+VENDEE	85	RI03 Surface des prairies en zone inondable	 ha	1200.0	1199.0
+VENDEE	85	RI03 Surface des forêts en zone inondable	 ha	246.0	246.0
+VENDEE	85	RI03 Surface des autres zones naturelles en zone inondable	 ha	0.0	0.0
+VENDEE	85	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+VENDEE	85	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	124.0	124.0
+VENDEE	85	RI03 Taux de couverture	%	22.6	22.6
+VIENNE	86	RI03Surface totale du territoire	 ha	702593.0	702593.0
+VIENNE	86	RI03 Surface estimée en zone inondable	 ha	14219.0	14219.0
+VIENNE	86	RI03 Population totale du territoire	 nombre	399130.0	418453.0
+VIENNE	86	RI03 Population estimée en zone inondable	 nombre	14200.0	14800.0
+VIENNE	86	RI03 Nombre total de logements du territoire	 nombre	199175.0	216697.0
+VIENNE	86	RI03 Nombre de logements estimé en zone inondable	 nombre	7400.0	8000.0
+VIENNE	86	RI03 Surface urbanisée continue en zone inondable	 ha	22.0	22.0
+VIENNE	86	RI03 Surface urbanisée discontinue en zone inondable	 ha	665.0	665.0
+VIENNE	86	RI03 Surface des zones d'activités en zone inondable	 ha	139.0	139.0
+VIENNE	86	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	277.0	277.0
+VIENNE	86	RI03 Surface des réseaux de communication en zone inondable	 ha	5.0	5.0
+VIENNE	86	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	4752.0	4752.0
+VIENNE	86	RI03 Surface des prairies en zone inondable	 ha	4069.0	4069.0
+VIENNE	86	RI03 Surface des forêts en zone inondable	 ha	2145.0	2145.0
+VIENNE	86	RI03 Surface des autres zones naturelles en zone inondable	 ha	0.0	0.0
+VIENNE	86	RI03 Surface des zones humides en zone inondable	 ha	47.0	47.0
+VIENNE	86	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2097.0	2097.0
+VIENNE	86	RI03 Taux de couverture	%	99.09	99.09
+VOSGES	88	RI03Surface totale du territoire	 ha	589113.0	589113.0
+VOSGES	88	RI03 Surface estimée en zone inondable	 ha	15850.0	15850.0
+VOSGES	88	RI03 Population totale du territoire	 nombre	381008.0	379975.0
+VOSGES	88	RI03 Population estimée en zone inondable	 nombre	24900.0	24900.0
+VOSGES	88	RI03 Nombre total de logements du territoire	 nombre	182991.0	195740.0
+VOSGES	88	RI03 Nombre de logements estimé en zone inondable	 nombre	12200.0	13000.0
+VOSGES	88	RI03 Surface urbanisée continue en zone inondable	 ha	90.0	90.0
+VOSGES	88	RI03 Surface urbanisée discontinue en zone inondable	 ha	1405.0	1416.0
+VOSGES	88	RI03 Surface des zones d'activités en zone inondable	 ha	905.0	971.0
+VOSGES	88	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	177.0	177.0
+VOSGES	88	RI03 Surface des réseaux de communication en zone inondable	 ha	12.0	24.0
+VOSGES	88	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	2804.0	2747.0
+VOSGES	88	RI03 Surface des prairies en zone inondable	 ha	8873.0	8843.0
+VOSGES	88	RI03 Surface des forêts en zone inondable	 ha	1294.0	1267.0
+VOSGES	88	RI03 Surface des autres zones naturelles en zone inondable	 ha	26.0	51.0
+VOSGES	88	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+VOSGES	88	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	264.0	264.0
+VOSGES	88	RI03 Taux de couverture	%	75.29	75.29
+YONNE	89	RI03Surface totale du territoire	 ha	745087.0	745087.0
+YONNE	89	RI03 Surface estimée en zone inondable	 ha	19228.0	19228.0
+YONNE	89	RI03 Population totale du territoire	 nombre	333316.0	340091.0
+YONNE	89	RI03 Population estimée en zone inondable	 nombre	19800.0	20100.0
+YONNE	89	RI03 Nombre total de logements du territoire	 nombre	174496.0	183627.0
+YONNE	89	RI03 Nombre de logements estimé en zone inondable	 nombre	9700.0	10400.0
+YONNE	89	RI03 Surface urbanisée continue en zone inondable	 ha	3.0	3.0
+YONNE	89	RI03 Surface urbanisée discontinue en zone inondable	 ha	1015.0	1015.0
+YONNE	89	RI03 Surface des zones d'activités en zone inondable	 ha	518.0	519.0
+YONNE	89	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	27.0	27.0
+YONNE	89	RI03 Surface des réseaux de communication en zone inondable	 ha	8.0	8.0
+YONNE	89	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	9140.0	9134.0
+YONNE	89	RI03 Surface des prairies en zone inondable	 ha	6007.0	6009.0
+YONNE	89	RI03 Surface des forêts en zone inondable	 ha	2172.0	2172.0
+YONNE	89	RI03 Surface des autres zones naturelles en zone inondable	 ha	1.0	1.0
+YONNE	89	RI03 Surface des zones humides en zone inondable	 ha	0.0	0.0
+YONNE	89	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	337.0	339.0
+YONNE	89	RI03 Taux de couverture	%	58.23	58.23
+YVELINES	78	RI03Surface totale du territoire	 ha	230622.0	230622.0
+YVELINES	78	RI03 Surface estimée en zone inondable	 ha	9500.0	9500.0
+YVELINES	78	RI03 Population totale du territoire	 nombre	1353957.0	1395807.0
+YVELINES	78	RI03 Population estimée en zone inondable	 nombre	67800.0	68500.0
+YVELINES	78	RI03 Nombre total de logements du territoire	 nombre	551730.0	578669.0
+YVELINES	78	RI03 Nombre de logements estimé en zone inondable	 nombre	27600.0	28700.0
+YVELINES	78	RI03 Surface urbanisée continue en zone inondable	 ha	2.0	2.0
+YVELINES	78	RI03 Surface urbanisée discontinue en zone inondable	 ha	1654.0	1659.0
+YVELINES	78	RI03 Surface des zones d'activités en zone inondable	 ha	964.0	900.0
+YVELINES	78	RI03 Surface des espaces verts et de loisirs  en zone inondable	 ha	361.0	361.0
+YVELINES	78	RI03 Surface des réseaux de communication en zone inondable	 ha	30.0	30.0
+YVELINES	78	RI03 Surface des territoires agricoles (hors prairies) en zone inondable	 ha	1886.0	1878.0
+YVELINES	78	RI03 Surface des prairies en zone inondable	 ha	1046.0	1032.0
+YVELINES	78	RI03 Surface des forêts en zone inondable	 ha	745.0	745.0
+YVELINES	78	RI03 Surface des autres zones naturelles en zone inondable	 ha	42.0	123.0
+YVELINES	78	RI03 Surface des zones humides en zone inondable	 ha	12.0	12.0
+YVELINES	78	RI03 Surfaces en eau en zone inondable (étangs, lacs, etc.)	 ha	2757.0	2757.0
+YVELINES	78	RI03 Taux de couverture	%	53.47	53.47
+Producteur : MEDDE (CGDD/SOeS).
+Sources : Corine Land Cover, CARTO RISQUE.

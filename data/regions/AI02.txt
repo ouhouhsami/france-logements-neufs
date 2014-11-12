@@ -1,0 +1,311 @@
+Lieu	N° région, département	Série	Unité	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	2012
+ALSACE	42	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	11.0	11.0	11.0	11.0	11.0	11.0	11.0	11.0	11.0	10.0	10.0	8.0	7.0
+ALSACE	42	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	828487.0	828487.0	828487.0	828487.0	828487.0	828487.0	828487.0	828487.0	828487.0	828487.0	828487.0	828487.0	828487.0
+ALSACE	42	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	40.0	44.0	42.0	50.0	43.0	41.0	44.0	45.0	44.0	44.0	45.0	44.0	45.0
+ALSACE	42	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	7.0	19.0	5.0	32.0	8.0	10.0	18.0	2.0	1.0	1.0	8.0	4.0	2.0
+ALSACE	42	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	1.7	6.9	2.2	16.5	3.6	4.3	8.0	0.7	0.1	0.5	3.0	1.5	0.6
+ALSACE	42	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	2.1	7.6	2.2	16.5	4.0	4.3	8.0	1.1	1.0	1.0	3.3	1.7	1.0
+ALSACE	42	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	1.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ALSACE	42	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.1	0.0	0.0	0.8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ALSACE	42	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.0	ND	ND	1.8	ND	ND	ND	ND	ND	ND	ND	ND	ND
+ALSACE	42	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	44.0	61.0	46.0	98.0	44.0	42.0	54.0	47.0	39.0	42.0	41.0	44.0	31.0
+ALSACE	42	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	1.9	11.6	2.9	43.9	4.7	2.8	12.7	3.5	0.7	1.5	4.3	2.9	0.0
+ALSACE	42	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	7.0	14.2	6.4	43.9	10.4	3.9	12.7	4.8	4.0	5.0	5.4	4.6	ND
+ALSACE	42	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	3.0	3.0	3.0	3.0
+ALSACE	42	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	62.0	64.0	64.0	72.0	62.0	62.0	66.0	60.0	50.0	57.0	57.0	56.0	56.0
+AQUITAINE	72	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	8.0	8.0	12.0	13.0	14.0	15.0	15.0	15.0	15.0	15.0	14.0	13.0	12.0
+AQUITAINE	72	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	1265523.0	1265523.0	1411677.0	1414571.0	1463351.0	1524808.0	1524808.0	1524808.0	1524808.0	1524808.0	1463351.0	1524808.0	1463351.0
+AQUITAINE	72	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	39.0	43.0	44.0	54.0	ND	52.0	51.0	48.0	49.0	51.0	52.0	53.0	51.0
+AQUITAINE	72	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	2.0	3.0	15.0	ND	9.0	5.0	0.0	0.0	1.0	0.0	0.0	3.0
+AQUITAINE	72	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.0	0.5	0.4	2.2	ND	0.9	0.5	0.0	0.0	0.3	0.0	0.0	0.3
+AQUITAINE	72	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	1.3	1.7	3.2	ND	2.2	1.1	ND	ND	1.0	ND	ND	1.0
+AQUITAINE	72	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	0.0	ND	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+AQUITAINE	72	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.0	ND	0.0	0.0	0.0	0.0	0.1	0.0	0.0	0.0
+AQUITAINE	72	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	1.0	ND	ND	ND
+AQUITAINE	72	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	15.0	36.0	30.0	84.0	ND	72.0	48.0	23.0	27.0	30.0	41.0	45.0	33.0
+AQUITAINE	72	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	11.2	ND	5.5	0.0	0.0	0.0	0.0	0.1	0.1	0.0
+AQUITAINE	72	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	18.3	ND	16.4	ND	ND	ND	ND	2.0	1.0	ND
+AQUITAINE	72	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0
+AQUITAINE	72	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	75.0	72.0	76.0	96.0	ND	73.0	74.0	70.0	68.0	66.0	72.0	71.0	69.0
+AUVERGNE	83	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	13.0	14.0	14.0	13.0	14.0	14.0	14.0	14.0	14.0	14.0	14.0	13.0	13.0
+AUVERGNE	83	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	405529.0	405529.0	405529.0	405529.0	437610.0	437610.0	437610.0	437610.0	437610.0	437610.0	437610.0	437610.0	437610.0
+AUVERGNE	83	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	53.0	51.0	56.0	60.0	54.0	55.0	53.0	49.0	51.0	54.0	54.0	52.0	53.0
+AUVERGNE	83	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	3.0	0.0	19.0	4.0	3.0	2.0	0.0	0.0	0.0	1.0	0.0	0.0
+AUVERGNE	83	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.0	0.3	0.0	3.6	0.9	0.2	0.2	0.0	0.0	0.0	0.1	0.0	0.0
+AUVERGNE	83	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	2.0	ND	5.9	2.6	1.5	1.5	ND	ND	ND	1.0	ND	ND
+AUVERGNE	83	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+AUVERGNE	83	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+AUVERGNE	83	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+AUVERGNE	83	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	31.0	45.0	47.0	99.0	57.0	60.0	47.0	22.0	17.0	21.0	42.0	42.0	15.0
+AUVERGNE	83	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	1.4	0.5	26.8	4.0	3.0	1.8	0.0	0.0	0.0	0.4	1.2	0.0
+AUVERGNE	83	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	10.0	2.3	29.1	14.0	10.5	5.0	ND	ND	ND	2.5	16.0	ND
+AUVERGNE	83	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	0.0	1.0	2.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0
+AUVERGNE	83	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	ND	ND	66.0	72.0	65.0	73.0	72.0	65.0	65.0	68.0	68.0	68.0	67.0
+BASSE NORMANDIE	25	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	4.0	6.0	7.0	8.0	8.0	7.0	7.0	7.0	8.0	7.0	7.0	7.0	7.0
+BASSE NORMANDIE	25	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	226566.0	352654.0	376221.0	412198.0	412198.0	412198.0	412198.0	412198.0	412198.0	412198.0	412198.0	412198.0	412198.0
+BASSE NORMANDIE	25	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	36.0	38.0	45.0	47.0	49.0	50.0	51.0	46.0	49.0	48.0	52.0	51.0	51.0
+BASSE NORMANDIE	25	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	1.0	1.0	0.0	6.0	0.0	3.0	6.0	0.0	0.0	1.0	1.0	1.0	2.0
+BASSE NORMANDIE	25	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.3	0.5	0.0	1.4	0.0	0.7	1.9	0.0	0.0	0.1	0.1	0.1	1.0
+BASSE NORMANDIE	25	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.0	1.0	ND	2.2	ND	1.3	2.2	ND	ND	1.0	1.0	1.0	1.4
+BASSE NORMANDIE	25	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+BASSE NORMANDIE	25	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+BASSE NORMANDIE	25	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+BASSE NORMANDIE	25	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	2.0	22.0	10.0	43.0	13.0	21.0	33.0	12.0	12.0	6.0	19.0	12.0	11.0
+BASSE NORMANDIE	25	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	2.0	0.0	0.0	0.7	0.0	0.0	0.0	0.0	0.0	0.0
+BASSE NORMANDIE	25	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	8.0	ND	ND	5.0	ND	ND	ND	ND	ND	ND
+BASSE NORMANDIE	25	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0
+BASSE NORMANDIE	25	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	ND	ND	ND	ND	ND	ND	ND	ND	65.0	62.0	68.0	69.0	65.0
+BOURGOGNE	26	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	10.0	14.0	14.0	14.0	15.0	15.0	15.0	15.0	14.0	13.0	12.0	12.0	12.0
+BOURGOGNE	26	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	398878.0	531084.0	531084.0	531084.0	574551.0	574551.0	574551.0	574551.0	574551.0	574551.0	574551.0	574551.0	574551.0
+BOURGOGNE	26	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	39.0	41.0	45.0	53.0	45.0	47.0	46.0	43.0	45.0	48.0	49.0	47.0	49.0
+BOURGOGNE	26	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	3.0	5.0	5.0	31.0	8.0	8.0	15.0	0.0	1.0	0.0	2.0	0.0	1.0
+BOURGOGNE	26	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.3	1.0	1.1	8.6	1.4	1.1	2.7	0.0	0.1	0.0	0.2	0.0	0.3
+BOURGOGNE	26	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	3.0	1.8	1.5	10.1	2.6	2.0	4.6	ND	1.0	ND	2.0	ND	1.0
+BOURGOGNE	26	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	3.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+BOURGOGNE	26	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.2	0.1	0.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+BOURGOGNE	26	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	1.5	1.0	1.0	ND	ND	ND	ND	ND	ND	ND
+BOURGOGNE	26	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	37.0	46.0	36.0	113.0	46.0	41.0	53.0	34.0	32.0	30.0	36.0	40.0	21.0
+BOURGOGNE	26	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.8	1.6	0.3	30.8	1.1	0.7	4.7	0.0	0.0	0.0	0.5	0.2	0.0
+BOURGOGNE	26	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	4.0	11.0	4.0	35.9	5.3	3.3	8.8	ND	ND	ND	6.0	2.0	ND
+BOURGOGNE	26	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	1.0	1.0	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0
+BOURGOGNE	26	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	63.0	58.0	58.0	74.0	61.0	65.0	67.0	58.0	59.0	66.0	63.0	65.0	64.0
+BRETAGNE	53	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	8.0	11.0	11.0	12.0	12.0	13.0	13.0	13.0	13.0	12.0	13.0	13.0	13.0
+BRETAGNE	53	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	718799.0	920551.0	920551.0	946764.0	946764.0	972602.0	972602.0	972602.0	972602.0	946389.0	946389.0	946389.0	946389.0
+BRETAGNE	53	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	48.0	50.0	56.0	57.0	52.0	53.0	54.0	51.0	53.0	53.0	53.0	53.0	54.0
+BRETAGNE	53	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	6.0	0.0	2.0	4.0	0.0	0.0	0.0	0.0	0.0	1.0
+BRETAGNE	53	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	1.9	0.0	0.3	1.1	0.0	0.0	0.0	0.0	0.0	0.1
+BRETAGNE	53	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	2.6	ND	1.3	1.6	ND	ND	ND	ND	ND	1.0
+BRETAGNE	53	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+BRETAGNE	53	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.3	0.0	0.0	0.1	0.0	0.0	0.0	0.0	0.0	0.0
+BRETAGNE	53	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	1.0	ND	ND	1.0	ND	ND	ND	ND	ND	ND
+BRETAGNE	53	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	6.0	24.0	19.0	51.0	18.0	20.0	24.0	16.0	10.0	11.0	16.0	19.0	11.0
+BRETAGNE	53	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	2.8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+BRETAGNE	53	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	6.6	ND	ND	ND	ND	ND	ND	ND	ND	ND
+BRETAGNE	53	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0
+BRETAGNE	53	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	53.0	53.0	59.0	62.0	53.0	57.0	54.0	55.0	61.0	ND	51.0	54.0	ND
+CENTRE	24	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	13.0	14.0	15.0	17.0	17.0	19.0	21.0	19.0	20.0	19.0	19.0	19.0	21.0
+CENTRE	24	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	849829.0	916581.0	916581.0	964886.0	964886.0	1189361.0	1222959.0	1219373.0	1222959.0	1222959.0	1222959.0	1222959.0	1327534.0
+CENTRE	24	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	48.0	50.0	49.0	54.0	49.0	50.0	53.0	48.0	50.0	50.0	52.0	52.0	51.0
+CENTRE	24	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	2.0	7.0	0.0	24.0	2.0	5.0	13.0	0.0	1.0	5.0	2.0	1.0	1.0
+CENTRE	24	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.2	1.5	0.0	5.5	0.2	0.4	1.7	0.0	0.3	0.9	0.1	0.1	0.1
+CENTRE	24	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.0	2.6	ND	7.2	1.0	1.8	2.6	ND	1.0	2.0	1.0	1.0	1.0
+CENTRE	24	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CENTRE	24	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CENTRE	24	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	2.0	ND	ND	ND	ND	ND	ND	ND	ND	ND
+CENTRE	24	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	28.0	50.0	30.0	81.0	33.0	34.0	52.0	36.0	26.0	20.0	32.0	35.0	21.0
+CENTRE	24	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	3.6	0.0	22.2	0.2	0.0	7.7	0.0	0.0	0.0	0.0	0.0	0.0
+CENTRE	24	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	5.0	ND	29.0	3.0	ND	8.5	ND	ND	ND	ND	ND	ND
+CENTRE	24	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	1.0	2.0	2.0	2.0	2.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0
+CENTRE	24	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	51.0	48.0	45.0	57.0	48.0	46.0	54.0	48.0	50.0	50.0	50.0	52.0	51.0
+CHAMPAGNE-ARDENNE	21	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	7.0	9.0	9.0	9.0	9.0	10.0	11.0	11.0	11.0	12.0	12.0	9.0	8.0
+CHAMPAGNE-ARDENNE	21	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	341390.0	398538.0	430730.0	430730.0	430730.0	430730.0	430730.0	430730.0	430730.0	491909.0	491909.0	491909.0	491909.0
+CHAMPAGNE-ARDENNE	21	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	40.0	40.0	43.0	49.0	43.0	44.0	44.0	42.0	44.0	45.0	46.0	46.0	44.0
+CHAMPAGNE-ARDENNE	21	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	1.0	1.0	11.0	2.0	4.0	2.0	1.0	0.0	0.0	1.0	0.0	1.0
+CHAMPAGNE-ARDENNE	21	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.0	0.2	0.1	5.0	0.3	0.5	0.5	0.1	0.0	0.0	0.1	0.0	0.5
+CHAMPAGNE-ARDENNE	21	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	1.0	1.0	5.6	1.5	1.3	1.5	1.0	ND	ND	1.0	ND	1.0
+CHAMPAGNE-ARDENNE	21	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CHAMPAGNE-ARDENNE	21	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CHAMPAGNE-ARDENNE	21	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+CHAMPAGNE-ARDENNE	21	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	9.0	30.0	20.0	74.0	25.0	25.0	27.0	20.0	19.0	12.0	24.0	24.0	11.0
+CHAMPAGNE-ARDENNE	21	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	18.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+CHAMPAGNE-ARDENNE	21	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	20.4	ND	ND	ND	ND	ND	ND	ND	ND	ND
+CHAMPAGNE-ARDENNE	21	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+CHAMPAGNE-ARDENNE	21	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	54.0	58.0	58.0	65.0	58.0	56.0	58.0	56.0	56.0	56.0	55.0	56.0	54.0
+CORSE	94	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	0.0	0.0	0.0	0.0	0.0	0.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0
+CORSE	94	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	ND	ND	ND	ND	ND	ND	130651.0	130651.0	130651.0	130651.0	130651.0	130651.0	130651.0
+CORSE	94	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	ND	ND	ND	ND	ND	ND	ND	65.0	66.0	68.0	69.0	69.0	69.0
+CORSE	94	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	ND	ND	ND	ND	ND	ND	ND	0.0	0.0	0.0	0.0	0.0	0.0
+CORSE	94	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	ND	ND	ND	ND	ND	ND	ND	0.0	0.0	0.0	0.0	0.0	0.0
+CORSE	94	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+CORSE	94	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	ND	ND	ND	ND	ND	ND	ND	0.0	0.0	0.0	0.0	0.0	0.0
+CORSE	94	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	ND	ND	ND	ND	ND	ND	ND	0.0	0.0	0.0	0.0	0.0	0.0
+CORSE	94	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+CORSE	94	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	ND	ND	ND	ND	ND	ND	ND	40.0	26.0	43.0	65.0	40.0	43.0
+CORSE	94	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	ND	ND	ND	ND	ND	ND	ND	0.3	0.0	2.3	9.0	1.3	2.0
+CORSE	94	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	1.0	ND	9.0	18.0	5.0	4.0
+CORSE	94	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	1.0
+CORSE	94	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	86.0
+FRANCHE COMTE	43	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	8.0	9.0	10.0	10.0	10.0	11.0	10.0	11.0	11.0	11.0	12.0	10.0	10.0
+FRANCHE COMTE	43	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	387366.0	387366.0	439155.0	439155.0	439155.0	442001.0	442001.0	442001.0	442001.0	442001.0	442001.0	442001.0	442001.0
+FRANCHE COMTE	43	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	42.0	44.0	44.0	55.0	46.0	47.0	50.0	46.0	47.0	49.0	50.0	48.0	50.0
+FRANCHE COMTE	43	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	1.0	6.0	1.0	20.0	3.0	3.0	4.0	0.0	0.0	1.0	4.0	0.0	0.0
+FRANCHE COMTE	43	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.1	1.2	0.2	8.2	0.7	0.5	0.5	0.0	0.0	0.1	0.4	0.0	0.0
+FRANCHE COMTE	43	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.0	1.8	1.0	8.2	1.4	1.2	1.3	ND	ND	1.0	2.5	ND	ND
+FRANCHE COMTE	43	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+FRANCHE COMTE	43	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+FRANCHE COMTE	43	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+FRANCHE COMTE	43	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	38.0	53.0	39.0	104.0	43.0	43.0	48.0	42.0	33.0	33.0	39.0	33.0	22.0
+FRANCHE COMTE	43	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.5	4.8	0.8	41.0	0.6	1.5	4.6	0.0	0.0	0.0	2.3	0.4	0.0
+FRANCHE COMTE	43	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	4.0	8.6	4.0	41.0	6.0	4.0	5.8	ND	ND	ND	6.8	4.0	ND
+FRANCHE COMTE	43	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+FRANCHE COMTE	43	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	53.0	ND	56.0	65.0	54.0	57.0	56.0	57.0	56.0	57.0	56.0	52.0	53.0
+HAUTE NORMANDIE	23	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	12.0	12.0	11.0	11.0	11.0	11.0	10.0	10.0	11.0	10.0	10.0	9.0	9.0
+HAUTE NORMANDIE	23	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	771137.0	771137.0	771137.0	771137.0	771137.0	771137.0	771137.0	771137.0	771137.0	771137.0	771137.0	1082600.0	1082600.0
+HAUTE NORMANDIE	23	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	46.0	46.0	46.0	49.0	46.0	46.0	49.0	48.0	51.0	49.0	50.0	50.0	49.0
+HAUTE NORMANDIE	23	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	3.0	8.0	1.0	14.0	2.0	4.0	10.0	1.0	0.0	1.0	1.0	1.0	4.0
+HAUTE NORMANDIE	23	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.3	2.3	0.2	5.1	0.2	0.7	2.9	0.1	0.0	0.5	0.1	0.2	0.9
+HAUTE NORMANDIE	23	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.3	2.7	1.0	5.1	1.0	1.6	3.2	1.0	ND	1.0	1.0	1.0	1.3
+HAUTE NORMANDIE	23	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+HAUTE NORMANDIE	23	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+HAUTE NORMANDIE	23	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	1.0	ND	ND	ND	ND	ND	ND	ND	ND	ND
+HAUTE NORMANDIE	23	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	19.0	29.0	12.0	45.0	19.0	19.0	34.0	21.0	22.0	10.0	24.0	23.0	13.0
+HAUTE NORMANDIE	23	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.3	0.0	5.3	0.0	0.0	1.2	0.0	0.0	0.0	0.0	0.0	0.0
+HAUTE NORMANDIE	23	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	1.5	ND	8.3	ND	ND	3.0	ND	ND	ND	ND	ND	ND
+HAUTE NORMANDIE	23	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	2.0	2.0	2.0	2.0	2.0	2.0	2.0	3.0	3.0	4.0	3.0	3.0	3.0
+HAUTE NORMANDIE	23	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	49.0	52.0	53.0	56.0	53.0	51.0	54.0	53.0	54.0	52.0	54.0	53.0	52.0
+ILE DE FRANCE	11	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	15.0	16.0	17.0	17.0	19.0	20.0	19.0	19.0	19.0	19.0	19.0	19.0	19.0
+ILE DE FRANCE	11	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7	1.0460118E7
+ILE DE FRANCE	11	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	34.0	38.0	39.0	44.0	41.0	40.0	42.0	38.0	40.0	40.0	41.0	41.0	40.0
+ILE DE FRANCE	11	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	1.0	13.0	6.0	20.0	3.0	9.0	13.0	3.0	1.0	5.0	3.0	2.0	3.0
+ILE DE FRANCE	11	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.5	3.8	2.2	9.0	0.9	3.5	4.1	0.3	0.1	0.8	0.8	0.3	1.2
+ILE DE FRANCE	11	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.0	4.4	2.2	9.6	1.2	4.1	4.1	1.0	1.0	1.4	1.3	1.0	1.8
+ILE DE FRANCE	11	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	1.0	6.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ILE DE FRANCE	11	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.1	1.1	0.0	0.2	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+ILE DE FRANCE	11	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	1.0	1.6	ND	1.0	ND	ND	ND	ND	ND	ND	ND
+ILE DE FRANCE	11	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	21.0	38.0	22.0	67.0	31.0	26.0	39.0	25.0	21.0	16.0	25.0	24.0	15.0
+ILE DE FRANCE	11	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	1.1	0.0	14.9	0.0	0.0	3.3	0.0	0.0	0.0	0.0	0.0	0.0
+ILE DE FRANCE	11	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	5.7	ND	16.9	ND	ND	4.5	ND	ND	ND	ND	ND	ND
+ILE DE FRANCE	11	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	7.0	7.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0	8.0
+ILE DE FRANCE	11	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	50.0	52.0	52.0	58.0	52.0	51.0	52.0	49.0	50.0	50.0	52.0	51.0	50.0
+LANGUEDOC-ROUSSILLON	91	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	12.0	10.0	10.0	11.0	11.0	10.0	11.0	11.0	11.0	10.0	10.0	9.0	9.0
+LANGUEDOC-ROUSSILLON	91	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	850496.0	757133.0	757133.0	781700.0	913822.0	913822.0	913822.0	913822.0	1007185.0	1007185.0	1007185.0	1007185.0	1007185.0
+LANGUEDOC-ROUSSILLON	91	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	60.0	62.0	60.0	65.0	60.0	64.0	63.0	60.0	61.0	65.0	65.0	62.0	64.0
+LANGUEDOC-ROUSSILLON	91	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	3.0	19.0	10.0	26.0	5.0	8.0	9.0	4.0	3.0	2.0	10.0	1.0	1.0
+LANGUEDOC-ROUSSILLON	91	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.3	5.4	1.9	8.2	1.5	1.8	2.4	0.5	0.5	0.2	1.7	0.1	0.1
+LANGUEDOC-ROUSSILLON	91	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	2.0	6.8	3.2	10.0	2.4	2.3	2.4	1.7	1.2	1.0	3.4	1.0	1.0
+LANGUEDOC-ROUSSILLON	91	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+LANGUEDOC-ROUSSILLON	91	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+LANGUEDOC-ROUSSILLON	91	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	1.0	ND	ND	ND	ND	ND	ND	ND	ND	ND
+LANGUEDOC-ROUSSILLON	91	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	55.0	69.0	77.0	100.0	68.0	88.0	73.0	72.0	60.0	94.0	72.0	90.0	63.0
+LANGUEDOC-ROUSSILLON	91	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	5.6	16.2	8.9	33.5	9.9	15.4	15.2	7.9	4.5	13.5	15.4	19.2	4.0
+LANGUEDOC-ROUSSILLON	91	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	13.4	20.3	14.8	41.0	13.6	17.1	20.9	12.4	12.5	19.3	19.3	21.6	7.2
+LANGUEDOC-ROUSSILLON	91	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	1.0	1.0	0.0	2.0	3.0	3.0	2.0	3.0	3.0	3.0	4.0	2.0	2.0
+LANGUEDOC-ROUSSILLON	91	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	ND	ND	ND	ND	70.0	73.0	75.0	69.0	71.0	72.0	69.0	72.0	71.0
+LIMOUSIN	74	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	6.0	6.0	7.0	7.0	7.0	7.0	7.0	6.0	6.0	6.0	6.0	6.0	6.0
+LIMOUSIN	74	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	310608.0	310608.0	310608.0	310608.0	310608.0	310608.0	310608.0	310608.0	310608.0	310608.0	310608.0	310608.0	310608.0
+LIMOUSIN	74	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	46.0	46.0	45.0	51.0	45.0	48.0	51.0	46.0	47.0	49.0	50.0	48.0	49.0
+LIMOUSIN	74	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	5.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+LIMOUSIN	74	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	2.3	0.0	0.3	0.1	0.0	0.0	0.0	0.0	0.0	0.0
+LIMOUSIN	74	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	3.2	ND	1.0	1.0	ND	ND	ND	ND	ND	ND
+LIMOUSIN	74	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+LIMOUSIN	74	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+LIMOUSIN	74	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+LIMOUSIN	74	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	10.0	16.0	11.0	56.0	13.0	24.0	28.0	13.0	11.0	11.0	28.0	15.0	12.0
+LIMOUSIN	74	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	12.7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+LIMOUSIN	74	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	12.7	ND	ND	ND	ND	ND	ND	ND	ND	ND
+LIMOUSIN	74	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	0.0	0.0	0.0	0.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+LIMOUSIN	74	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	ND	ND	ND	ND	72.0	78.0	78.0	71.0	69.0	76.0	77.0	77.0	76.0
+LORRAINE	41	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	23.0	23.0	23.0	24.0	26.0	25.0	26.0	27.0	26.0	25.0	24.0	24.0	24.0
+LORRAINE	41	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	1039416.0	1039416.0	1039416.0	1043196.0	1043420.0	1043420.0	1079252.0	1081822.0	1045990.0	1016396.0	1016396.0	1045990.0	1078042.0
+LORRAINE	41	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	40.0	45.0	45.0	50.0	44.0	45.0	46.0	43.0	45.0	45.0	45.0	45.0	46.0
+LORRAINE	41	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	1.0	16.0	5.0	23.0	7.0	11.0	14.0	5.0	3.0	2.0	6.0	2.0	2.0
+LORRAINE	41	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.0	3.4	0.6	6.6	1.1	2.4	2.5	0.3	0.1	0.1	0.8	0.2	0.3
+LORRAINE	41	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.0	4.2	1.6	7.2	1.8	3.7	3.2	1.5	1.5	1.5	1.7	1.0	1.2
+LORRAINE	41	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	6.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+LORRAINE	41	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.4	0.0	0.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+LORRAINE	41	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	1.7	ND	1.0	ND	ND	ND	ND	ND	ND	ND
+LORRAINE	41	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	30.0	61.0	45.0	95.0	43.0	57.0	57.0	48.0	48.0	46.0	32.0	39.0	30.0
+LORRAINE	41	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	5.7	0.3	19.1	0.2	2.0	5.4	0.6	1.2	0.5	0.2	0.4	0.0
+LORRAINE	41	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	8.7	6.0	20.9	4.0	5.6	8.2	7.5	15.5	6.5	4.0	2.5	ND
+LORRAINE	41	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	1.0	2.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0
+LORRAINE	41	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	83.0	79.0	64.0	70.0	62.0	63.0	61.0	62.0	60.0	62.0	65.0	60.0	59.0
+MIDI-PYRENEES	73	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	9.0	10.0	8.0	10.0	13.0	14.0	14.0	14.0	13.0	13.0	13.0	15.0	13.0
+MIDI-PYRENEES	73	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	1029186.0	1085685.0	1029186.0	1085685.0	1299070.0	1372174.0	1372174.0	1372174.0	1372174.0	1372174.0	1372174.0	1372174.0	1372174.0
+MIDI-PYRENEES	73	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	47.0	47.0	47.0	60.0	53.0	53.0	54.0	49.0	51.0	53.0	54.0	54.0	55.0
+MIDI-PYRENEES	73	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	1.0	1.0	2.0	6.0	2.0	1.0	2.0	0.0	1.0	0.0	1.0	0.0	1.0
+MIDI-PYRENEES	73	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.1	0.3	0.3	2.6	0.2	0.3	0.4	0.0	0.1	0.0	0.1	0.0	0.1
+MIDI-PYRENEES	73	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.0	1.0	2.0	3.3	1.5	1.0	1.3	ND	1.0	ND	1.0	ND	1.0
+MIDI-PYRENEES	73	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+MIDI-PYRENEES	73	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+MIDI-PYRENEES	73	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+MIDI-PYRENEES	73	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	25.0	38.0	23.0	90.0	51.0	45.0	48.0	25.0	32.0	35.0	44.0	46.0	39.0
+MIDI-PYRENEES	73	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	1.0	0.0	28.1	1.8	0.4	3.1	0.0	0.2	0.0	0.5	0.2	0.0
+MIDI-PYRENEES	73	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	5.0	ND	31.2	11.5	3.0	6.1	ND	2.0	ND	2.3	3.0	ND
+MIDI-PYRENEES	73	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0
+MIDI-PYRENEES	73	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	61.0	62.0	64.0	73.0	63.0	64.0	66.0	58.0	63.0	63.0	65.0	68.0	66.0
+NORD-PAS-DE-CALAIS	31	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	29.0	32.0	36.0	35.0	34.0	35.0	38.0	34.0	36.0	32.0	22.0	20.0	19.0
+NORD-PAS-DE-CALAIS	31	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	2571382.0	2598413.0	2962463.0	2962463.0	2962463.0	2974136.0	3040523.0	3001819.0	3001819.0	2997153.0	2997153.0	2949970.0	2949970.0
+NORD-PAS-DE-CALAIS	31	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	39.0	43.0	44.0	44.0	42.0	40.0	44.0	42.0	44.0	44.0	43.0	45.0	44.0
+NORD-PAS-DE-CALAIS	31	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	3.0	11.0	4.0	23.0	7.0	6.0	13.0	4.0	0.0	3.0	3.0	4.0	3.0
+NORD-PAS-DE-CALAIS	31	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	1.1	1.7	0.8	6.2	1.4	0.7	3.0	0.8	0.0	0.4	0.6	0.2	1.2
+NORD-PAS-DE-CALAIS	31	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.4	4.4	1.4	6.8	2.1	1.8	3.6	1.7	ND	1.1	1.3	1.3	1.9
+NORD-PAS-DE-CALAIS	31	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	1.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+NORD-PAS-DE-CALAIS	31	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+NORD-PAS-DE-CALAIS	31	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	1.0	ND	1.3	ND	ND	ND	ND	ND	ND	ND	ND	ND
+NORD-PAS-DE-CALAIS	31	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	18.0	35.0	19.0	57.0	26.0	30.0	39.0	21.0	24.0	23.0	24.0	31.0	15.0
+NORD-PAS-DE-CALAIS	31	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.7	0.0	7.2	0.0	0.0	0.9	0.0	0.0	0.0	0.0	0.1	0.0
+NORD-PAS-DE-CALAIS	31	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	2.2	ND	10.0	ND	ND	3.5	ND	ND	ND	ND	1.0	ND
+NORD-PAS-DE-CALAIS	31	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	2.0
+NORD-PAS-DE-CALAIS	31	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	51.0
+PAYS DE LA LOIRE	52	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	15.0	19.0	18.0	19.0	21.0	21.0	15.0	20.0	18.0	15.0	14.0	13.0	11.0
+PAYS DE LA LOIRE	52	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	1272830.0	1340644.0	1340644.0	1340644.0	1343490.0	1343490.0	1343490.0	1343490.0	1343490.0	1343490.0	1343490.0	1343490.0	1343490.0
+PAYS DE LA LOIRE	52	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	47.0	48.0	54.0	57.0	53.0	54.0	55.0	52.0	53.0	54.0	56.0	58.0	55.0
+PAYS DE LA LOIRE	52	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	1.0	13.0	1.0	3.0	5.0	0.0	0.0	1.0	0.0	0.0	0.0
+PAYS DE LA LOIRE	52	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.1	3.8	0.0	0.7	1.5	0.0	0.0	0.1	0.0	0.0	0.0
+PAYS DE LA LOIRE	52	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	1.0	4.0	1.0	1.5	1.8	ND	ND	1.0	ND	ND	ND
+PAYS DE LA LOIRE	52	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+PAYS DE LA LOIRE	52	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+PAYS DE LA LOIRE	52	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	1.0	ND	ND	ND	ND	ND	ND	ND	ND	ND
+PAYS DE LA LOIRE	52	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	13.0	33.0	27.0	71.0	38.0	36.0	41.0	21.0	17.0	17.0	34.0	36.0	15.0
+PAYS DE LA LOIRE	52	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.2	0.0	14.9	0.0	0.1	1.7	0.0	0.0	0.0	0.1	0.0	0.0
+PAYS DE LA LOIRE	52	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	3.0	ND	15.8	ND	2.0	5.0	ND	ND	ND	1.0	ND	ND
+PAYS DE LA LOIRE	52	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	0.0	1.0	1.0	1.0	2.0	2.0	2.0	3.0	2.0	2.0	2.0	2.0	2.0
+PAYS DE LA LOIRE	52	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	ND	ND	60.0	66.0	59.0	67.0	65.0	59.0	58.0	60.0	57.0	58.0	56.0
+PICARDIE	22	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	6.0	7.0	8.0	8.0	11.0	11.0	11.0	10.0	10.0	10.0	9.0	8.0	8.0
+PICARDIE	22	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	559227.0	675300.0	685567.0	685567.0	750781.0	750781.0	750781.0	750781.0	750781.0	747612.0	654760.0	611987.0	611987.0
+PICARDIE	22	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	38.0	40.0	42.0	48.0	44.0	42.0	45.0	42.0	45.0	45.0	45.0	45.0	45.0
+PICARDIE	22	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	1.0	8.0	1.0	19.0	2.0	8.0	5.0	1.0	0.0	2.0	4.0	2.0	4.0
+PICARDIE	22	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.2	1.4	0.3	6.6	0.2	1.6	1.5	0.1	0.0	0.5	1.1	0.6	1.8
+PICARDIE	22	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.0	3.3	1.0	6.6	1.0	2.6	1.6	1.0	ND	1.0	2.5	1.7	1.8
+PICARDIE	22	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+PICARDIE	22	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+PICARDIE	22	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+PICARDIE	22	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	9.0	30.0	19.0	61.0	28.0	25.0	36.0	21.0	23.0	20.0	23.0	23.0	15.0
+PICARDIE	22	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.3	0.0	12.1	0.0	0.0	0.6	0.0	0.0	0.0	0.0	0.0	0.0
+PICARDIE	22	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	2.0	ND	12.1	ND	ND	2.3	ND	ND	ND	ND	ND	ND
+PICARDIE	22	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	2.0	2.0	2.0
+PICARDIE	22	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	46.0	44.0	48.0	51.0	43.0	42.0	48.0	45.0	48.0	47.0	50.0	51.0	50.0
+POITOU-CHARENTES	54	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	12.0	12.0	12.0	12.0	13.0	12.0	13.0	12.0	12.0	12.0	12.0	11.0	12.0
+POITOU-CHARENTES	54	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	458965.0	458965.0	458965.0	458965.0	458965.0	458965.0	458965.0	458965.0	458965.0	458965.0	458965.0	458965.0	458965.0
+POITOU-CHARENTES	54	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	48.0	49.0	51.0	55.0	49.0	51.0	52.0	47.0	49.0	50.0	51.0	53.0	51.0
+POITOU-CHARENTES	54	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	10.0	0.0	2.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0
+POITOU-CHARENTES	54	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	2.8	0.0	0.3	0.2	0.0	0.0	0.0	0.0	0.0	0.0
+POITOU-CHARENTES	54	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	3.0	ND	1.0	1.5	ND	ND	ND	ND	ND	ND
+POITOU-CHARENTES	54	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+POITOU-CHARENTES	54	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+POITOU-CHARENTES	54	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND	ND
+POITOU-CHARENTES	54	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	13.0	35.0	30.0	70.0	31.0	27.0	30.0	12.0	14.0	13.0	29.0	29.0	11.0
+POITOU-CHARENTES	54	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	0.0	0.2	0.0	14.7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+POITOU-CHARENTES	54	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	1.0	ND	16.0	ND	ND	ND	ND	ND	ND	ND	ND	ND
+POITOU-CHARENTES	54	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.0	2.0	1.0	1.0
+POITOU-CHARENTES	54	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	56.0	57.0	61.0	63.0	53.0	55.0	58.0	53.0	55.0	57.0	57.0	58.0	57.0
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	41.0	42.0	42.0	43.0	39.0	40.0	37.0	34.0	31.0	33.0	33.0	34.0	34.0
+PROVENCE-ALPES-COTE D AZUR	93	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	3668417.0	3738702.0	3760549.0	3777182.0	3777182.0	3777182.0	3734855.0	3668109.0	3668109.0	3737357.0	3737357.0	3737357.0	3737357.0
+PROVENCE-ALPES-COTE D AZUR	93	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	51.0	55.0	55.0	62.0	55.0	57.0	58.0	55.0	55.0	58.0	58.0	59.0	58.0
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	26.0	52.0	48.0	73.0	34.0	32.0	39.0	19.0	15.0	19.0	35.0	28.0	19.0
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	3.2	9.5	5.8	15.0	3.2	4.0	6.1	1.8	1.5	1.5	3.3	1.9	1.4
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	4.1	11.8	6.8	16.5	4.8	4.9	7.8	2.5	2.4	2.8	4.4	3.7	3.1
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	3.0	17.0	8.0	21.0	1.0	6.0	9.0	2.0	0.0	1.0	2.0	1.0	0.0
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.2	1.2	0.3	1.3	0.1	0.2	0.5	0.1	0.0	0.0	0.1	0.1	0.0
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	1.0	2.5	2.2	2.4	1.0	1.1	2.5	1.0	ND	1.0	1.5	1.0	ND
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	91.0	99.0	142.0	172.0	123.0	137.0	119.0	109.0	74.0	114.0	108.0	130.0	98.0
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	6.4	19.2	18.0	51.2	18.4	14.7	22.0	12.0	3.5	8.9	14.5	18.8	6.6
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	9.7	23.8	22.3	57.9	23.1	19.6	27.2	16.4	9.9	19.5	22.9	27.7	11.7
+PROVENCE-ALPES-COTE D AZUR	93	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	8.0	8.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0	9.0	8.0	8.0
+PROVENCE-ALPES-COTE D AZUR	93	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	73.0	77.0	77.0	87.0	81.0	78.0	81.0	77.0	69.0	75.0	74.0	75.0	71.0
+RHONE-ALPES	82	AI02Nombre de capteurs analysant l'ozone en situation de fond urbain (SFU)	nombre	29.0	31.0	31.0	34.0	39.0	39.0	41.0	43.0	43.0	45.0	48.0	44.0	43.0
+RHONE-ALPES	82	AI02Population des unités urbaines dans lesquelles se trouvent des capteurs analysant l'ozone en SFU	nombre	3273400.0	3276563.0	3276563.0	3276563.0	3491966.0	3491966.0	3536854.0	3536854.0	3606170.0	3616110.0	3671458.0	3586657.0	3586657.0
+RHONE-ALPES	82	AI02Concentration moyenne annuelle en ozone (en µg/m3) en SFU	µg/m3	41.0	41.0	43.0	51.0	44.0	46.0	48.0	41.0	42.0	47.0	46.0	44.0	45.0
+RHONE-ALPES	82	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de recommandation et d'information pour l'ozone (180 µg/m3 en moyenne sur 1 heure) en SFU	nombre	19.0	25.0	17.0	42.0	13.0	20.0	24.0	4.0	4.0	7.0	13.0	5.0	7.0
+RHONE-ALPES	82	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU	nombre	1.3	2.9	3.0	11.9	1.9	2.3	3.8	0.1	0.1	0.6	1.2	0.2	0.4
+RHONE-ALPES	82	AI02Nombre moyen de jours de dépassement du seuil de recommandation et d'information par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	2.8	3.8	4.4	14.0	2.9	3.0	4.8	1.3	1.0	1.9	2.2	1.1	1.4
+RHONE-ALPES	82	AI02Nombre de jours avec au moins un dépassement sur la région du seuil d'alerte pour l'ozone (240 µg/m3 en moyenne sur 1 heure) en SFU	nombre	0.0	1.0	4.0	5.0	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+RHONE-ALPES	82	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU	nombre	0.0	0.0	0.2	0.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+RHONE-ALPES	82	AI02Nombre moyen de jours de dépassement du seuil d'alerte par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	ND	1.0	2.0	1.5	ND	ND	1.0	ND	ND	1.0	ND	ND	ND
+RHONE-ALPES	82	AI02Nombre de jours avec au moins un dépassement sur la région du seuil de 120 µg/m3 d'ozone en moyenne sur 8 heures consécutives en SFU	nombre	62.0	73.0	81.0	122.0	80.0	83.0	77.0	67.0	53.0	74.0	61.0	64.0	48.0
+RHONE-ALPES	82	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU	nombre	4.1	8.9	4.8	40.8	7.2	7.6	13.1	1.0	0.3	1.3	5.0	2.2	0.0
+RHONE-ALPES	82	AI02Nombre moyen de jours de dépassement du seuil de protection de la santé humaine par capteur analysant l'ozone en SFU et ayant dépassé le seuil	nombre	7.1	11.0	9.3	44.8	10.8	10.6	14.1	5.3	2.8	7.4	7.9	6.9	1.0
+RHONE-ALPES	82	AI02Nombre de capteurs analysant l'ozone en zones rurales (ZR)	nombre	2.0	2.0	2.0	2.0	4.0	6.0	6.0	6.0	8.0	9.0	8.0	11.0	10.0
+RHONE-ALPES	82	AI02Concentration moyenne annuelle en ozone (en µg/m3) en ZR	µg/m3	64.0	56.0	71.0	71.0	64.0	71.0	68.0	64.0	61.0	65.0	65.0	71.0	69.0
+Producteurs : AASQA (Associations de surveillance de la qualité de l'air), ADEME.
+Source : BDQA (Banque de données sur la qualité de l'air).

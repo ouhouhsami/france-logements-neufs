@@ -1,0 +1,1251 @@
+Lieu	N° région, département	Série	Unité	2004	2008
+AIN	01	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+AIN	01	RA08Etablissements de recherche (hors CEA)	nombre	3.0	3.0
+AIN	01	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+AIN	01	RA08Centres nucléaires de production d'électricité	nombre	2.0	3.0
+AIN	01	RA08Activités médicales	nombre	1.0	1.0
+AIN	01	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+AIN	01	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+AIN	01	RA08Amont du cycle du combustible	nombre	0.0	0.0
+AIN	01	RA08Aval du cycle du combustible	nombre	0.0	0.0
+AIN	01	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+AIN	01	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+AIN	01	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+AIN	01	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	7.0	8.0
+AISNE	02	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+AISNE	02	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+AISNE	02	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+AISNE	02	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+AISNE	02	RA08Activités médicales	nombre	2.0	2.0
+AISNE	02	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+AISNE	02	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+AISNE	02	RA08Amont du cycle du combustible	nombre	0.0	0.0
+AISNE	02	RA08Aval du cycle du combustible	nombre	0.0	0.0
+AISNE	02	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+AISNE	02	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+AISNE	02	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+AISNE	02	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	3.0	3.0
+ALLIER	03	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+ALLIER	03	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+ALLIER	03	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+ALLIER	03	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+ALLIER	03	RA08Activités médicales	nombre	1.0	1.0
+ALLIER	03	RA08Etablissements de la défense nationale	nombre	2.0	1.0
+ALLIER	03	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+ALLIER	03	RA08Amont du cycle du combustible	nombre	0.0	0.0
+ALLIER	03	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ALLIER	03	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ALLIER	03	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+ALLIER	03	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+ALLIER	03	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	3.0	2.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Etablissements de recherche (hors CEA)	nombre	0.0	1.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Activités médicales	nombre	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Amont du cycle du combustible	nombre	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	1.0
+ALPES-DE-HAUTE-PROVENCE	04	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	0.0	2.0
+ALPES-MARITIMES	06	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+ALPES-MARITIMES	06	RA08Etablissements de recherche (hors CEA)	nombre	21.0	19.0
+ALPES-MARITIMES	06	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+ALPES-MARITIMES	06	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+ALPES-MARITIMES	06	RA08Activités médicales	nombre	5.0	6.0
+ALPES-MARITIMES	06	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+ALPES-MARITIMES	06	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+ALPES-MARITIMES	06	RA08Amont du cycle du combustible	nombre	0.0	0.0
+ALPES-MARITIMES	06	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ALPES-MARITIMES	06	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ALPES-MARITIMES	06	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+ALPES-MARITIMES	06	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+ALPES-MARITIMES	06	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	26.0	26.0
+ARDECHE	07	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+ARDECHE	07	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+ARDECHE	07	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+ARDECHE	07	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+ARDECHE	07	RA08Activités médicales	nombre	0.0	0.0
+ARDECHE	07	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+ARDECHE	07	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+ARDECHE	07	RA08Amont du cycle du combustible	nombre	0.0	0.0
+ARDECHE	07	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ARDECHE	07	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ARDECHE	07	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+ARDECHE	07	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+ARDECHE	07	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	1.0
+ARDENNES	08	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+ARDENNES	08	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+ARDENNES	08	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+ARDENNES	08	RA08Centres nucléaires de production d'électricité	nombre	2.0	2.0
+ARDENNES	08	RA08Activités médicales	nombre	1.0	1.0
+ARDENNES	08	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+ARDENNES	08	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+ARDENNES	08	RA08Amont du cycle du combustible	nombre	0.0	0.0
+ARDENNES	08	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ARDENNES	08	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ARDENNES	08	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+ARDENNES	08	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+ARDENNES	08	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	3.0	3.0
+ARIEGE	09	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+ARIEGE	09	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+ARIEGE	09	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+ARIEGE	09	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+ARIEGE	09	RA08Activités médicales	nombre	0.0	0.0
+ARIEGE	09	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+ARIEGE	09	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+ARIEGE	09	RA08Amont du cycle du combustible	nombre	0.0	0.0
+ARIEGE	09	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ARIEGE	09	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ARIEGE	09	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+ARIEGE	09	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+ARIEGE	09	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	0.0	0.0
+AUBE	10	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+AUBE	10	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+AUBE	10	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+AUBE	10	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+AUBE	10	RA08Activités médicales	nombre	0.0	1.0
+AUBE	10	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+AUBE	10	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+AUBE	10	RA08Amont du cycle du combustible	nombre	0.0	0.0
+AUBE	10	RA08Aval du cycle du combustible	nombre	0.0	0.0
+AUBE	10	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+AUBE	10	RA08Sites d'entreposage et stockage	nombre	2.0	2.0
+AUBE	10	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+AUBE	10	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	3.0	4.0
+AUDE	11	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+AUDE	11	RA08Etablissements de recherche (hors CEA)	nombre	1.0	0.0
+AUDE	11	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+AUDE	11	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+AUDE	11	RA08Activités médicales	nombre	1.0	0.0
+AUDE	11	RA08Etablissements de la défense nationale	nombre	1.0	0.0
+AUDE	11	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+AUDE	11	RA08Amont du cycle du combustible	nombre	2.0	2.0
+AUDE	11	RA08Aval du cycle du combustible	nombre	0.0	0.0
+AUDE	11	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+AUDE	11	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+AUDE	11	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+AUDE	11	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	5.0	2.0
+AVEYRON	12	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+AVEYRON	12	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+AVEYRON	12	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+AVEYRON	12	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+AVEYRON	12	RA08Activités médicales	nombre	1.0	1.0
+AVEYRON	12	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+AVEYRON	12	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+AVEYRON	12	RA08Amont du cycle du combustible	nombre	1.0	1.0
+AVEYRON	12	RA08Aval du cycle du combustible	nombre	0.0	0.0
+AVEYRON	12	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+AVEYRON	12	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+AVEYRON	12	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+AVEYRON	12	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	2.0	2.0
+BAS-RHIN	67	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+BAS-RHIN	67	RA08Etablissements de recherche (hors CEA)	nombre	27.0	32.0
+BAS-RHIN	67	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	2.0
+BAS-RHIN	67	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+BAS-RHIN	67	RA08Activités médicales	nombre	4.0	5.0
+BAS-RHIN	67	RA08Etablissements de la défense nationale	nombre	1.0	0.0
+BAS-RHIN	67	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+BAS-RHIN	67	RA08Amont du cycle du combustible	nombre	0.0	0.0
+BAS-RHIN	67	RA08Aval du cycle du combustible	nombre	0.0	0.0
+BAS-RHIN	67	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+BAS-RHIN	67	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+BAS-RHIN	67	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+BAS-RHIN	67	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	32.0	39.0
+BOUCHES-DU-RHONE	13	RA08Centres d'études et de recherche du CEA civil	nombre	2.0	2.0
+BOUCHES-DU-RHONE	13	RA08Etablissements de recherche (hors CEA)	nombre	13.0	22.0
+BOUCHES-DU-RHONE	13	RA08Installations industrielles (hors production d'électricité)	nombre	2.0	3.0
+BOUCHES-DU-RHONE	13	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+BOUCHES-DU-RHONE	13	RA08Activités médicales	nombre	8.0	7.0
+BOUCHES-DU-RHONE	13	RA08Etablissements de la défense nationale	nombre	2.0	2.0
+BOUCHES-DU-RHONE	13	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	1.0	1.0
+BOUCHES-DU-RHONE	13	RA08Amont du cycle du combustible	nombre	0.0	0.0
+BOUCHES-DU-RHONE	13	RA08Aval du cycle du combustible	nombre	1.0	1.0
+BOUCHES-DU-RHONE	13	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+BOUCHES-DU-RHONE	13	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+BOUCHES-DU-RHONE	13	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+BOUCHES-DU-RHONE	13	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	30.0	39.0
+CALVADOS	14	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+CALVADOS	14	RA08Etablissements de recherche (hors CEA)	nombre	4.0	5.0
+CALVADOS	14	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+CALVADOS	14	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+CALVADOS	14	RA08Activités médicales	nombre	5.0	6.0
+CALVADOS	14	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+CALVADOS	14	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+CALVADOS	14	RA08Amont du cycle du combustible	nombre	0.0	0.0
+CALVADOS	14	RA08Aval du cycle du combustible	nombre	0.0	0.0
+CALVADOS	14	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+CALVADOS	14	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+CALVADOS	14	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+CALVADOS	14	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	10.0	12.0
+CANTAL	15	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+CANTAL	15	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+CANTAL	15	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+CANTAL	15	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+CANTAL	15	RA08Activités médicales	nombre	0.0	0.0
+CANTAL	15	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+CANTAL	15	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+CANTAL	15	RA08Amont du cycle du combustible	nombre	1.0	1.0
+CANTAL	15	RA08Aval du cycle du combustible	nombre	0.0	0.0
+CANTAL	15	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+CANTAL	15	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+CANTAL	15	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+CANTAL	15	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	1.0
+CHARENTE	16	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+CHARENTE	16	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+CHARENTE	16	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+CHARENTE	16	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+CHARENTE	16	RA08Activités médicales	nombre	1.0	1.0
+CHARENTE	16	RA08Etablissements de la défense nationale	nombre	1.0	0.0
+CHARENTE	16	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+CHARENTE	16	RA08Amont du cycle du combustible	nombre	0.0	0.0
+CHARENTE	16	RA08Aval du cycle du combustible	nombre	0.0	0.0
+CHARENTE	16	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+CHARENTE	16	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+CHARENTE	16	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+CHARENTE	16	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	2.0	1.0
+CHARENTE-MARITIME	17	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+CHARENTE-MARITIME	17	RA08Etablissements de recherche (hors CEA)	nombre	2.0	2.0
+CHARENTE-MARITIME	17	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	1.0
+CHARENTE-MARITIME	17	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+CHARENTE-MARITIME	17	RA08Activités médicales	nombre	1.0	1.0
+CHARENTE-MARITIME	17	RA08Etablissements de la défense nationale	nombre	2.0	0.0
+CHARENTE-MARITIME	17	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+CHARENTE-MARITIME	17	RA08Amont du cycle du combustible	nombre	0.0	0.0
+CHARENTE-MARITIME	17	RA08Aval du cycle du combustible	nombre	0.0	0.0
+CHARENTE-MARITIME	17	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+CHARENTE-MARITIME	17	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+CHARENTE-MARITIME	17	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	1.0
+CHARENTE-MARITIME	17	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	7.0	5.0
+CHER	18	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+CHER	18	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+CHER	18	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+CHER	18	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+CHER	18	RA08Activités médicales	nombre	1.0	1.0
+CHER	18	RA08Etablissements de la défense nationale	nombre	3.0	3.0
+CHER	18	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+CHER	18	RA08Amont du cycle du combustible	nombre	0.0	0.0
+CHER	18	RA08Aval du cycle du combustible	nombre	0.0	0.0
+CHER	18	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+CHER	18	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+CHER	18	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+CHER	18	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	5.0	5.0
+CORREZE	19	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+CORREZE	19	RA08Etablissements de recherche (hors CEA)	nombre	0.0	1.0
+CORREZE	19	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+CORREZE	19	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+CORREZE	19	RA08Activités médicales	nombre	1.0	1.0
+CORREZE	19	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+CORREZE	19	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+CORREZE	19	RA08Amont du cycle du combustible	nombre	0.0	0.0
+CORREZE	19	RA08Aval du cycle du combustible	nombre	0.0	0.0
+CORREZE	19	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+CORREZE	19	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+CORREZE	19	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+CORREZE	19	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	2.0	3.0
+CORSE-DU-SUD	2A	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Activités médicales	nombre	1.0	1.0
+CORSE-DU-SUD	2A	RA08Etablissements de la défense nationale	nombre	0.0	1.0
+CORSE-DU-SUD	2A	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Amont du cycle du combustible	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Aval du cycle du combustible	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+CORSE-DU-SUD	2A	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	2.0
+COTE-D OR	21	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+COTE-D OR	21	RA08Etablissements de recherche (hors CEA)	nombre	7.0	13.0
+COTE-D OR	21	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+COTE-D OR	21	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+COTE-D OR	21	RA08Activités médicales	nombre	3.0	4.0
+COTE-D OR	21	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+COTE-D OR	21	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	1.0	1.0
+COTE-D OR	21	RA08Amont du cycle du combustible	nombre	0.0	0.0
+COTE-D OR	21	RA08Aval du cycle du combustible	nombre	0.0	0.0
+COTE-D OR	21	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+COTE-D OR	21	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+COTE-D OR	21	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	1.0
+COTE-D OR	21	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	13.0	20.0
+COTES-D ARMOR	22	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Activités médicales	nombre	2.0	1.0
+COTES-D ARMOR	22	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Amont du cycle du combustible	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Aval du cycle du combustible	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+COTES-D ARMOR	22	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	2.0	1.0
+CREUSE	23	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+CREUSE	23	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+CREUSE	23	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+CREUSE	23	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+CREUSE	23	RA08Activités médicales	nombre	0.0	0.0
+CREUSE	23	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+CREUSE	23	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+CREUSE	23	RA08Amont du cycle du combustible	nombre	1.0	1.0
+CREUSE	23	RA08Aval du cycle du combustible	nombre	0.0	0.0
+CREUSE	23	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+CREUSE	23	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+CREUSE	23	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+CREUSE	23	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	1.0
+DEUX-SEVRES	79	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+DEUX-SEVRES	79	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Activités médicales	nombre	2.0	1.0
+DEUX-SEVRES	79	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Amont du cycle du combustible	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Aval du cycle du combustible	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+DEUX-SEVRES	79	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	3.0	2.0
+DORDOGNE	24	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+DORDOGNE	24	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+DORDOGNE	24	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+DORDOGNE	24	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+DORDOGNE	24	RA08Activités médicales	nombre	1.0	1.0
+DORDOGNE	24	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+DORDOGNE	24	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+DORDOGNE	24	RA08Amont du cycle du combustible	nombre	0.0	0.0
+DORDOGNE	24	RA08Aval du cycle du combustible	nombre	0.0	0.0
+DORDOGNE	24	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+DORDOGNE	24	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+DORDOGNE	24	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+DORDOGNE	24	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	2.0	2.0
+DOUBS	25	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+DOUBS	25	RA08Etablissements de recherche (hors CEA)	nombre	4.0	4.0
+DOUBS	25	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+DOUBS	25	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+DOUBS	25	RA08Activités médicales	nombre	2.0	3.0
+DOUBS	25	RA08Etablissements de la défense nationale	nombre	1.0	2.0
+DOUBS	25	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+DOUBS	25	RA08Amont du cycle du combustible	nombre	0.0	0.0
+DOUBS	25	RA08Aval du cycle du combustible	nombre	0.0	0.0
+DOUBS	25	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+DOUBS	25	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+DOUBS	25	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+DOUBS	25	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	7.0	9.0
+DROME	26	RA08Centres d'études et de recherche du CEA civil	nombre	1.0	0.0
+DROME	26	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+DROME	26	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	2.0
+DROME	26	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+DROME	26	RA08Activités médicales	nombre	1.0	1.0
+DROME	26	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+DROME	26	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	2.0	1.0
+DROME	26	RA08Amont du cycle du combustible	nombre	5.0	6.0
+DROME	26	RA08Aval du cycle du combustible	nombre	0.0	0.0
+DROME	26	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	1.0
+DROME	26	RA08Sites d'entreposage et stockage	nombre	3.0	3.0
+DROME	26	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+DROME	26	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	15.0	16.0
+ESSONNE	91	RA08Centres d'études et de recherche du CEA civil	nombre	2.0	1.0
+ESSONNE	91	RA08Etablissements de recherche (hors CEA)	nombre	13.0	22.0
+ESSONNE	91	RA08Installations industrielles (hors production d'électricité)	nombre	4.0	4.0
+ESSONNE	91	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+ESSONNE	91	RA08Activités médicales	nombre	3.0	2.0
+ESSONNE	91	RA08Etablissements de la défense nationale	nombre	6.0	3.0
+ESSONNE	91	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	1.0	1.0
+ESSONNE	91	RA08Amont du cycle du combustible	nombre	2.0	2.0
+ESSONNE	91	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ESSONNE	91	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ESSONNE	91	RA08Sites d'entreposage et stockage	nombre	6.0	6.0
+ESSONNE	91	RA08Anciens sites assainis ou en cours d'assainissement	nombre	3.0	5.0
+ESSONNE	91	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	37.0	41.0
+EURE	27	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+EURE	27	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+EURE	27	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	0.0
+EURE	27	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+EURE	27	RA08Activités médicales	nombre	2.0	2.0
+EURE	27	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+EURE	27	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+EURE	27	RA08Amont du cycle du combustible	nombre	0.0	0.0
+EURE	27	RA08Aval du cycle du combustible	nombre	0.0	0.0
+EURE	27	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+EURE	27	RA08Sites d'entreposage et stockage	nombre	0.0	2.0
+EURE	27	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	1.0
+EURE	27	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	5.0	6.0
+EURE-ET-LOIR	28	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+EURE-ET-LOIR	28	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+EURE-ET-LOIR	28	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	0.0
+EURE-ET-LOIR	28	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+EURE-ET-LOIR	28	RA08Activités médicales	nombre	0.0	0.0
+EURE-ET-LOIR	28	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+EURE-ET-LOIR	28	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+EURE-ET-LOIR	28	RA08Amont du cycle du combustible	nombre	0.0	0.0
+EURE-ET-LOIR	28	RA08Aval du cycle du combustible	nombre	0.0	0.0
+EURE-ET-LOIR	28	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+EURE-ET-LOIR	28	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+EURE-ET-LOIR	28	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+EURE-ET-LOIR	28	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	4.0	3.0
+FINISTERE	29	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+FINISTERE	29	RA08Etablissements de recherche (hors CEA)	nombre	4.0	5.0
+FINISTERE	29	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+FINISTERE	29	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+FINISTERE	29	RA08Activités médicales	nombre	7.0	7.0
+FINISTERE	29	RA08Etablissements de la défense nationale	nombre	8.0	8.0
+FINISTERE	29	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+FINISTERE	29	RA08Amont du cycle du combustible	nombre	0.0	0.0
+FINISTERE	29	RA08Aval du cycle du combustible	nombre	0.0	0.0
+FINISTERE	29	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+FINISTERE	29	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+FINISTERE	29	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+FINISTERE	29	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	20.0	21.0
+GARD	30	RA08Centres d'études et de recherche du CEA civil	nombre	4.0	4.0
+GARD	30	RA08Etablissements de recherche (hors CEA)	nombre	3.0	3.0
+GARD	30	RA08Installations industrielles (hors production d'électricité)	nombre	2.0	2.0
+GARD	30	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+GARD	30	RA08Activités médicales	nombre	2.0	2.0
+GARD	30	RA08Etablissements de la défense nationale	nombre	2.0	2.0
+GARD	30	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	1.0	1.0
+GARD	30	RA08Amont du cycle du combustible	nombre	0.0	0.0
+GARD	30	RA08Aval du cycle du combustible	nombre	2.0	2.0
+GARD	30	RA08Etablissements de traitements des déchets ou de maintenance	nombre	1.0	1.0
+GARD	30	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+GARD	30	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+GARD	30	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	18.0	18.0
+GERS	32	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+GERS	32	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+GERS	32	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+GERS	32	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+GERS	32	RA08Activités médicales	nombre	0.0	0.0
+GERS	32	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+GERS	32	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+GERS	32	RA08Amont du cycle du combustible	nombre	0.0	0.0
+GERS	32	RA08Aval du cycle du combustible	nombre	0.0	0.0
+GERS	32	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+GERS	32	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+GERS	32	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+GERS	32	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	0.0	0.0
+GIRONDE	33	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+GIRONDE	33	RA08Etablissements de recherche (hors CEA)	nombre	12.0	23.0
+GIRONDE	33	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	2.0
+GIRONDE	33	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+GIRONDE	33	RA08Activités médicales	nombre	6.0	5.0
+GIRONDE	33	RA08Etablissements de la défense nationale	nombre	3.0	5.0
+GIRONDE	33	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	1.0	1.0
+GIRONDE	33	RA08Amont du cycle du combustible	nombre	0.0	0.0
+GIRONDE	33	RA08Aval du cycle du combustible	nombre	0.0	0.0
+GIRONDE	33	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+GIRONDE	33	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+GIRONDE	33	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+GIRONDE	33	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	24.0	38.0
+HAUT-RHIN	68	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUT-RHIN	68	RA08Etablissements de recherche (hors CEA)	nombre	3.0	3.0
+HAUT-RHIN	68	RA08Installations industrielles (hors production d'électricité)	nombre	3.0	3.0
+HAUT-RHIN	68	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+HAUT-RHIN	68	RA08Activités médicales	nombre	3.0	3.0
+HAUT-RHIN	68	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+HAUT-RHIN	68	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUT-RHIN	68	RA08Amont du cycle du combustible	nombre	1.0	1.0
+HAUT-RHIN	68	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUT-RHIN	68	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUT-RHIN	68	RA08Sites d'entreposage et stockage	nombre	0.0	1.0
+HAUT-RHIN	68	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	2.0
+HAUT-RHIN	68	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	12.0	13.0
+HAUTE-CORSE	2B	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+HAUTE-CORSE	2B	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Activités médicales	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Etablissements de la défense nationale	nombre	2.0	0.0
+HAUTE-CORSE	2B	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Amont du cycle du combustible	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+HAUTE-CORSE	2B	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	3.0	1.0
+HAUTE-GARONNE	31	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUTE-GARONNE	31	RA08Etablissements de recherche (hors CEA)	nombre	10.0	23.0
+HAUTE-GARONNE	31	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	2.0
+HAUTE-GARONNE	31	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTE-GARONNE	31	RA08Activités médicales	nombre	8.0	8.0
+HAUTE-GARONNE	31	RA08Etablissements de la défense nationale	nombre	3.0	2.0
+HAUTE-GARONNE	31	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTE-GARONNE	31	RA08Amont du cycle du combustible	nombre	0.0	0.0
+HAUTE-GARONNE	31	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTE-GARONNE	31	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTE-GARONNE	31	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HAUTE-GARONNE	31	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+HAUTE-GARONNE	31	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	22.0	35.0
+HAUTE-LOIRE	43	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Activités médicales	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Amont du cycle du combustible	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+HAUTE-LOIRE	43	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Activités médicales	nombre	1.0	1.0
+HAUTE-MARNE	52	RA08Etablissements de la défense nationale	nombre	0.0	1.0
+HAUTE-MARNE	52	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Amont du cycle du combustible	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+HAUTE-MARNE	52	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	2.0
+HAUTE-SAONE	70	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Activités médicales	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Amont du cycle du combustible	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+HAUTE-SAONE	70	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	0.0	0.0
+HAUTE-SAVOIE	74	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUTE-SAVOIE	74	RA08Etablissements de recherche (hors CEA)	nombre	4.0	2.0
+HAUTE-SAVOIE	74	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+HAUTE-SAVOIE	74	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTE-SAVOIE	74	RA08Activités médicales	nombre	2.0	2.0
+HAUTE-SAVOIE	74	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+HAUTE-SAVOIE	74	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTE-SAVOIE	74	RA08Amont du cycle du combustible	nombre	1.0	1.0
+HAUTE-SAVOIE	74	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTE-SAVOIE	74	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTE-SAVOIE	74	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HAUTE-SAVOIE	74	RA08Anciens sites assainis ou en cours d'assainissement	nombre	2.0	2.0
+HAUTE-SAVOIE	74	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	7.0	6.0
+HAUTE-VIENNE	87	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUTE-VIENNE	87	RA08Etablissements de recherche (hors CEA)	nombre	1.0	2.0
+HAUTE-VIENNE	87	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+HAUTE-VIENNE	87	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTE-VIENNE	87	RA08Activités médicales	nombre	1.0	1.0
+HAUTE-VIENNE	87	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+HAUTE-VIENNE	87	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTE-VIENNE	87	RA08Amont du cycle du combustible	nombre	7.0	7.0
+HAUTE-VIENNE	87	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTE-VIENNE	87	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTE-VIENNE	87	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HAUTE-VIENNE	87	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+HAUTE-VIENNE	87	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	10.0	11.0
+HAUTES-ALPES	05	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Activités médicales	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Amont du cycle du combustible	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HAUTES-ALPES	05	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+HAUTES-ALPES	05	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Activités médicales	nombre	1.0	2.0
+HAUTES-PYRENEES	65	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Amont du cycle du combustible	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+HAUTES-PYRENEES	65	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	2.0
+HAUTS-DE-SEINE	92	RA08Centres d'études et de recherche du CEA civil	nombre	3.0	3.0
+HAUTS-DE-SEINE	92	RA08Etablissements de recherche (hors CEA)	nombre	15.0	21.0
+HAUTS-DE-SEINE	92	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	1.0
+HAUTS-DE-SEINE	92	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HAUTS-DE-SEINE	92	RA08Activités médicales	nombre	13.0	15.0
+HAUTS-DE-SEINE	92	RA08Etablissements de la défense nationale	nombre	0.0	1.0
+HAUTS-DE-SEINE	92	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HAUTS-DE-SEINE	92	RA08Amont du cycle du combustible	nombre	0.0	0.0
+HAUTS-DE-SEINE	92	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HAUTS-DE-SEINE	92	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HAUTS-DE-SEINE	92	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+HAUTS-DE-SEINE	92	RA08Anciens sites assainis ou en cours d'assainissement	nombre	4.0	4.0
+HAUTS-DE-SEINE	92	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	33.0	42.0
+HERAULT	34	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+HERAULT	34	RA08Etablissements de recherche (hors CEA)	nombre	16.0	25.0
+HERAULT	34	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+HERAULT	34	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+HERAULT	34	RA08Activités médicales	nombre	10.0	6.0
+HERAULT	34	RA08Etablissements de la défense nationale	nombre	0.0	1.0
+HERAULT	34	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+HERAULT	34	RA08Amont du cycle du combustible	nombre	1.0	1.0
+HERAULT	34	RA08Aval du cycle du combustible	nombre	0.0	0.0
+HERAULT	34	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+HERAULT	34	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+HERAULT	34	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+HERAULT	34	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	27.0	33.0
+ILLE-ET-VILAINE	35	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+ILLE-ET-VILAINE	35	RA08Etablissements de recherche (hors CEA)	nombre	11.0	19.0
+ILLE-ET-VILAINE	35	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	1.0
+ILLE-ET-VILAINE	35	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+ILLE-ET-VILAINE	35	RA08Activités médicales	nombre	2.0	2.0
+ILLE-ET-VILAINE	35	RA08Etablissements de la défense nationale	nombre	2.0	2.0
+ILLE-ET-VILAINE	35	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+ILLE-ET-VILAINE	35	RA08Amont du cycle du combustible	nombre	0.0	0.0
+ILLE-ET-VILAINE	35	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ILLE-ET-VILAINE	35	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ILLE-ET-VILAINE	35	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+ILLE-ET-VILAINE	35	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+ILLE-ET-VILAINE	35	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	16.0	24.0
+INDRE	36	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+INDRE	36	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+INDRE	36	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+INDRE	36	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+INDRE	36	RA08Activités médicales	nombre	0.0	0.0
+INDRE	36	RA08Etablissements de la défense nationale	nombre	2.0	1.0
+INDRE	36	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+INDRE	36	RA08Amont du cycle du combustible	nombre	0.0	0.0
+INDRE	36	RA08Aval du cycle du combustible	nombre	0.0	0.0
+INDRE	36	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+INDRE	36	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+INDRE	36	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+INDRE	36	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	2.0	1.0
+INDRE-ET-LOIRE	37	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+INDRE-ET-LOIRE	37	RA08Etablissements de recherche (hors CEA)	nombre	4.0	9.0
+INDRE-ET-LOIRE	37	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+INDRE-ET-LOIRE	37	RA08Centres nucléaires de production d'électricité	nombre	3.0	3.0
+INDRE-ET-LOIRE	37	RA08Activités médicales	nombre	6.0	5.0
+INDRE-ET-LOIRE	37	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+INDRE-ET-LOIRE	37	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+INDRE-ET-LOIRE	37	RA08Amont du cycle du combustible	nombre	0.0	0.0
+INDRE-ET-LOIRE	37	RA08Aval du cycle du combustible	nombre	0.0	0.0
+INDRE-ET-LOIRE	37	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+INDRE-ET-LOIRE	37	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+INDRE-ET-LOIRE	37	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+INDRE-ET-LOIRE	37	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	14.0	18.0
+ISERE	38	RA08Centres d'études et de recherche du CEA civil	nombre	2.0	2.0
+ISERE	38	RA08Etablissements de recherche (hors CEA)	nombre	8.0	18.0
+ISERE	38	RA08Installations industrielles (hors production d'électricité)	nombre	2.0	1.0
+ISERE	38	RA08Centres nucléaires de production d'électricité	nombre	2.0	2.0
+ISERE	38	RA08Activités médicales	nombre	1.0	2.0
+ISERE	38	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+ISERE	38	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	1.0	1.0
+ISERE	38	RA08Amont du cycle du combustible	nombre	1.0	1.0
+ISERE	38	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ISERE	38	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ISERE	38	RA08Sites d'entreposage et stockage	nombre	2.0	2.0
+ISERE	38	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	1.0
+ISERE	38	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	20.0	30.0
+JURA	39	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+JURA	39	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+JURA	39	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+JURA	39	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+JURA	39	RA08Activités médicales	nombre	0.0	0.0
+JURA	39	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+JURA	39	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+JURA	39	RA08Amont du cycle du combustible	nombre	0.0	0.0
+JURA	39	RA08Aval du cycle du combustible	nombre	0.0	0.0
+JURA	39	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+JURA	39	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+JURA	39	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+JURA	39	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	0.0	0.0
+LANDES	40	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+LANDES	40	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+LANDES	40	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+LANDES	40	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+LANDES	40	RA08Activités médicales	nombre	0.0	0.0
+LANDES	40	RA08Etablissements de la défense nationale	nombre	2.0	2.0
+LANDES	40	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+LANDES	40	RA08Amont du cycle du combustible	nombre	0.0	0.0
+LANDES	40	RA08Aval du cycle du combustible	nombre	0.0	0.0
+LANDES	40	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+LANDES	40	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+LANDES	40	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+LANDES	40	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	2.0	3.0
+LOIR-ET-CHER	41	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Centres nucléaires de production d'électricité	nombre	2.0	2.0
+LOIR-ET-CHER	41	RA08Activités médicales	nombre	1.0	1.0
+LOIR-ET-CHER	41	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Amont du cycle du combustible	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Aval du cycle du combustible	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+LOIR-ET-CHER	41	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	3.0	3.0
+LOIRE	42	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+LOIRE	42	RA08Etablissements de recherche (hors CEA)	nombre	2.0	2.0
+LOIRE	42	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+LOIRE	42	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+LOIRE	42	RA08Activités médicales	nombre	4.0	4.0
+LOIRE	42	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+LOIRE	42	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+LOIRE	42	RA08Amont du cycle du combustible	nombre	1.0	1.0
+LOIRE	42	RA08Aval du cycle du combustible	nombre	0.0	0.0
+LOIRE	42	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+LOIRE	42	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+LOIRE	42	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+LOIRE	42	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	7.0	7.0
+LOIRE-ATLANTIQUE	44	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+LOIRE-ATLANTIQUE	44	RA08Etablissements de recherche (hors CEA)	nombre	6.0	7.0
+LOIRE-ATLANTIQUE	44	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	1.0
+LOIRE-ATLANTIQUE	44	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+LOIRE-ATLANTIQUE	44	RA08Activités médicales	nombre	6.0	7.0
+LOIRE-ATLANTIQUE	44	RA08Etablissements de la défense nationale	nombre	2.0	1.0
+LOIRE-ATLANTIQUE	44	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+LOIRE-ATLANTIQUE	44	RA08Amont du cycle du combustible	nombre	1.0	1.0
+LOIRE-ATLANTIQUE	44	RA08Aval du cycle du combustible	nombre	0.0	0.0
+LOIRE-ATLANTIQUE	44	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+LOIRE-ATLANTIQUE	44	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+LOIRE-ATLANTIQUE	44	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+LOIRE-ATLANTIQUE	44	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	16.0	17.0
+LOIRET	45	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+LOIRET	45	RA08Etablissements de recherche (hors CEA)	nombre	7.0	9.0
+LOIRET	45	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+LOIRET	45	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+LOIRET	45	RA08Activités médicales	nombre	2.0	3.0
+LOIRET	45	RA08Etablissements de la défense nationale	nombre	3.0	3.0
+LOIRET	45	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+LOIRET	45	RA08Amont du cycle du combustible	nombre	0.0	0.0
+LOIRET	45	RA08Aval du cycle du combustible	nombre	0.0	0.0
+LOIRET	45	RA08Etablissements de traitements des déchets ou de maintenance	nombre	1.0	1.0
+LOIRET	45	RA08Sites d'entreposage et stockage	nombre	0.0	1.0
+LOIRET	45	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+LOIRET	45	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	14.0	19.0
+LOT	46	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+LOT	46	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+LOT	46	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+LOT	46	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+LOT	46	RA08Activités médicales	nombre	0.0	0.0
+LOT	46	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+LOT	46	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+LOT	46	RA08Amont du cycle du combustible	nombre	0.0	0.0
+LOT	46	RA08Aval du cycle du combustible	nombre	0.0	0.0
+LOT	46	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+LOT	46	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+LOT	46	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+LOT	46	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	1.0
+LOT-ET-GARONNE	47	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+LOT-ET-GARONNE	47	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Activités médicales	nombre	1.0	1.0
+LOT-ET-GARONNE	47	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Amont du cycle du combustible	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Aval du cycle du combustible	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+LOT-ET-GARONNE	47	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	2.0
+LOZERE	48	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+LOZERE	48	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+LOZERE	48	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+LOZERE	48	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+LOZERE	48	RA08Activités médicales	nombre	0.0	0.0
+LOZERE	48	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+LOZERE	48	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+LOZERE	48	RA08Amont du cycle du combustible	nombre	1.0	1.0
+LOZERE	48	RA08Aval du cycle du combustible	nombre	0.0	0.0
+LOZERE	48	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+LOZERE	48	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+LOZERE	48	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+LOZERE	48	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	1.0
+MAINE-ET-LOIRE	49	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+MAINE-ET-LOIRE	49	RA08Etablissements de recherche (hors CEA)	nombre	6.0	2.0
+MAINE-ET-LOIRE	49	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+MAINE-ET-LOIRE	49	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+MAINE-ET-LOIRE	49	RA08Activités médicales	nombre	2.0	3.0
+MAINE-ET-LOIRE	49	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+MAINE-ET-LOIRE	49	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+MAINE-ET-LOIRE	49	RA08Amont du cycle du combustible	nombre	0.0	0.0
+MAINE-ET-LOIRE	49	RA08Aval du cycle du combustible	nombre	0.0	0.0
+MAINE-ET-LOIRE	49	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+MAINE-ET-LOIRE	49	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+MAINE-ET-LOIRE	49	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+MAINE-ET-LOIRE	49	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	9.0	6.0
+MANCHE	50	RA08Centres d'études et de recherche du CEA civil	nombre	1.0	1.0
+MANCHE	50	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+MANCHE	50	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	1.0
+MANCHE	50	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+MANCHE	50	RA08Activités médicales	nombre	1.0	0.0
+MANCHE	50	RA08Etablissements de la défense nationale	nombre	5.0	6.0
+MANCHE	50	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+MANCHE	50	RA08Amont du cycle du combustible	nombre	0.0	0.0
+MANCHE	50	RA08Aval du cycle du combustible	nombre	1.0	1.0
+MANCHE	50	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+MANCHE	50	RA08Sites d'entreposage et stockage	nombre	2.0	2.0
+MANCHE	50	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+MANCHE	50	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	13.0	13.0
+MARNE	51	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+MARNE	51	RA08Etablissements de recherche (hors CEA)	nombre	0.0	4.0
+MARNE	51	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+MARNE	51	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+MARNE	51	RA08Activités médicales	nombre	2.0	3.0
+MARNE	51	RA08Etablissements de la défense nationale	nombre	3.0	1.0
+MARNE	51	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	1.0	1.0
+MARNE	51	RA08Amont du cycle du combustible	nombre	0.0	0.0
+MARNE	51	RA08Aval du cycle du combustible	nombre	0.0	0.0
+MARNE	51	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+MARNE	51	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+MARNE	51	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	2.0
+MARNE	51	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	6.0	10.0
+MAYENNE	53	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+MAYENNE	53	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+MAYENNE	53	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+MAYENNE	53	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+MAYENNE	53	RA08Activités médicales	nombre	0.0	0.0
+MAYENNE	53	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+MAYENNE	53	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+MAYENNE	53	RA08Amont du cycle du combustible	nombre	0.0	0.0
+MAYENNE	53	RA08Aval du cycle du combustible	nombre	0.0	0.0
+MAYENNE	53	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+MAYENNE	53	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+MAYENNE	53	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+MAYENNE	53	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	0.0	0.0
+MEURTHE-ET-MOSELLE	54	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+MEURTHE-ET-MOSELLE	54	RA08Etablissements de recherche (hors CEA)	nombre	5.0	13.0
+MEURTHE-ET-MOSELLE	54	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+MEURTHE-ET-MOSELLE	54	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+MEURTHE-ET-MOSELLE	54	RA08Activités médicales	nombre	6.0	5.0
+MEURTHE-ET-MOSELLE	54	RA08Etablissements de la défense nationale	nombre	3.0	2.0
+MEURTHE-ET-MOSELLE	54	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+MEURTHE-ET-MOSELLE	54	RA08Amont du cycle du combustible	nombre	0.0	0.0
+MEURTHE-ET-MOSELLE	54	RA08Aval du cycle du combustible	nombre	0.0	0.0
+MEURTHE-ET-MOSELLE	54	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+MEURTHE-ET-MOSELLE	54	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+MEURTHE-ET-MOSELLE	54	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+MEURTHE-ET-MOSELLE	54	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	14.0	21.0
+MEUSE	55	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+MEUSE	55	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+MEUSE	55	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+MEUSE	55	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+MEUSE	55	RA08Activités médicales	nombre	0.0	0.0
+MEUSE	55	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+MEUSE	55	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+MEUSE	55	RA08Amont du cycle du combustible	nombre	0.0	0.0
+MEUSE	55	RA08Aval du cycle du combustible	nombre	0.0	0.0
+MEUSE	55	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+MEUSE	55	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+MEUSE	55	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+MEUSE	55	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	1.0
+MORBIHAN	56	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+MORBIHAN	56	RA08Etablissements de recherche (hors CEA)	nombre	0.0	1.0
+MORBIHAN	56	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+MORBIHAN	56	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+MORBIHAN	56	RA08Activités médicales	nombre	3.0	2.0
+MORBIHAN	56	RA08Etablissements de la défense nationale	nombre	2.0	1.0
+MORBIHAN	56	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+MORBIHAN	56	RA08Amont du cycle du combustible	nombre	0.0	0.0
+MORBIHAN	56	RA08Aval du cycle du combustible	nombre	0.0	0.0
+MORBIHAN	56	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+MORBIHAN	56	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+MORBIHAN	56	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+MORBIHAN	56	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	5.0	4.0
+MOSELLE	57	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+MOSELLE	57	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+MOSELLE	57	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+MOSELLE	57	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+MOSELLE	57	RA08Activités médicales	nombre	2.0	2.0
+MOSELLE	57	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+MOSELLE	57	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+MOSELLE	57	RA08Amont du cycle du combustible	nombre	0.0	0.0
+MOSELLE	57	RA08Aval du cycle du combustible	nombre	0.0	0.0
+MOSELLE	57	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+MOSELLE	57	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+MOSELLE	57	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+MOSELLE	57	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	5.0	5.0
+NIEVRE	58	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+NIEVRE	58	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+NIEVRE	58	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+NIEVRE	58	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+NIEVRE	58	RA08Activités médicales	nombre	2.0	2.0
+NIEVRE	58	RA08Etablissements de la défense nationale	nombre	2.0	2.0
+NIEVRE	58	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+NIEVRE	58	RA08Amont du cycle du combustible	nombre	0.0	0.0
+NIEVRE	58	RA08Aval du cycle du combustible	nombre	0.0	0.0
+NIEVRE	58	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+NIEVRE	58	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+NIEVRE	58	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+NIEVRE	58	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	4.0	4.0
+NORD	59	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+NORD	59	RA08Etablissements de recherche (hors CEA)	nombre	11.0	9.0
+NORD	59	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	0.0
+NORD	59	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+NORD	59	RA08Activités médicales	nombre	10.0	10.0
+NORD	59	RA08Etablissements de la défense nationale	nombre	2.0	1.0
+NORD	59	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+NORD	59	RA08Amont du cycle du combustible	nombre	0.0	0.0
+NORD	59	RA08Aval du cycle du combustible	nombre	0.0	0.0
+NORD	59	RA08Etablissements de traitements des déchets ou de maintenance	nombre	1.0	1.0
+NORD	59	RA08Sites d'entreposage et stockage	nombre	0.0	1.0
+NORD	59	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+NORD	59	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	26.0	23.0
+OISE	60	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+OISE	60	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+OISE	60	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+OISE	60	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+OISE	60	RA08Activités médicales	nombre	4.0	5.0
+OISE	60	RA08Etablissements de la défense nationale	nombre	1.0	0.0
+OISE	60	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+OISE	60	RA08Amont du cycle du combustible	nombre	0.0	0.0
+OISE	60	RA08Aval du cycle du combustible	nombre	0.0	0.0
+OISE	60	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+OISE	60	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+OISE	60	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+OISE	60	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	6.0	6.0
+ORNE	61	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+ORNE	61	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+ORNE	61	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+ORNE	61	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+ORNE	61	RA08Activités médicales	nombre	0.0	0.0
+ORNE	61	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+ORNE	61	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+ORNE	61	RA08Amont du cycle du combustible	nombre	0.0	0.0
+ORNE	61	RA08Aval du cycle du combustible	nombre	0.0	0.0
+ORNE	61	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+ORNE	61	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+ORNE	61	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+ORNE	61	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	0.0	1.0
+PARIS	75	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+PARIS	75	RA08Etablissements de recherche (hors CEA)	nombre	39.0	88.0
+PARIS	75	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	1.0
+PARIS	75	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+PARIS	75	RA08Activités médicales	nombre	29.0	25.0
+PARIS	75	RA08Etablissements de la défense nationale	nombre	2.0	1.0
+PARIS	75	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+PARIS	75	RA08Amont du cycle du combustible	nombre	0.0	0.0
+PARIS	75	RA08Aval du cycle du combustible	nombre	0.0	0.0
+PARIS	75	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+PARIS	75	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+PARIS	75	RA08Anciens sites assainis ou en cours d'assainissement	nombre	8.0	10.0
+PARIS	75	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	70.0	115.0
+PAS-DE-CALAIS	62	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+PAS-DE-CALAIS	62	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+PAS-DE-CALAIS	62	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+PAS-DE-CALAIS	62	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+PAS-DE-CALAIS	62	RA08Activités médicales	nombre	5.0	6.0
+PAS-DE-CALAIS	62	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+PAS-DE-CALAIS	62	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+PAS-DE-CALAIS	62	RA08Amont du cycle du combustible	nombre	0.0	0.0
+PAS-DE-CALAIS	62	RA08Aval du cycle du combustible	nombre	0.0	0.0
+PAS-DE-CALAIS	62	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+PAS-DE-CALAIS	62	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+PAS-DE-CALAIS	62	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+PAS-DE-CALAIS	62	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	7.0	8.0
+PUY-DE-DOME	63	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+PUY-DE-DOME	63	RA08Etablissements de recherche (hors CEA)	nombre	10.0	17.0
+PUY-DE-DOME	63	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	1.0
+PUY-DE-DOME	63	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+PUY-DE-DOME	63	RA08Activités médicales	nombre	1.0	1.0
+PUY-DE-DOME	63	RA08Etablissements de la défense nationale	nombre	2.0	2.0
+PUY-DE-DOME	63	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+PUY-DE-DOME	63	RA08Amont du cycle du combustible	nombre	1.0	1.0
+PUY-DE-DOME	63	RA08Aval du cycle du combustible	nombre	0.0	0.0
+PUY-DE-DOME	63	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+PUY-DE-DOME	63	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+PUY-DE-DOME	63	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+PUY-DE-DOME	63	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	15.0	22.0
+PYRENEES-ATLANTIQUES	64	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RA08Etablissements de recherche (hors CEA)	nombre	4.0	3.0
+PYRENEES-ATLANTIQUES	64	RA08Installations industrielles (hors production d'électricité)	nombre	3.0	7.0
+PYRENEES-ATLANTIQUES	64	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RA08Activités médicales	nombre	2.0	2.0
+PYRENEES-ATLANTIQUES	64	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RA08Amont du cycle du combustible	nombre	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RA08Aval du cycle du combustible	nombre	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+PYRENEES-ATLANTIQUES	64	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	1.0
+PYRENEES-ATLANTIQUES	64	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	9.0	12.0
+PYRENEES-ORIENTALES	66	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+PYRENEES-ORIENTALES	66	RA08Etablissements de recherche (hors CEA)	nombre	4.0	3.0
+PYRENEES-ORIENTALES	66	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+PYRENEES-ORIENTALES	66	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+PYRENEES-ORIENTALES	66	RA08Activités médicales	nombre	2.0	1.0
+PYRENEES-ORIENTALES	66	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+PYRENEES-ORIENTALES	66	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+PYRENEES-ORIENTALES	66	RA08Amont du cycle du combustible	nombre	0.0	0.0
+PYRENEES-ORIENTALES	66	RA08Aval du cycle du combustible	nombre	0.0	0.0
+PYRENEES-ORIENTALES	66	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+PYRENEES-ORIENTALES	66	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+PYRENEES-ORIENTALES	66	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+PYRENEES-ORIENTALES	66	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	6.0	4.0
+RHONE	69	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+RHONE	69	RA08Etablissements de recherche (hors CEA)	nombre	24.0	26.0
+RHONE	69	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	2.0
+RHONE	69	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+RHONE	69	RA08Activités médicales	nombre	9.0	11.0
+RHONE	69	RA08Etablissements de la défense nationale	nombre	4.0	2.0
+RHONE	69	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+RHONE	69	RA08Amont du cycle du combustible	nombre	0.0	0.0
+RHONE	69	RA08Aval du cycle du combustible	nombre	0.0	0.0
+RHONE	69	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+RHONE	69	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+RHONE	69	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+RHONE	69	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	37.0	41.0
+SAONE-ET-LOIRE	71	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+SAONE-ET-LOIRE	71	RA08Etablissements de recherche (hors CEA)	nombre	1.0	0.0
+SAONE-ET-LOIRE	71	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	0.0
+SAONE-ET-LOIRE	71	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+SAONE-ET-LOIRE	71	RA08Activités médicales	nombre	5.0	5.0
+SAONE-ET-LOIRE	71	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+SAONE-ET-LOIRE	71	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+SAONE-ET-LOIRE	71	RA08Amont du cycle du combustible	nombre	2.0	2.0
+SAONE-ET-LOIRE	71	RA08Aval du cycle du combustible	nombre	0.0	0.0
+SAONE-ET-LOIRE	71	RA08Etablissements de traitements des déchets ou de maintenance	nombre	1.0	1.0
+SAONE-ET-LOIRE	71	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+SAONE-ET-LOIRE	71	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+SAONE-ET-LOIRE	71	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	10.0	8.0
+SARTHE	72	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+SARTHE	72	RA08Etablissements de recherche (hors CEA)	nombre	1.0	2.0
+SARTHE	72	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+SARTHE	72	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+SARTHE	72	RA08Activités médicales	nombre	3.0	2.0
+SARTHE	72	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+SARTHE	72	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+SARTHE	72	RA08Amont du cycle du combustible	nombre	0.0	0.0
+SARTHE	72	RA08Aval du cycle du combustible	nombre	0.0	0.0
+SARTHE	72	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+SARTHE	72	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+SARTHE	72	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+SARTHE	72	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	5.0	5.0
+SAVOIE	73	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+SAVOIE	73	RA08Etablissements de recherche (hors CEA)	nombre	2.0	1.0
+SAVOIE	73	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+SAVOIE	73	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+SAVOIE	73	RA08Activités médicales	nombre	1.0	1.0
+SAVOIE	73	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+SAVOIE	73	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+SAVOIE	73	RA08Amont du cycle du combustible	nombre	0.0	0.0
+SAVOIE	73	RA08Aval du cycle du combustible	nombre	0.0	0.0
+SAVOIE	73	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+SAVOIE	73	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+SAVOIE	73	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+SAVOIE	73	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	4.0	3.0
+SEINE-ET-MARNE	77	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+SEINE-ET-MARNE	77	RA08Etablissements de recherche (hors CEA)	nombre	2.0	1.0
+SEINE-ET-MARNE	77	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+SEINE-ET-MARNE	77	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+SEINE-ET-MARNE	77	RA08Activités médicales	nombre	4.0	4.0
+SEINE-ET-MARNE	77	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+SEINE-ET-MARNE	77	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+SEINE-ET-MARNE	77	RA08Amont du cycle du combustible	nombre	0.0	0.0
+SEINE-ET-MARNE	77	RA08Aval du cycle du combustible	nombre	0.0	0.0
+SEINE-ET-MARNE	77	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+SEINE-ET-MARNE	77	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+SEINE-ET-MARNE	77	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+SEINE-ET-MARNE	77	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	7.0	6.0
+SEINE-MARITIME	76	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+SEINE-MARITIME	76	RA08Etablissements de recherche (hors CEA)	nombre	4.0	10.0
+SEINE-MARITIME	76	RA08Installations industrielles (hors production d'électricité)	nombre	2.0	4.0
+SEINE-MARITIME	76	RA08Centres nucléaires de production d'électricité	nombre	2.0	2.0
+SEINE-MARITIME	76	RA08Activités médicales	nombre	8.0	6.0
+SEINE-MARITIME	76	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+SEINE-MARITIME	76	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+SEINE-MARITIME	76	RA08Amont du cycle du combustible	nombre	0.0	0.0
+SEINE-MARITIME	76	RA08Aval du cycle du combustible	nombre	0.0	0.0
+SEINE-MARITIME	76	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+SEINE-MARITIME	76	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+SEINE-MARITIME	76	RA08Anciens sites assainis ou en cours d'assainissement	nombre	3.0	4.0
+SEINE-MARITIME	76	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	17.0	23.0
+SEINE-SAINT-DENIS	93	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+SEINE-SAINT-DENIS	93	RA08Etablissements de recherche (hors CEA)	nombre	4.0	5.0
+SEINE-SAINT-DENIS	93	RA08Installations industrielles (hors production d'électricité)	nombre	2.0	1.0
+SEINE-SAINT-DENIS	93	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+SEINE-SAINT-DENIS	93	RA08Activités médicales	nombre	5.0	5.0
+SEINE-SAINT-DENIS	93	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+SEINE-SAINT-DENIS	93	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+SEINE-SAINT-DENIS	93	RA08Amont du cycle du combustible	nombre	0.0	0.0
+SEINE-SAINT-DENIS	93	RA08Aval du cycle du combustible	nombre	0.0	0.0
+SEINE-SAINT-DENIS	93	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+SEINE-SAINT-DENIS	93	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+SEINE-SAINT-DENIS	93	RA08Anciens sites assainis ou en cours d'assainissement	nombre	2.0	6.0
+SEINE-SAINT-DENIS	93	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	11.0	11.0
+SOMME	80	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+SOMME	80	RA08Etablissements de recherche (hors CEA)	nombre	1.0	3.0
+SOMME	80	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+SOMME	80	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+SOMME	80	RA08Activités médicales	nombre	4.0	0.0
+SOMME	80	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+SOMME	80	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+SOMME	80	RA08Amont du cycle du combustible	nombre	0.0	0.0
+SOMME	80	RA08Aval du cycle du combustible	nombre	0.0	0.0
+SOMME	80	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+SOMME	80	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+SOMME	80	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+SOMME	80	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	6.0	4.0
+TARN	81	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+TARN	81	RA08Etablissements de recherche (hors CEA)	nombre	2.0	2.0
+TARN	81	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+TARN	81	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+TARN	81	RA08Activités médicales	nombre	4.0	3.0
+TARN	81	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+TARN	81	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+TARN	81	RA08Amont du cycle du combustible	nombre	0.0	0.0
+TARN	81	RA08Aval du cycle du combustible	nombre	0.0	0.0
+TARN	81	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+TARN	81	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+TARN	81	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+TARN	81	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	6.0	5.0
+TARN-ET-GARONNE	82	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+TARN-ET-GARONNE	82	RA08Etablissements de recherche (hors CEA)	nombre	1.0	0.0
+TARN-ET-GARONNE	82	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+TARN-ET-GARONNE	82	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+TARN-ET-GARONNE	82	RA08Activités médicales	nombre	1.0	1.0
+TARN-ET-GARONNE	82	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+TARN-ET-GARONNE	82	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+TARN-ET-GARONNE	82	RA08Amont du cycle du combustible	nombre	0.0	0.0
+TARN-ET-GARONNE	82	RA08Aval du cycle du combustible	nombre	0.0	0.0
+TARN-ET-GARONNE	82	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+TARN-ET-GARONNE	82	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+TARN-ET-GARONNE	82	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+TARN-ET-GARONNE	82	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	3.0	2.0
+TERRITOIRE-DE-BELFORT	90	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Activités médicales	nombre	1.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Etablissements de la défense nationale	nombre	1.0	2.0
+TERRITOIRE-DE-BELFORT	90	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Amont du cycle du combustible	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Aval du cycle du combustible	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+TERRITOIRE-DE-BELFORT	90	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	2.0	2.0
+VAL-D OISE	95	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+VAL-D OISE	95	RA08Etablissements de recherche (hors CEA)	nombre	1.0	1.0
+VAL-D OISE	95	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	1.0
+VAL-D OISE	95	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+VAL-D OISE	95	RA08Activités médicales	nombre	9.0	5.0
+VAL-D OISE	95	RA08Etablissements de la défense nationale	nombre	1.0	0.0
+VAL-D OISE	95	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+VAL-D OISE	95	RA08Amont du cycle du combustible	nombre	0.0	0.0
+VAL-D OISE	95	RA08Aval du cycle du combustible	nombre	0.0	0.0
+VAL-D OISE	95	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+VAL-D OISE	95	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+VAL-D OISE	95	RA08Anciens sites assainis ou en cours d'assainissement	nombre	1.0	1.0
+VAL-D OISE	95	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	12.0	7.0
+VAL-DE-MARNE	94	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+VAL-DE-MARNE	94	RA08Etablissements de recherche (hors CEA)	nombre	17.0	24.0
+VAL-DE-MARNE	94	RA08Installations industrielles (hors production d'électricité)	nombre	2.0	2.0
+VAL-DE-MARNE	94	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+VAL-DE-MARNE	94	RA08Activités médicales	nombre	8.0	7.0
+VAL-DE-MARNE	94	RA08Etablissements de la défense nationale	nombre	4.0	4.0
+VAL-DE-MARNE	94	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+VAL-DE-MARNE	94	RA08Amont du cycle du combustible	nombre	0.0	0.0
+VAL-DE-MARNE	94	RA08Aval du cycle du combustible	nombre	0.0	0.0
+VAL-DE-MARNE	94	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+VAL-DE-MARNE	94	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+VAL-DE-MARNE	94	RA08Anciens sites assainis ou en cours d'assainissement	nombre	3.0	5.0
+VAL-DE-MARNE	94	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	32.0	38.0
+VAR	83	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+VAR	83	RA08Etablissements de recherche (hors CEA)	nombre	2.0	1.0
+VAR	83	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	1.0
+VAR	83	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+VAR	83	RA08Activités médicales	nombre	1.0	1.0
+VAR	83	RA08Etablissements de la défense nationale	nombre	15.0	8.0
+VAR	83	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+VAR	83	RA08Amont du cycle du combustible	nombre	0.0	0.0
+VAR	83	RA08Aval du cycle du combustible	nombre	0.0	0.0
+VAR	83	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+VAR	83	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+VAR	83	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	3.0
+VAR	83	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	19.0	11.0
+VAUCLUSE	84	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+VAUCLUSE	84	RA08Etablissements de recherche (hors CEA)	nombre	2.0	5.0
+VAUCLUSE	84	RA08Installations industrielles (hors production d'électricité)	nombre	1.0	0.0
+VAUCLUSE	84	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+VAUCLUSE	84	RA08Activités médicales	nombre	2.0	2.0
+VAUCLUSE	84	RA08Etablissements de la défense nationale	nombre	1.0	1.0
+VAUCLUSE	84	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+VAUCLUSE	84	RA08Amont du cycle du combustible	nombre	0.0	0.0
+VAUCLUSE	84	RA08Aval du cycle du combustible	nombre	0.0	0.0
+VAUCLUSE	84	RA08Etablissements de traitements des déchets ou de maintenance	nombre	3.0	3.0
+VAUCLUSE	84	RA08Sites d'entreposage et stockage	nombre	1.0	1.0
+VAUCLUSE	84	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+VAUCLUSE	84	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	10.0	12.0
+VENDEE	85	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+VENDEE	85	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+VENDEE	85	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+VENDEE	85	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+VENDEE	85	RA08Activités médicales	nombre	1.0	1.0
+VENDEE	85	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+VENDEE	85	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+VENDEE	85	RA08Amont du cycle du combustible	nombre	1.0	1.0
+VENDEE	85	RA08Aval du cycle du combustible	nombre	0.0	0.0
+VENDEE	85	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+VENDEE	85	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+VENDEE	85	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+VENDEE	85	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	2.0	2.0
+VIENNE	86	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+VIENNE	86	RA08Etablissements de recherche (hors CEA)	nombre	6.0	6.0
+VIENNE	86	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+VIENNE	86	RA08Centres nucléaires de production d'électricité	nombre	1.0	1.0
+VIENNE	86	RA08Activités médicales	nombre	1.0	2.0
+VIENNE	86	RA08Etablissements de la défense nationale	nombre	2.0	2.0
+VIENNE	86	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+VIENNE	86	RA08Amont du cycle du combustible	nombre	0.0	0.0
+VIENNE	86	RA08Aval du cycle du combustible	nombre	0.0	0.0
+VIENNE	86	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+VIENNE	86	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+VIENNE	86	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+VIENNE	86	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	10.0	11.0
+VOSGES	88	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+VOSGES	88	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+VOSGES	88	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+VOSGES	88	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+VOSGES	88	RA08Activités médicales	nombre	1.0	2.0
+VOSGES	88	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+VOSGES	88	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+VOSGES	88	RA08Amont du cycle du combustible	nombre	0.0	0.0
+VOSGES	88	RA08Aval du cycle du combustible	nombre	0.0	0.0
+VOSGES	88	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+VOSGES	88	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+VOSGES	88	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+VOSGES	88	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	2.0
+YONNE	89	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+YONNE	89	RA08Etablissements de recherche (hors CEA)	nombre	0.0	0.0
+YONNE	89	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+YONNE	89	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+YONNE	89	RA08Activités médicales	nombre	1.0	1.0
+YONNE	89	RA08Etablissements de la défense nationale	nombre	0.0	0.0
+YONNE	89	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+YONNE	89	RA08Amont du cycle du combustible	nombre	0.0	0.0
+YONNE	89	RA08Aval du cycle du combustible	nombre	0.0	0.0
+YONNE	89	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+YONNE	89	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+YONNE	89	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+YONNE	89	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	1.0	1.0
+YVELINES	78	RA08Centres d'études et de recherche du CEA civil	nombre	0.0	0.0
+YVELINES	78	RA08Etablissements de recherche (hors CEA)	nombre	6.0	29.0
+YVELINES	78	RA08Installations industrielles (hors production d'électricité)	nombre	0.0	0.0
+YVELINES	78	RA08Centres nucléaires de production d'électricité	nombre	0.0	0.0
+YVELINES	78	RA08Activités médicales	nombre	3.0	3.0
+YVELINES	78	RA08Etablissements de la défense nationale	nombre	2.0	1.0
+YVELINES	78	RA08Centre d'étude, de production ou d'expérimentation de la force de dissuasion	nombre	0.0	0.0
+YVELINES	78	RA08Amont du cycle du combustible	nombre	0.0	0.0
+YVELINES	78	RA08Aval du cycle du combustible	nombre	0.0	0.0
+YVELINES	78	RA08Etablissements de traitements des déchets ou de maintenance	nombre	0.0	0.0
+YVELINES	78	RA08Sites d'entreposage et stockage	nombre	0.0	0.0
+YVELINES	78	RA08Anciens sites assainis ou en cours d'assainissement	nombre	0.0	0.0
+YVELINES	78	RA08Total des sites (non compris les sites assainis ou en cours d'assainissement)	nombre	11.0	33.0
+Producteur : ANDRA.
+Source : Inventaire ANDRA des déchets radioactifs.

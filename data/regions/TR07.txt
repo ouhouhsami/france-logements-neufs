@@ -1,0 +1,135 @@
+Lieu	N° région, département	Série	Unité	1999	2010
+ALSACE	42	TR07Nombre total de ménages	nombre	678837.0	778774.0
+ALSACE	42	TR07Nombre de ménages sans voiture	nombre	120400.0	133293.0
+ALSACE	42	TR07Nombre de ménages avec 1 voiture	nombre	310223.0	348108.0
+ALSACE	42	TR07Nombre de ménages avec 2 voitures ou plus	nombre	248214.0	297372.0
+ALSACE	42	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	49332.0
+ALSACE	42	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	446951.0	546773.0
+AQUITAINE	72	TR07Nombre total de ménages	nombre	1212578.0	1442479.0
+AQUITAINE	72	TR07Nombre de ménages sans voiture	nombre	195260.0	200013.0
+AQUITAINE	72	TR07Nombre de ménages avec 1 voiture	nombre	583444.0	675903.0
+AQUITAINE	72	TR07Nombre de ménages avec 2 voitures ou plus	nombre	433874.0	566563.0
+AQUITAINE	72	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	83544.0
+AQUITAINE	72	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	798520.0	1010195.0
+AUVERGNE	83	TR07Nombre total de ménages	nombre	556291.0	613953.0
+AUVERGNE	83	TR07Nombre de ménages sans voiture	nombre	102961.0	95733.0
+AUVERGNE	83	TR07Nombre de ménages avec 1 voiture	nombre	265875.0	283031.0
+AUVERGNE	83	TR07Nombre de ménages avec 2 voitures ou plus	nombre	187455.0	235189.0
+AUVERGNE	83	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	35434.0
+AUVERGNE	83	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	358141.0	421333.0
+BASSE NORMANDIE	25	TR07Nombre total de ménages	nombre	572019.0	643883.0
+BASSE NORMANDIE	25	TR07Nombre de ménages sans voiture	nombre	99428.0	94114.0
+BASSE NORMANDIE	25	TR07Nombre de ménages avec 1 voiture	nombre	289677.0	306871.0
+BASSE NORMANDIE	25	TR07Nombre de ménages avec 2 voitures ou plus	nombre	182914.0	242898.0
+BASSE NORMANDIE	25	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	31374.0
+BASSE NORMANDIE	25	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	359124.0	428356.0
+BOURGOGNE	26	TR07Nombre total de ménages	nombre	670956.0	735793.0
+BOURGOGNE	26	TR07Nombre de ménages sans voiture	nombre	122598.0	115811.0
+BOURGOGNE	26	TR07Nombre de ménages avec 1 voiture	nombre	330639.0	348834.0
+BOURGOGNE	26	TR07Nombre de ménages avec 2 voitures ou plus	nombre	217719.0	271148.0
+BOURGOGNE	26	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	37950.0
+BOURGOGNE	26	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	421221.0	479136.0
+BRETAGNE	53	TR07Nombre total de ménages	nombre	1209668.0	1418671.0
+BRETAGNE	53	TR07Nombre de ménages sans voiture	nombre	209560.0	192553.0
+BRETAGNE	53	TR07Nombre de ménages avec 1 voiture	nombre	584440.0	672821.0
+BRETAGNE	53	TR07Nombre de ménages avec 2 voitures ou plus	nombre	415668.0	553297.0
+BRETAGNE	53	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	70037.0
+BRETAGNE	53	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	812609.0	1030725.0
+CENTRE	24	TR07Nombre total de ménages	nombre	999962.0	1112753.0
+CENTRE	24	TR07Nombre de ménages sans voiture	nombre	166520.0	162992.0
+CENTRE	24	TR07Nombre de ménages avec 1 voiture	nombre	490351.0	519754.0
+CENTRE	24	TR07Nombre de ménages avec 2 voitures ou plus	nombre	343091.0	430007.0
+CENTRE	24	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	61229.0
+CENTRE	24	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	666130.0	771705.0
+CHAMPAGNE-ARDENNE	21	TR07Nombre total de ménages	nombre	540024.0	584939.0
+CHAMPAGNE-ARDENNE	21	TR07Nombre de ménages sans voiture	nombre	105819.0	106107.0
+CHAMPAGNE-ARDENNE	21	TR07Nombre de ménages avec 1 voiture	nombre	268624.0	276827.0
+CHAMPAGNE-ARDENNE	21	TR07Nombre de ménages avec 2 voitures ou plus	nombre	165581.0	202005.0
+CHAMPAGNE-ARDENNE	21	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	27706.0
+CHAMPAGNE-ARDENNE	21	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	328303.0	371505.0
+CORSE	94	TR07Nombre total de ménages	nombre	106236.0	132004.0
+CORSE	94	TR07Nombre de ménages sans voiture	nombre	22701.0	20051.0
+CORSE	94	TR07Nombre de ménages avec 1 voiture	nombre	53605.0	66109.0
+CORSE	94	TR07Nombre de ménages avec 2 voitures ou plus	nombre	29930.0	45845.0
+CORSE	94	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	7578.0
+CORSE	94	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	43660.0	68946.0
+FRANCHE COMTE	43	TR07Nombre total de ménages	nombre	452124.0	512590.0
+FRANCHE COMTE	43	TR07Nombre de ménages sans voiture	nombre	78603.0	77060.0
+FRANCHE COMTE	43	TR07Nombre de ménages avec 1 voiture	nombre	226284.0	239180.0
+FRANCHE COMTE	43	TR07Nombre de ménages avec 2 voitures ou plus	nombre	147237.0	196350.0
+FRANCHE COMTE	43	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	28137.0
+FRANCHE COMTE	43	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	295477.0	362106.0
+HAUTE NORMANDIE	23	TR07Nombre total de ménages	nombre	698563.0	778666.0
+HAUTE NORMANDIE	23	TR07Nombre de ménages sans voiture	nombre	137804.0	138357.0
+HAUTE NORMANDIE	23	TR07Nombre de ménages avec 1 voiture	nombre	354642.0	364847.0
+HAUTE NORMANDIE	23	TR07Nombre de ménages avec 2 voitures ou plus	nombre	206117.0	275462.0
+HAUTE NORMANDIE	23	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	39020.0
+HAUTE NORMANDIE	23	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	417023.0	490372.0
+ILE DE FRANCE	11	TR07Nombre total de ménages	nombre	4510369.0	4962958.0
+ILE DE FRANCE	11	TR07Nombre de ménages sans voiture	nombre	1390596.0	1621346.0
+ILE DE FRANCE	11	TR07Nombre de ménages avec 1 voiture	nombre	2191898.0	2280460.0
+ILE DE FRANCE	11	TR07Nombre de ménages avec 2 voitures ou plus	nombre	927875.0	1061152.0
+ILE DE FRANCE	11	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	144243.0
+ILE DE FRANCE	11	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	2246732.0	2655017.0
+LANGUEDOC-ROUSSILLON	91	TR07Nombre total de ménages	nombre	968654.0	1172049.0
+LANGUEDOC-ROUSSILLON	91	TR07Nombre de ménages sans voiture	nombre	187760.0	190044.0
+LANGUEDOC-ROUSSILLON	91	TR07Nombre de ménages avec 1 voiture	nombre	484667.0	579568.0
+LANGUEDOC-ROUSSILLON	91	TR07Nombre de ménages avec 2 voitures ou plus	nombre	296227.0	402437.0
+LANGUEDOC-ROUSSILLON	91	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	55271.0
+LANGUEDOC-ROUSSILLON	91	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	597909.0	770466.0
+LIMOUSIN	74	TR07Nombre total de ménages	nombre	311603.0	345997.0
+LIMOUSIN	74	TR07Nombre de ménages sans voiture	nombre	56987.0	53092.0
+LIMOUSIN	74	TR07Nombre de ménages avec 1 voiture	nombre	148165.0	160996.0
+LIMOUSIN	74	TR07Nombre de ménages avec 2 voitures ou plus	nombre	106451.0	131909.0
+LIMOUSIN	74	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	20222.0
+LIMOUSIN	74	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	201378.0	239944.0
+LORRAINE	41	TR07Nombre total de ménages	nombre	908678.0	1009162.0
+LORRAINE	41	TR07Nombre de ménages sans voiture	nombre	178803.0	171972.0
+LORRAINE	41	TR07Nombre de ménages avec 1 voiture	nombre	444235.0	470849.0
+LORRAINE	41	TR07Nombre de ménages avec 2 voitures ou plus	nombre	285640.0	366342.0
+LORRAINE	41	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	56954.0
+LORRAINE	41	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	574752.0	687276.0
+MIDI-PYRENEES	73	TR07Nombre total de ménages	nombre	1070772.0	1288040.0
+MIDI-PYRENEES	73	TR07Nombre de ménages sans voiture	nombre	177996.0	184270.0
+MIDI-PYRENEES	73	TR07Nombre de ménages avec 1 voiture	nombre	501655.0	595093.0
+MIDI-PYRENEES	73	TR07Nombre de ménages avec 2 voitures ou plus	nombre	391121.0	508677.0
+MIDI-PYRENEES	73	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	76868.0
+MIDI-PYRENEES	73	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	713276.0	909705.0
+NORD-PAS-DE-CALAIS	31	TR07Nombre total de ménages	nombre	1491693.0	1642688.0
+NORD-PAS-DE-CALAIS	31	TR07Nombre de ménages sans voiture	nombre	364046.0	352557.0
+NORD-PAS-DE-CALAIS	31	TR07Nombre de ménages avec 1 voiture	nombre	743937.0	772439.0
+NORD-PAS-DE-CALAIS	31	TR07Nombre de ménages avec 2 voitures ou plus	nombre	383710.0	517692.0
+NORD-PAS-DE-CALAIS	31	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	70037.0
+NORD-PAS-DE-CALAIS	31	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	830253.0	1001427.0
+PAYS DE LA LOIRE	52	TR07Nombre total de ménages	nombre	1292740.0	1531069.0
+PAYS DE LA LOIRE	52	TR07Nombre de ménages sans voiture	nombre	208812.0	203678.0
+PAYS DE LA LOIRE	52	TR07Nombre de ménages avec 1 voiture	nombre	628839.0	711795.0
+PAYS DE LA LOIRE	52	TR07Nombre de ménages avec 2 voitures ou plus	nombre	455089.0	615596.0
+PAYS DE LA LOIRE	52	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	77196.0
+PAYS DE LA LOIRE	52	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	873872.0	1092335.0
+PICARDIE	22	TR07Nombre total de ménages	nombre	700971.0	780669.0
+PICARDIE	22	TR07Nombre de ménages sans voiture	nombre	130818.0	128650.0
+PICARDIE	22	TR07Nombre de ménages avec 1 voiture	nombre	351149.0	360914.0
+PICARDIE	22	TR07Nombre de ménages avec 2 voitures ou plus	nombre	219004.0	291105.0
+PICARDIE	22	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	42457.0
+PICARDIE	22	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	423876.0	488459.0
+POITOU-CHARENTES	54	TR07Nombre total de ménages	nombre	687268.0	796616.0
+POITOU-CHARENTES	54	TR07Nombre de ménages sans voiture	nombre	105189.0	103873.0
+POITOU-CHARENTES	54	TR07Nombre de ménages avec 1 voiture	nombre	334845.0	375243.0
+POITOU-CHARENTES	54	TR07Nombre de ménages avec 2 voitures ou plus	nombre	247234.0	317499.0
+POITOU-CHARENTES	54	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	44051.0
+POITOU-CHARENTES	54	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	472329.0	569640.0
+PROVENCE-ALPES-COTE D AZUR	93	TR07Nombre total de ménages	nombre	1896302.0	2161998.0
+PROVENCE-ALPES-COTE D AZUR	93	TR07Nombre de ménages sans voiture	nombre	407613.0	414574.0
+PROVENCE-ALPES-COTE D AZUR	93	TR07Nombre de ménages avec 1 voiture	nombre	950671.0	1062530.0
+PROVENCE-ALPES-COTE D AZUR	93	TR07Nombre de ménages avec 2 voitures ou plus	nombre	538018.0	684894.0
+PROVENCE-ALPES-COTE D AZUR	93	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	101702.0
+PROVENCE-ALPES-COTE D AZUR	93	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	1030864.0	1291400.0
+RHONE-ALPES	82	TR07Nombre total de ménages	nombre	2273853.0	2661247.0
+RHONE-ALPES	82	TR07Nombre de ménages sans voiture	nombre	410731.0	429284.0
+RHONE-ALPES	82	TR07Nombre de ménages avec 1 voiture	nombre	1086700.0	1236634.0
+RHONE-ALPES	82	TR07Nombre de ménages avec 2 voitures ou plus	nombre	776422.0	995329.0
+RHONE-ALPES	82	TR07Nombre de ménages avec 3 voitures ou plus	nombre	ND	146355.0
+RHONE-ALPES	82	TR07Nombre de ménages disposant d'au moins un emplacement réservé au stationnement	nombre	1383393.0	1750091.0
+Producteur : INSEE (Institut National de la Statistique et des Etudes Economiques).
+Source : Recensement de la population.
