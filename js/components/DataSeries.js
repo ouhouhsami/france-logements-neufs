@@ -1,19 +1,44 @@
 /** @jsx React.DOM */
 
-var React = require('react');
+var React = require('react/addons');
 var d3 = require('d3');
 var DataSeriesStore = require('../stores/DataSeriesStore.js');
 var DataSeriesActions = require('../actions/DataSeriesActions.js');
 
 var Serie = React.createClass({
+  getInitialState: function() {
+    return {active: false};
+  },
   handleClick: function(event) {
-    console.log('update', this.props.label, this.props.dataSerie);
     DataSeriesActions.set(this.props.dataSerie, this.props.label);
   },
+  componentDidMount: function() {
+    DataSeriesStore.addChangeListener(this._onChange);
+  },
+  componentWillUnmount: function() {
+    DataSeriesStore.removeChangeListener(this._onChange);
+  },
+  _onChange: function(event) {
+    this.setState({active: true})
+    var ds = DataSeriesStore.get()
+    if (ds.currentDataSerie === this.props.dataSerie && ds.currentYear === this.props.label){
+      this.setState({active: true})
+    } else{
+      this.setState({active: false})
+    }
+  },
+
   render: function(){
+    var cx = React.addons.classSet;
+    var classes = cx({
+      'btn': true,
+      'btn-default': true,
+      'btn-xs': true,
+      'active': this.state.active
+    });
     return(
       <span>
-        <a className="btn btn-default btn-xs" onClick={this.handleClick}>{this.props.label}</a>&nbsp;
+        <a className={classes} onClick={this.handleClick}>{this.props.label}</a>&nbsp;
       </span>
     );
   }
@@ -53,6 +78,7 @@ var DataSeries = React.createClass({
 
   _onChange: function(event) {
     this.setState({dataSeries: DataSeriesStore.get().data})
+    console.log(this.props.children);
   },
   handleScaleChange: function(event){
     DataSeriesActions.setScale(event.target.value);
@@ -72,13 +98,19 @@ var DataSeries = React.createClass({
 
       }
     })
-    return (
-      <div>
-        Affichage des données :
+    if(dataSeries.length > 0){
+    var selectScale = <div>
+    Affichage des données :
         <select value={this.state.scale} onChange={this.handleScaleChange}>
           <option value="absolute">Absolue (max et min de la série de l'année sélectionnée)</option>
           <option value="relative">Relative (max et min de la série dans son intégralité)</option>
-        </select>
+        </select></div>
+    }else {
+      var selectScale = null
+    }
+    return (
+      <div>
+        {selectScale}
         {dataSeries}
       </div>
     );

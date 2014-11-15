@@ -33,6 +33,10 @@ function update(geojson, data) {
       })
       .map(data, d3.map);
   _dataSeries.data = nestedData;
+  _dataSeries.currentYear = null;
+  _dataSeries.currentDataSerie = null;
+  _dataSeries.min = null;
+  _dataSeries.max = null;
 }
 
 function set(currentDataSerie, currentYear){

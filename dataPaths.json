@@ -1,0 +1,126 @@
+{
+  "parent": "..",
+  "path": "",
+  "name": "data",
+  "type": "directory",
+  "children": [
+    {
+      "parent": "",
+      "path": "departments",
+      "name": "departments",
+      "type": "directory",
+      "children": [
+        {
+          "parent": "departments",
+          "path": "departments/.DS_Store",
+          "name": ".DS_Store",
+          "type": "file"
+        },
+        {
+          "parent": "departments",
+          "path": "departments/RA08.txt",
+          "name": "RA08.txt",
+          "type": "file"
+        },
+        {
+          "parent": "departments",
+          "path": "departments/RI03.txt",
+          "name": "RI03.txt",
+          "type": "file"
+        },
+        {
+          "parent": "departments",
+          "path": "departments/TO01.txt",
+          "name": "TO01.txt",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "",
+      "path": "regions",
+      "name": "regions",
+      "type": "directory",
+      "children": [
+        {
+          "parent": "regions",
+          "path": "regions/ES17.txt",
+          "name": "ES17.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/AI02.txt",
+          "name": "AI02.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/AI20.txt",
+          "name": "AI20.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/BR02.txt",
+          "name": "BR02.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/EA04.txt",
+          "name": "EA04.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/ES16.txt",
+          "name": "ES16.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/AI05.txt",
+          "name": "AI05.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/LO06.txt",
+          "name": "LO06.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/RA08.txt",
+          "name": "RA08.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/RI03.txt",
+          "name": "RI03.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/TR05.txt",
+          "name": "TR05.txt",
+          "type": "file"
+        },
+        {
+          "parent": "regions",
+          "path": "regions/TR07.txt",
+          "name": "TR07.txt",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "",
+      "path": ".DS_Store",
+      "name": ".DS_Store",
+      "type": "file"
+    }
+  ]
+}

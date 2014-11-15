@@ -18,8 +18,8 @@ var Map = React.createClass({
     return {
       features: [],
       nestedData: null,
-      currentDataSerie: "LO06Prix de vente moyen d'une maison individuelle neuve (en euros)",
-      currentYear:1995,
+      currentDataSerie: null,
+      currentYear:null,
       min: null,
       max: null
     };
@@ -72,14 +72,17 @@ var Map = React.createClass({
                 <path d={path(feature)} fill={fill(feature)} />
             )
         })
-        var c = color
-        var legend = color.range().map(function(color){
+        if(regions.length > 0){
+          // ugly hack to prevent drawing the legend if no regions
+          var c = color
+          var legend = color.range().map(function(color){
           var styleColor = {
-            backgroundColor: color
+            borderTopColor: color
           }
-          var text = Number(parseFloat(c.invertExtent(color))).toFixed(2);
-          return (<li className="key" style={styleColor}>{text}</li>)
-        })
+          var text = Math.ceil(Number(parseFloat(c.invertExtent(color))));
+            return (<li className="key" style={styleColor}>{text}</li>)
+          })
+        }
     return (
       <div>
             <div id="legend">
